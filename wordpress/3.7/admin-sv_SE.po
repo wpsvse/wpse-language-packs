@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Administration package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2013-10-23 02:27+0100\n"
+"PO-Revision-Date: 2013-10-24 03:27+0100\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -15,6 +15,13 @@ msgstr ""
 "Language: Svenska\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
+#: wp-admin/about.php:79
+msgid ""
+"This site <strong>is not</strong> able to apply these updates automatically."
+msgstr ""
+"Den här webbplatsen <strong>kan inte</strong> genomföra dessa uppdateringar "
+"automatiskt."
+
 #: wp-admin/includes/class-wp-upgrader.php:1374
 #: wp-admin/includes/update-core.php:664 wp-admin/includes/update-core.php:732
 msgid ""
@@ -24,11 +31,11 @@ msgstr ""
 "Uppdateringen kan inte installeras eftersom vi inte kommer kunna kopiera "
 "vissa filer. Detta beror oftast på inkonsekventa filrättigheter."
 
-#: wp-admin/includes/class-wp-upgrader.php:2177
+#: wp-admin/includes/class-wp-upgrader.php:2195
 msgid "WordPress %s is also now available."
 msgstr "WordPress %s är också tillgängligt nu."
 
-#: wp-admin/includes/class-wp-upgrader.php:2201
+#: wp-admin/includes/class-wp-upgrader.php:2219
 msgid ""
 "Your site at %1$s experienced a critical failure while trying to update "
 "WordPress to version %2$s."
@@ -36,7 +43,7 @@ msgstr ""
 "Ett kritiskt fel uppstod på din webbplats på %1$s vid uppdatering av "
 "WordPress till version %2$s."
 
-#: wp-admin/includes/class-wp-upgrader.php:2230
+#: wp-admin/includes/class-wp-upgrader.php:2248
 msgid "Your site was running version %s."
 msgstr "Din webbplats använder version %s."
 
@@ -90,7 +97,7 @@ msgstr ""
 "WordPress 3.8 släpps, men vi har aldrig haft mer förtroende för den vackra "
 "blå knappen."
 
-#: wp-admin/about.php:68
+#: wp-admin/about.php:67
 msgid ""
 "This site <strong>is</strong> able to apply these updates automatically. "
 "Cool!"
@@ -98,7 +105,7 @@ msgstr ""
 "Den här webbplatsen <strong>kan</strong> genomföra dessa uppdateringar "
 "automatiskt. Coolt!"
 
-#: wp-admin/about.php:70
+#: wp-admin/about.php:77
 msgid ""
 "This site <strong>is not</strong> able to apply these updates automatically. "
 "But we&#8217;ll email %s when there is a new security release."
@@ -107,11 +114,11 @@ msgstr ""
 "automatiskt. Men vi kommer skicka ett meddelande till %s när nya "
 "säkerhetsuppdateringar är tillgängliga."
 
-#: wp-admin/about.php:76
+#: wp-admin/about.php:89
 msgid "Create Stronger Passwords"
 msgstr "Skapa säkrare lösenord"
 
-#: wp-admin/about.php:80
+#: wp-admin/about.php:93
 msgid ""
 "Your password is your site&#8217;s first line of defense. It&#8217;s best to "
 "create passwords that are complex, long, and unique. To that end, our "
@@ -119,25 +126,25 @@ msgid ""
 "mistakes that can weaken your password: dates, names, keyboard patterns "
 "(123456789), and even pop culture references."
 msgstr ""
-"Ditt lösenord är webbplatsens första försvarslinje. Det är bäst att skapa "
+"Ditt lösenord är webbplatsens första försvarslinje. Det bästa är att skapa "
 "lösenord som är komplexa, långa och unika. Därför har vår lösenordsmätare "
 "uppdaterats i WordPress 3.7 för att känna igen vanliga misstag som kan "
 "försvaga ditt lösenord: datum, namn, tangentbordsmönster (123456789), och "
 "även referenser till populärkultur."
 
-#: wp-admin/about.php:81
+#: wp-admin/about.php:94
 msgid "Try it out on the right."
 msgstr "Testa den till höger."
 
-#: wp-admin/about.php:86
+#: wp-admin/about.php:99
 msgid "Getting the urge to <a href=\"%s\">change your password</a>?"
 msgstr "Blir du sugen på att <a href=\"%s\">ändra ditt lösenord</a>?"
 
-#: wp-admin/about.php:94
+#: wp-admin/about.php:107
 msgid "Improved Search Results"
 msgstr "Förbättrade sökresultat"
 
-#: wp-admin/about.php:95
+#: wp-admin/about.php:108
 msgid ""
 "Search results are now ordered by how well the search query matches a post, "
 "instead of ordered only by date. For example, when your search terms match a "
@@ -147,11 +154,11 @@ msgstr ""
 "att endast ordnas efter datum. Exempel, när dina söktermer matchar en "
 "posttitel så kommer det resultatet att hamna högre upp."
 
-#: wp-admin/about.php:98
+#: wp-admin/about.php:111
 msgid "Better Global Support"
 msgstr "Förbättrad globalt stöd"
 
-#: wp-admin/about.php:99
+#: wp-admin/about.php:112
 msgid ""
 "Localized versions of WordPress will receive faster and more complete "
 "translations. WordPress 3.7 adds support for automatically installing the "
@@ -159,13 +166,13 @@ msgid ""
 msgstr ""
 "Lokaliserade versioner av WordPress kommer att få snabbare och mer kompletta "
 "översättningar. WordPress 3.7 har stöd för att automatiskt installera rätt "
-"språkfiler och hålla dem uppdaterade."
+"språkfiler och hålla dom uppdaterade."
 
-#: wp-admin/about.php:109
+#: wp-admin/about.php:122
 msgid "More Background Updates (Experimental)"
 msgstr "Fler bakgrundsuppdateringar (experimentellt)"
 
-#: wp-admin/about.php:110
+#: wp-admin/about.php:123
 msgid ""
 "Want WordPress to always update automatically, even for major feature "
 "releases? Want to always keep a certain plugin up to date in the background? "
@@ -174,14 +181,14 @@ msgid ""
 msgstr ""
 "Vill du att WordPress alltid uppdateras automatiskt, även för helversioner? "
 "Vill du alltid hålla ett visst tillägg uppdaterat i bakgrunden? WordPress "
-"3.7 kommer med fininställda uppdateringskontroller för utvecklare och "
+"3.7 kommer med finkalibrerade  uppdateringskontroller för utvecklare och "
 "systemadministratörer."
 
-#: wp-admin/about.php:113
+#: wp-admin/about.php:126
 msgid "Advanced Date Queries"
 msgstr "Avancerade datum-förfrågningar"
 
-#: wp-admin/about.php:114
+#: wp-admin/about.php:127
 msgid ""
 "Developers can now query for posts within a date range, or that are older "
 "than or newer than a specific point in time. Or get really fancy: all posts "
@@ -191,7 +198,7 @@ msgstr ""
 "nyare än en specifik tidpunkt. Eller varför inte hämta alla inlägg skrivna "
 "på fredagseftermiddagar? Inga problem."
 
-#: wp-admin/about.php:118
+#: wp-admin/about.php:131
 msgid ""
 "<code>wp_get_sites()</code> allows developers to easily get an array of all "
 "the sites on your network without resorting to a direct database query "
@@ -207,56 +214,56 @@ msgid "Update Translations"
 msgstr "Uppdatera översättningar"
 
 #: wp-admin/includes/class-wp-upgrader-skins.php:558
-#: wp-admin/includes/class-wp-upgrader.php:1871
+#: wp-admin/includes/class-wp-upgrader.php:1889
 msgid "Updating translations for %1$s (%2$s)&#8230;"
 msgstr "Uppdaterar översättningar för %1$s (%2$s)&#8230;"
 
-#: wp-admin/includes/class-wp-upgrader.php:1870
+#: wp-admin/includes/class-wp-upgrader.php:1888
 msgid "Translations for %s"
 msgstr "Översättningar för %s"
 
-#: wp-admin/includes/class-wp-upgrader.php:2140
+#: wp-admin/includes/class-wp-upgrader.php:2158
 msgid "[%1$s] Your site has updated to WordPress %2$s"
 msgstr "[%1$s] Din webbplats har uppdaterats till WordPress %2$s"
 
-#: wp-admin/includes/class-wp-upgrader.php:2146
+#: wp-admin/includes/class-wp-upgrader.php:2164
 msgid "[%1$s] WordPress %2$s is available. Please update!"
 msgstr "[%1$s] WordPress %2$s finns tillgängligt. Vänligen uppdatera!"
 
-#: wp-admin/includes/class-wp-upgrader.php:2151
+#: wp-admin/includes/class-wp-upgrader.php:2169
 msgid "[%1$s] URGENT: Your site may be down due to a failed update"
 msgstr ""
 "[%1$s] BRÅDSKANDE: Din webbplats kan ligga nera pga en misslyckad uppdatering"
 
-#: wp-admin/includes/class-wp-upgrader.php:2166
+#: wp-admin/includes/class-wp-upgrader.php:2184
 msgid ""
 "Howdy! Your site at %1$s has been updated automatically to WordPress %2$s."
 msgstr ""
 "Hejsan! Din webbplats på %1$s har automatiskt uppdaterats till WordPress "
 "%2$s."
 
-#: wp-admin/includes/class-wp-upgrader.php:2169
+#: wp-admin/includes/class-wp-upgrader.php:2187
 msgid "No further action is needed on your part."
 msgstr "Ingen ytterligare åtgärd krävs från din sida."
 
-#: wp-admin/includes/class-wp-upgrader.php:2173
+#: wp-admin/includes/class-wp-upgrader.php:2191
 msgid "For more on version %s, see the About WordPress screen:"
 msgstr "För mer om version %s, se sidan Om WordPress:"
 
-#: wp-admin/includes/class-wp-upgrader.php:2186
+#: wp-admin/includes/class-wp-upgrader.php:2204
 msgid "Please update your site at %1$s to WordPress %2$s."
 msgstr "Vänligen uppdatera din webbplats på %1$s till WordPress %2$s."
 
-#: wp-admin/includes/class-wp-upgrader.php:2193
+#: wp-admin/includes/class-wp-upgrader.php:2211
 msgid "We tried but were unable to update your site automatically."
 msgstr "Vi försökte, men kunde inte, uppdatera din webbplats automatiskt."
 
-#: wp-admin/includes/class-wp-upgrader.php:2178
-#: wp-admin/includes/class-wp-upgrader.php:2195
+#: wp-admin/includes/class-wp-upgrader.php:2196
+#: wp-admin/includes/class-wp-upgrader.php:2213
 msgid "Updating is easy and only takes a few moments:"
 msgstr "Att uppdatera är enkelt och är snabbt gjort:"
 
-#: wp-admin/includes/class-wp-upgrader.php:2203
+#: wp-admin/includes/class-wp-upgrader.php:2221
 msgid ""
 "Your site at %1$s experienced a critical failure while trying to update to "
 "the latest version of WordPress, %2$s."
@@ -264,7 +271,7 @@ msgstr ""
 "Din webbplats på %1$s upplevde kritiska fel vid uppdatering till den senaste "
 "versionen av WordPress, %2$s"
 
-#: wp-admin/includes/class-wp-upgrader.php:2205
+#: wp-admin/includes/class-wp-upgrader.php:2223
 msgid ""
 "This means your site may be offline or broken. Don't panic; this can be "
 "fixed."
@@ -272,7 +279,7 @@ msgstr ""
 "Det betyder att din webbplats kan vara offline eller inte fungerar som den "
 "ska. Få inte panik, det går att lösa."
 
-#: wp-admin/includes/class-wp-upgrader.php:2207
+#: wp-admin/includes/class-wp-upgrader.php:2225
 msgid ""
 "Please check out your site now. It's possible that everything is working. If "
 "it says you need to update, you should do so:"
@@ -280,7 +287,7 @@ msgstr ""
 "Vänligen kontrollera din webbplats nu. Saker kan fortfarande fungera som dom "
 "ska. Om du blir uppmanad att uppdatera så bör du göra det:"
 
-#: wp-admin/includes/class-wp-upgrader.php:2214
+#: wp-admin/includes/class-wp-upgrader.php:2232
 msgid ""
 "Keeping your site updated is important for security. It also makes the "
 "internet a safer place for you and your readers."
@@ -288,7 +295,7 @@ msgstr ""
 "Att hålla din webbplats uppdatera är viktigt för säkerheten. Det gör även "
 "Internet till en säkrare plats för dig och dina besökare."
 
-#: wp-admin/includes/class-wp-upgrader.php:2217
+#: wp-admin/includes/class-wp-upgrader.php:2235
 msgid ""
 "If you experience any issues or need support, the volunteers in the "
 "WordPress.org support forums may be able to help."
@@ -296,22 +303,22 @@ msgstr ""
 "Om du upplever problem eller behöver support så kan kanske supportforumet på "
 "WordPress.org vara till hjälp."
 
-#: wp-admin/includes/class-wp-upgrader.php:2222
+#: wp-admin/includes/class-wp-upgrader.php:2240
 msgid ""
 "You also have some plugins or themes with updates available. Update them now:"
 msgstr ""
 "Du har även ett par tillägg eller teman med uppdateringar tillgängliga. "
 "Uppdatera dessa nu:"
 
-#: wp-admin/includes/class-wp-upgrader.php:2226
+#: wp-admin/includes/class-wp-upgrader.php:2244
 msgid "The WordPress Team"
 msgstr "WordPress-teamet"
 
-#: wp-admin/includes/class-wp-upgrader.php:2231
+#: wp-admin/includes/class-wp-upgrader.php:2249
 msgid "We have some data that describes the error your site encountered."
 msgstr "Vi har lite data som beskriver felet som uppstod på din webbplats."
 
-#: wp-admin/includes/class-wp-upgrader.php:2232
+#: wp-admin/includes/class-wp-upgrader.php:2250
 msgid ""
 "Your hosting company, support forum volunteers, or a friendly developer may "
 "be able to use this information to help you:"
@@ -319,7 +326,7 @@ msgstr ""
 "Ditt webbhotell, personer i supportforumet eller utvecklare kan använda "
 "denna information för att hjälpa dig:"
 
-#: wp-admin/includes/class-wp-upgrader.php:2245
+#: wp-admin/includes/class-wp-upgrader.php:2263
 msgid "Error code: %s"
 msgstr "Felkod: %s"
 
@@ -383,11 +390,11 @@ msgstr "Uppdatering av översättning misslyckades."
 msgid "Translation updated successfully."
 msgstr "Översättning uppdaterad."
 
-#: wp-admin/includes/class-wp-upgrader.php:1861
+#: wp-admin/includes/class-wp-upgrader.php:1879
 msgid "Updating theme: %s"
 msgstr "Uppdaterar tema: %s"
 
-#: wp-admin/includes/class-wp-upgrader.php:1866
+#: wp-admin/includes/class-wp-upgrader.php:1884
 msgid "Updating plugin: %s"
 msgstr "Uppdaterar tillägg: %s"
 
@@ -498,11 +505,11 @@ msgstr ""
 "På grund av ett fel vid uppdateringen så har WordPress återställts till din "
 "tidigare använda version."
 
-#: wp-admin/includes/class-wp-upgrader.php:1855
+#: wp-admin/includes/class-wp-upgrader.php:1873
 msgid "Updating to WordPress %s"
 msgstr "Uppdaterar WordPress till version %s"
 
-#: wp-admin/includes/class-wp-upgrader.php:1856
+#: wp-admin/includes/class-wp-upgrader.php:1874
 msgid "WordPress %s"
 msgstr "WordPress %s"
 
@@ -1427,7 +1434,7 @@ msgstr ""
 "inbäddningar, <a href=\"http://codex.wordpress.org/Embeds\">se "
 "dokumentationen för WordPress</a>."
 
-#: wp-admin/about.php:117
+#: wp-admin/about.php:130
 msgid "Multisite Improvements"
 msgstr "Förbättringar för multisites"
 
@@ -3604,7 +3611,7 @@ msgstr "Bidragande utvecklare"
 msgid "Show Toolbar when viewing site"
 msgstr "Visa verktygsrad på framsidan"
 
-#: wp-admin/about.php:153
+#: wp-admin/about.php:166
 msgid ""
 "<strong>Version %1$s</strong> addressed a security issue and fixed %2$s bug."
 msgid_plural ""
@@ -3614,11 +3621,11 @@ msgstr[0] ""
 msgstr[1] ""
 "<strong>Version %1$s</strong> åtgärdar en säkerhetsrisk och %2$s buggar."
 
-#: wp-admin/about.php:160
+#: wp-admin/about.php:173
 msgid "For more information, see <a href=\"%s\">the release notes</a>."
 msgstr "För mer information, se <a href=\"%s\">detaljer för releasen</a>."
 
-#: wp-admin/about.php:157
+#: wp-admin/about.php:170
 msgid ""
 "<strong>Version %1$s</strong> addressed some security issues and fixed %2$s "
 "bug."
@@ -3631,7 +3638,7 @@ msgstr[1] ""
 "<strong>Version %1$s</strong> åtgärdar ett par säkerhetsrisker och %2$s "
 "buggar."
 
-#: wp-admin/about.php:149
+#: wp-admin/about.php:162
 msgid "<strong>Version %1$s</strong> addressed %2$s bug."
 msgid_plural "<strong>Version %1$s</strong> addressed %2$s bugs."
 msgstr[0] "<strong>Version %1$s</strong> åtgärdar %2$s bugg."
@@ -3649,7 +3656,7 @@ msgstr ""
 "administrativa sidor för att hantera din webbplats.. Du kan hitta hjälp för "
 "alla sidor i administrationen genom att klicka på fliken Hjälp uppe i hörnet."
 
-#: wp-admin/about.php:142
+#: wp-admin/about.php:155
 msgid "Maintenance and Security Release"
 msgid_plural "Maintenance and Security Releases"
 msgstr[0] "Underhålls och säkerhetsrelease"
@@ -3659,19 +3666,19 @@ msgstr[1] "Underhålls och säkerhetsreleaser"
 msgid "What&#8217;s New"
 msgstr "Vad är nytt"
 
-#: wp-admin/about.php:141
+#: wp-admin/about.php:154
 msgid "Security Release"
 msgid_plural "Security Releases"
 msgstr[0] "Säkerhetsrelease"
 msgstr[1] "Säkerhetsreleaser"
 
-#: wp-admin/about.php:140
+#: wp-admin/about.php:153
 msgid "Maintenance Release"
 msgid_plural "Maintenance Releases"
 msgstr[0] "Underhållsrelease"
 msgstr[1] "Underhållsreleaser"
 
-#: wp-admin/about.php:145
+#: wp-admin/about.php:158
 msgid "<strong>Version %1$s</strong> addressed a security issue."
 msgid_plural "<strong>Version %1$s</strong> addressed some security issues."
 msgstr[0] "<strong>Version %1$s</strong> åtgärdar en säkerhetsrisk."
@@ -3686,7 +3693,7 @@ msgstr ""
 "välja mellan vanligt använda inställningar eller skapa en anpassad URL-"
 "struktur."
 
-#: wp-admin/about.php:125
+#: wp-admin/about.php:138
 msgid "Return to Updates"
 msgstr "Återgå till uppdateringar"
 
@@ -4340,11 +4347,11 @@ msgstr ""
 msgid "Welcome to WordPress %s"
 msgstr "Välkommen till WordPress %s"
 
-#: wp-admin/about.php:129
+#: wp-admin/about.php:142
 msgid "Go to Dashboard &rarr; Home"
 msgstr "Gå till Adminpanel &rarr; Hem"
 
-#: wp-admin/about.php:125
+#: wp-admin/about.php:138
 msgid "Return to Dashboard &rarr; Updates"
 msgstr "Återgå till Adminpanel &rarr; Uppdateringar"
 
@@ -4386,7 +4393,7 @@ msgstr "Ny funktion: Verktygsfält"
 msgid "Core Developers"
 msgstr "Kärnutvecklare"
 
-#: wp-admin/about.php:105
+#: wp-admin/about.php:118
 msgid "Under the Hood"
 msgstr "Under huven"
 
@@ -8354,7 +8361,7 @@ msgstr ""
 "org/Version_%1$s\">WordPress %1$s</a> kräver minst MySQL %2$s eller nyare. "
 "Du kör MySQL %3$s."
 
-#: wp-admin/includes/class-wp-upgrader.php:1887
+#: wp-admin/includes/class-wp-upgrader.php:1905
 #: wp-admin/includes/update-core.php:984 wp-admin/update-core.php:418
 msgid "WordPress updated successfully"
 msgstr "WordPress uppdaterades utan problem"
@@ -8464,7 +8471,7 @@ msgctxt "theme"
 msgid "Install Themes"
 msgstr "Installera teman"
 
-#: wp-admin/about.php:129
+#: wp-admin/about.php:142
 msgid "Go to Dashboard"
 msgstr "Gå till adminpanelen"
 
@@ -10174,7 +10181,7 @@ msgstr ""
 msgid "Compatibility with WordPress %1$s: Unknown"
 msgstr "Kompatibilitet med WordPress %1$s: Okänt"
 
-#: wp-admin/includes/class-wp-upgrader.php:1885 wp-admin/update-core.php:413
+#: wp-admin/includes/class-wp-upgrader.php:1903 wp-admin/update-core.php:413
 msgid "Installation Failed"
 msgstr "Installationen misslyckades"
 

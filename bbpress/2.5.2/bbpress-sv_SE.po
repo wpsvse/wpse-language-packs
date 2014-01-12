@@ -1,0 +1,5388 @@
+# Translation of Development in Swedish
+# This file is distributed under the same license as the Development package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2014-01-12 17:07+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.3\n"
+"Project-Id-Version: bbPress sv_SE 2.5.2\n"
+"POT-Creation-Date: \n"
+"Last-Translator: Mattias Tengblad <mst@eyesx.com>\n"
+"Language-Team: WordPress Sverige <info@wpsv.se>\n"
+"Language: sv_SE\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: includes/admin/admin.php:634
+msgctxt "admin color scheme"
+msgid "Mint"
+msgstr "Mint"
+
+#: includes/admin/admin.php:643
+msgctxt "admin color scheme"
+msgid "Evergreen"
+msgstr "Evergreen"
+
+#: includes/admin/settings.php:581
+msgid "Allow users to subscribe to forums and topics"
+msgstr "Tillåt användare att prenumerera på forum och ämnen"
+
+#: includes/admin/admin.php:781
+msgid "Converters"
+msgstr "Konverterare"
+
+#: includes/admin/admin.php:785
+msgid ""
+"We&#8217;re all abuzz about the hive of new importers, AEF, Drupal, FluxBB, "
+"Kunena Forums for Joomla, MyBB, Phorum, PHPFox, PHPWind, PunBB, SMF, Xenforo "
+"and XMB. Existing importers are now sweeter than honey with improved "
+"importing stickies, topic tags, forum categories and the sting is now gone "
+"if you need to remove imported users."
+msgstr ""
+"Vi sprudlar alla av lycka inför svärmen av nya importerare, AEF, Drupal, "
+"FluxBB, Kunena Forums for Joomla, MyBB, Phorum, PHPFox, PHPWind, PunBB, SMF, "
+"Xenforo and XMB. Alla existerande importerare går som smör i solsken med "
+"förbättringar för importering av klistrade inlägg, ämnestaggar, "
+"forumkategorier och behöver du ta bort importerade användare så ska inte "
+"tidigare problem uppkomma."
+
+#: includes/admin/admin.php:797
+msgid "bbPress fully supports automatic translation updates."
+msgstr "bbPress har stöd för automatiska uppdateringar av översättningar."
+
+#: includes/extend/buddypress/notifications.php:55
+msgid "You have %d new reply to %2$s from %3$s"
+msgstr "Du har %d nytt svar till %2$s av %3$s"
+
+#: includes/extend/buddypress/notifications.php:165
+msgid ""
+"<strong>ERROR</strong>: You do not have permission to mark notifications for "
+"that user."
+msgstr ""
+"<strong>FEL</strong>: Du saknar behörighet för att markera notifikationer "
+"för den användaren."
+
+#: includes/admin/admin.php:753
+msgid ""
+"Thank you for updating! bbPress %s is bundled up and ready to weather the "
+"storm of users in your community!"
+msgstr ""
+"Tack för att du uppdaterar! bbPress %s är packat och klart för att hantera "
+"en anstormning av användare i din community!"
+
+#: includes/admin/admin.php:765
+msgid "Forum Subscriptions"
+msgstr "Forumprenumerationer"
+
+#: includes/admin/admin.php:769
+msgid "Subscribe to Forums"
+msgstr "Prenumerera på forum"
+
+#: includes/admin/admin.php:770
+msgid "Now your users can subscribe to new topics in specific forums."
+msgstr "Nu kan dina användare prenumerera på nya ämnen i specifika forum."
+
+#: includes/admin/admin.php:774
+msgid "Manage Subscriptions"
+msgstr "Hantera prenumerationer"
+
+#: includes/admin/admin.php:775
+msgid ""
+"Your users can manage all of their subscriptions in one convenient location."
+msgstr ""
+"Dina användare kan hantera alla sina prenumerationer på ett och samma ställe."
+
+#: includes/admin/admin.php:791
+msgid "Theme Compatibility"
+msgstr "Kompatibilitet för teman"
+
+#: includes/admin/admin.php:792
+msgid "Better handling of styles and scripts in the template stack."
+msgstr "Förbättrad hantering av stilmallar och skript i mallar."
+
+#: includes/admin/admin.php:881
+msgid "Core Contributors to bbPress 2.5"
+msgstr "Bidragande kärnutvecklare för bbPress 2.5"
+
+#: includes/admin/tools.php:1154
+msgid "Delete imported users?"
+msgstr "Radera importerade användare?"
+
+#: includes/admin/tools.php:1158
+msgid ""
+"This option will delete all previously imported users, and cannot be undone."
+msgstr ""
+"Detta val kommer att radera alla tidigare importerade användare och kan inte "
+"ångras."
+
+#: includes/admin/tools.php:1159
+msgid ""
+"Note: Resetting without this checked will delete the meta-data necessary to "
+"delete these users."
+msgstr ""
+"Notera: Att återställa utan att markera detta kommer att radera metadata "
+"nödvändig för att radera dessa användare."
+
+#: includes/admin/tools.php:1169
+msgid "Human sacrifice, dogs and cats living together... mass hysteria!"
+msgstr ""
+"Mänskliga offer, hundar och katter som lever tillsammans ... masshysteri!"
+
+#: includes/admin/tools.php:1255
+msgid "Deleting User&hellip; %s"
+msgstr "Raderar användare&hellip; %s"
+
+#: includes/admin/converter.php:446
+msgid "No stickies to stick"
+msgstr "Inga klistrade ämnen att klistra"
+
+#: includes/admin/converter.php:450
+msgid "Calculating topic stickies (%1$s - %2$s)"
+msgstr "Beräknar klistrade ämnen (%1$s - %2$s)"
+
+#: includes/admin/converter.php:461
+msgid "No super stickies to stick"
+msgstr "Inga superklistrade ämnen att klistra"
+
+#: includes/admin/converter.php:465
+msgid "Calculating topic super stickies (%1$s - %2$s)"
+msgstr "Beräknar superklistrade ämnen (%1$s - %2$s)"
+
+#: includes/admin/admin.php:549
+msgid "About bbPress"
+msgstr "Om bbPress"
+
+#: includes/admin/admin.php:830
+msgid ""
+"Thank you for updating! bbPress %s is waxed, polished, and ready for you to "
+"take it for a lap or two around the block!"
+msgstr ""
+"Tack för att du uppdaterar! bbPress %s är finpolerat och redo för dig att ta "
+"med ett varv eller två runt kvarteret!"
+
+#: includes/admin/admin.php:796
+msgid "Polyglot support"
+msgstr "Polyglot-support"
+
+#: includes/admin/admin.php:801
+msgid "User capabilities"
+msgstr "Användarbehörigheter"
+
+#: includes/admin/admin.php:802
+msgid ""
+"Roles and capabilities have been swept through, cleaned up, and simplified."
+msgstr "Roller och behörigheter har setts över, rensats upp och förenklats."
+
+#: includes/admin/admin.php:858 includes/admin/admin.php:877
+msgid "Feature Developer"
+msgstr "Funktionsutvecklare"
+
+#: includes/admin/admin.php:863
+msgid "Converter Specialist"
+msgstr "Konverteringsspeciallist"
+
+#: includes/admin/admin.php:872
+msgid "Bug Testing"
+msgstr "Buggtestning"
+
+#: includes/admin/converter.php:506
+msgid "No reply_to parents to convert"
+msgstr "Inga reply_to föräldrar att konvertera"
+
+#: includes/admin/converter.php:510
+msgid "Calculating reply_to parents (%1$s - %2$s)"
+msgstr "Beräknar föräldrar för reply_to (%1$s - %2$s)"
+
+#: includes/admin/metaboxes.php:368
+msgid "Select whether to open or close the topic."
+msgstr "Välj om du vill öppna eller stänga ämnet."
+
+#: includes/admin/tools.php:176
+msgid "Remove trashed forums from user subscriptions"
+msgstr "Ta bort förkastade forum från användares prenumerationer"
+
+#: includes/admin/tools.php:723
+msgid "Removing trashed forums from user subscriptions&hellip; %s"
+msgstr "Tar bort förkastade forum från användares prenumerationer&hellip; %s"
+
+#: includes/admin/tools.php:1133
+msgid ""
+"Revert your forums back to a brand new installation. This process cannot be "
+"undone."
+msgstr ""
+"Återställ ditt forum till en helt ren installation. Denna process kan inte "
+"ångras."
+
+#: includes/admin/tools.php:1134
+msgid "Backup your database before proceeding."
+msgstr "Ta en backup av din databas innan du fortsätter."
+
+#: includes/admin/topics.php:801 includes/topics/template.php:2749
+msgid "(to front)"
+msgstr "(till startsidan)"
+
+#: includes/common/functions.php:1193
+msgid ""
+"%1$s wrote:\n"
+"\n"
+"%2$s\n"
+"\n"
+"Topic Link: %3$s\n"
+"\n"
+"-----------\n"
+"\n"
+"You are receiving this email because you subscribed to a forum.\n"
+"\n"
+"Login and visit the topic to unsubscribe from these emails."
+msgstr ""
+"%1$s skrev:\n"
+"\n"
+"%2$s\n"
+"\n"
+"Länk till ämne: %3$s\n"
+"\n"
+"-----------\n"
+"\n"
+"Du får detta meddelande eftersom du prenumererar på ett forum.\n"
+"\n"
+"Logga in och besök ämnet för att avsluta prenumerationen."
+
+#: includes/common/template.php:2594
+msgctxt "User viewing his/her own profile"
+msgid "Your"
+msgstr "Din"
+
+#: includes/common/template.php:2603
+msgid "%s's Topics"
+msgstr "%s's ämnen"
+
+#: includes/common/template.php:2607
+msgid "%s's Replies"
+msgstr "%s's svar"
+
+#: includes/extend/buddypress/notifications.php:48
+msgid "Topic Replies"
+msgstr "Ämnessvar"
+
+#: includes/extend/buddypress/notifications.php:51
+msgid "You have %d new replies"
+msgstr "Du har %d nya svar"
+
+#: includes/extend/buddypress/notifications.php:57
+msgid "You have %d new reply to %s"
+msgstr "Du har %d nytt svar till %s"
+
+#: includes/forums/functions.php:1602
+msgctxt "Open the forum"
+msgid "Open"
+msgstr "Öppna"
+
+#: includes/forums/functions.php:1603
+msgctxt "Close the forum"
+msgid "Closed"
+msgstr "Stäng"
+
+#: includes/forums/functions.php:1616
+msgctxt "Forum accepts new topics"
+msgid "Forum"
+msgstr "Forum"
+
+#: includes/forums/functions.php:1617
+msgctxt "Forum is a category"
+msgid "Category"
+msgstr "Kategori"
+
+#: includes/forums/functions.php:1630
+msgctxt "Make forum public"
+msgid "Public"
+msgstr "Offentligt"
+
+#: includes/forums/functions.php:1631
+msgctxt "Make forum private"
+msgid "Private"
+msgstr "Privat"
+
+#: includes/forums/functions.php:1632
+msgctxt "Make forum hidden"
+msgid "Hidden"
+msgstr "Dölj"
+
+#: includes/topics/functions.php:1965
+msgctxt "Open the topic"
+msgid "Open"
+msgstr "Öppna"
+
+#: includes/topics/functions.php:1966
+msgctxt "Close the topic"
+msgid "Closed"
+msgstr "Stäng"
+
+#: includes/topics/functions.php:1967
+msgctxt "Spam the topic"
+msgid "Spam"
+msgstr "Skräppost"
+
+#: includes/topics/functions.php:1968
+msgctxt "Trash the topic"
+msgid "Trash"
+msgstr "Förkasta"
+
+#: includes/topics/functions.php:1969
+msgctxt "Mark topic as pending"
+msgid "Pending"
+msgstr "Inväntar granskning"
+
+#: includes/topics/functions.php:1982
+msgctxt "Unstick a topic"
+msgid "Normal"
+msgstr "Normalt"
+
+#: includes/topics/functions.php:1983
+msgctxt "Make topic sticky"
+msgid "Sticky"
+msgstr "Klistra"
+
+#: includes/topics/functions.php:1984
+msgctxt "Make topic super sticky"
+msgid "Super Sticky"
+msgstr "Superklistrad"
+
+#: includes/topics/template.php:1892
+msgid "Unfavorite"
+msgstr "Ta bort som favorit"
+
+#: includes/users/functions.php:1170
+msgid ""
+"<strong>ERROR</strong>: No forum was found! Which forum are you subscribing/"
+"unsubscribing to?"
+msgstr ""
+"<strong>FEL</strong>: Inget forum funnet! Vilket forum vill du prenumerera "
+"på/avsluta prenumeration för?"
+
+#: includes/users/functions.php:1223
+msgid ""
+"<strong>ERROR</strong>: There was a problem unsubscribing from that forum!"
+msgstr ""
+"<strong>FEL</strong>: Ett problem uppstod när prenumerationen skulle "
+"avslutas för forum!"
+
+#: includes/users/functions.php:1225
+msgid "<strong>ERROR</strong>: There was a problem subscribing to that forum!"
+msgstr ""
+"<strong>FEL</strong>: Ett problem uppstod när prenumerationen skulle skapas "
+"för det forumet!"
+
+#: templates/default/bbpress/form-topic.php:145
+msgid "Topic Status:"
+msgstr "Ämnesstatus:"
+
+#: templates/default/bbpress/user-subscriptions.php:19
+msgid "Subscribed Forums"
+msgstr "Forumprenumerationer"
+
+#: templates/default/bbpress/user-subscriptions.php:28
+msgid "You are not currently subscribed to any forums."
+msgstr "Du prenumererar för närvarande inte på några forum."
+
+#: templates/default/bbpress/user-subscriptions.php:28
+msgid "This user is not currently subscribed to any forums."
+msgstr "Denna användare prenumererar för närvarande inte på några forum."
+
+#: templates/default/bbpress-functions.php:290
+msgid "Please login to subscribe to this forum."
+msgstr "Logga in för att prenumerera på detta forum."
+
+#: templates/default/bbpress-functions.php:307
+msgid "The forum could not be found."
+msgstr "Forumet kunde inte hittas."
+
+#: includes/extend/akismet.php:475
+msgid "Akismet cleared this post as not spam"
+msgstr "Akismet markerade detta inlägg som 'inte skräppost'"
+
+#: includes/extend/akismet.php:735 includes/extend/akismet.php:745
+msgid "Akismet History"
+msgstr "Historik för Akismet"
+
+#: includes/extend/akismet.php:793
+msgid "No recorded history. Akismet has not checked this post."
+msgstr "Ingen noterad historik. Akismet har inte kontrollerat detta inlägg."
+
+#: includes/admin/metaboxes.php:516
+msgid "ID:"
+msgstr "ID:"
+
+#: includes/admin/metaboxes.php:517
+msgid "ID"
+msgstr "ID"
+
+#: includes/common/template.php:2549
+msgid "Forum Edit: %s"
+msgstr "Forumredigering: %s"
+
+#: includes/common/template.php:2554
+msgid "Topic Edit: %s"
+msgstr "Ämnesredigering: %s"
+
+#: includes/common/template.php:2559
+msgid "Reply Edit: %s"
+msgstr "Svarsredigering: %s"
+
+#: includes/common/template.php:2564
+msgid "Topic Tag Edit: %s"
+msgstr "Ämnesetikettsredigering: %s"
+
+#: includes/replies/functions.php:168
+msgid "<strong>ERROR</strong>: Topic ID cannot be a negative number."
+msgstr "<strong>FEL</strong>: Ämnes-ID kan inte vara ett negativt nummer."
+
+#: includes/replies/functions.php:158
+msgid "<strong>ERROR</strong>: Topic ID must be a number."
+msgstr "<strong>FEL</strong>: Ämnes-ID måste vara ett nummer."
+
+#: includes/replies/functions.php:172
+msgid "<strong>ERROR</strong>: Topic does not exist."
+msgstr "<strong>FEL</strong>: Ämnet existerar inte."
+
+#: includes/replies/functions.php:195 includes/topics/functions.php:200
+msgid "<strong>ERROR</strong>: Forum ID must be a number."
+msgstr "<strong>FEL</strong>: Forum-ID måste vara ett nummer."
+
+#: includes/replies/functions.php:209 includes/topics/functions.php:214
+msgid "<strong>ERROR</strong>: Forum ID cannot be a negative number."
+msgstr "<strong>FEL</strong>: Forum-ID kan inte vara ett negativt nummer."
+
+#: includes/replies/functions.php:213 includes/topics/functions.php:218
+msgid "<strong>ERROR</strong>: Forum does not exist."
+msgstr "<strong>FEL</strong>: Forumet existerar inte."
+
+#: includes/admin/settings.php:613
+msgid "Allow forum wide search"
+msgstr "Tillåt global forumsökning"
+
+#: includes/admin/settings.php:24
+msgid "Forum User Settings"
+msgstr "Användarinställningar för forum"
+
+#: includes/admin/settings.php:29
+msgid "Forum Features"
+msgstr "Funktioner för forum"
+
+#: includes/admin/settings.php:174
+msgid "Post Formatting"
+msgstr "Inläggsformatering"
+
+#: includes/admin/settings.php:450
+msgid "Setting time limits and other user posting capabilities"
+msgstr "Ange tidsbegränsningar och andra möjligheter för användarpostning"
+
+#: includes/admin/settings.php:549
+msgid "Forum features that can be toggled on and off"
+msgstr "Funktioner i forum som kan stängas av, sättas på"
+
+#: includes/admin/settings.php:683
+msgid "Add toolbar & buttons to textareas to help with HTML formatting"
+msgstr ""
+"Lägg till en verktygsrad med knappar i textfält för att underlätta HTML-"
+"formatering"
+
+#: includes/admin/settings.php:533
+msgid "Automatically give registered visitors the %s forum role"
+msgstr "Ge automatiskt registrerade besökare forumrollen %s"
+
+#: includes/admin/settings.php:650
+msgid "Enable threaded (nested) replies %s levels deep"
+msgstr "Aktivera trådade (nästlade) svar %s nivåer"
+
+#: includes/admin/settings.php:190
+msgid "Reply Threading"
+msgstr "Trådade svar"
+
+#: includes/admin/settings.php:1753
+msgid "Possible %1$s conflict: %2$s"
+msgstr "Möjlig %1$s-konflikt: %2$s"
+
+#: includes/replies/functions.php:234 includes/replies/functions.php:581
+msgid "<strong>ERROR</strong>: This forum has been closed to new replies."
+msgstr "<strong>FEL</strong>: Detta forum har stängts för nya svar."
+
+#: includes/replies/functions.php:227 includes/replies/functions.php:574
+msgid ""
+"<strong>ERROR</strong>: This forum is a category. No replies can be created "
+"in this forum."
+msgstr ""
+"<strong>FEL</strong>: Detta forum är en kategori. Inga nya svar kan skapas i "
+"detta forum."
+
+#: includes/admin/metaboxes.php:463
+msgid "Reply To:"
+msgstr "Svar till:"
+
+#: includes/admin/metaboxes.php:464
+msgid "Reply To"
+msgstr "Svar till"
+
+#: includes/admin/replies.php:223
+msgid "<strong>Reply To</strong> determines the threading of the reply."
+msgstr "<strong>Svara till</strong> bestämmer trådning av svaret."
+
+#: includes/admin/settings.php:34
+msgid "Forum Theme Packages"
+msgstr "Temapaket för forum"
+
+#: includes/admin/settings.php:39
+msgid "Topics and Replies Per Page"
+msgstr "Ämnen och svar per sida"
+
+#: includes/admin/settings.php:44
+msgid "Topics and Replies Per RSS Page"
+msgstr "Ämnen och svar per RSS-sida"
+
+#: includes/admin/settings.php:49
+msgid "Forum Root Slug"
+msgstr "Permalänk för forumrot"
+
+#: includes/admin/settings.php:54
+msgid "Single Forum Slugs"
+msgstr "Permalänk för enskilda forum"
+
+#: includes/admin/settings.php:59
+msgid "Forum User Slugs"
+msgstr "Permalänkar för forumanvändare"
+
+#: includes/admin/settings.php:64
+msgid "BuddyPress Integration"
+msgstr "Integration av BuddyPress"
+
+#: includes/admin/settings.php:69
+msgid "Akismet Integration"
+msgstr "Integrering av Akismet"
+
+#: includes/admin/settings.php:264
+msgid "Forum Root"
+msgstr "Forumrot"
+
+#: includes/admin/settings.php:280
+msgid "Forum root should show"
+msgstr "Forumroten bör visa"
+
+#: includes/admin/settings.php:317
+msgid "Topic View"
+msgstr "Ämnesvy"
+
+#: includes/admin/settings.php:346
+msgid "User Base"
+msgstr "Användarbas"
+
+#: includes/admin/settings.php:378
+msgid "Topic Subscriptions"
+msgstr "Ämnesprenumerationer"
+
+#: includes/admin/settings.php:858
+msgid ""
+"Customize your Forums root. Partner with a WordPress Page and use Shortcodes "
+"for more flexibility."
+msgstr ""
+"Anpassa ditt forums rotsida. Slå ihop den med en sida i WordPress och använd "
+"kortkoder för mer flexibla lösningar."
+
+#: includes/admin/settings.php:891
+msgid "Prefix all forum content with the Forum Root slug (Recommended)"
+msgstr ""
+"Använd permalänken för forumroten med allt foruminnehåll (rekommenderat)"
+
+#: includes/admin/settings.php:911
+msgid "Forum Index"
+msgstr "Forumindex"
+
+#: includes/admin/settings.php:914
+msgid "Topics by Freshness"
+msgstr "Ämnen sorterat efter aktivitet"
+
+#: includes/admin/settings.php:941
+msgid "Customize your user profile slugs."
+msgstr "Anpassa dina permalänkar för användarprofiler."
+
+#: includes/admin/settings.php:1041
+msgid ""
+"Custom slugs for single forums, topics, replies, tags, views, and search."
+msgstr ""
+"Anpassade permalänkar för enskilda forum, ämnen, svar, etiketter, vyer och "
+"sök."
+
+#: includes/replies/functions.php:320
+msgid "<strong>ERROR</strong>: Topic is closed."
+msgstr "<strong>FEL</strong>: Ämnet är stängt."
+
+#: includes/replies/template.php:1693
+msgid "Cancel"
+msgstr "Avbryt"
+
+#: includes/replies/template.php:2341
+msgid "Viewing %1$s reply thread"
+msgid_plural "Viewing %1$s reply threads"
+msgstr[0] "Visar %1$s svarstråd"
+msgstr[1] "Visar %1$s svarstrådar"
+
+#: includes/extend/buddypress/groups.php:271
+#: includes/extend/buddypress/groups.php:274
+msgid "Group Forum Settings"
+msgstr "Inställningar för gruppforum"
+
+#: includes/admin/converter.php:386
+msgid "Delete users WordPress default passwords (%1$s - %2$s)"
+msgstr "Radera användares standardlösenord satta av WordPress (%1$s - %2$s)"
+
+#: includes/common/widgets.php:914
+msgid "Recent Topics"
+msgstr "Nya ämnen"
+
+#: includes/common/widgets.php:1048
+msgid "Forum Statistics"
+msgstr "Forumstatistik"
+
+#: includes/common/widgets.php:1252
+msgid "Recent Replies"
+msgstr "Senaste svaren"
+
+#: includes/extend/buddypress/groups.php:287
+msgid "Group Forum:"
+msgstr "Gruppforum:"
+
+#: includes/extend/buddypress/groups.php:295
+msgid ""
+"Network administrators can reconfigure which forum belongs to this group."
+msgstr ""
+"Nätverksadministratörer kan konfigurera om vilket forum så hör till denna "
+"grupp."
+
+#: includes/extend/buddypress/groups.php:433
+msgctxt "group admin edit screen"
+msgid "Discussion Forum"
+msgstr "Diskussionsforum"
+
+#: includes/extend/buddypress/groups.php:771
+msgid "This group does not currently have a forum."
+msgstr "Denna grupp har för tillfället inget forum."
+
+#: bbpress.php:679
+msgid "Most popular topics"
+msgstr "Mest populära ämnen"
+
+#: templates/default/bbpress/feedback-no-search.php:13
+msgid "Oh bother! No search results were found here!"
+msgstr "Oops! Inga sökresultat kunde hittas här!"
+
+#: bbpress.php:572
+msgctxt "post"
+msgid "Closed <span class=\"count\">(%s)</span>"
+msgid_plural "Closed <span class=\"count\">(%s)</span>"
+msgstr[0] "Stängt <span class=\"count\">(%s)</span>"
+msgstr[1] "Stängda <span class=\"count\">(%s)</span>"
+
+#: bbpress.php:583
+msgctxt "post"
+msgid "Spam <span class=\"count\">(%s)</span>"
+msgid_plural "Spam <span class=\"count\">(%s)</span>"
+msgstr[0] "Skräppost <span class=\"count\">(%s)</span>"
+msgstr[1] "Skräpposter <span class=\"count\">(%s)</span>"
+
+#: bbpress.php:596
+msgctxt "post"
+msgid "Orphan <span class=\"count\">(%s)</span>"
+msgid_plural "Orphans <span class=\"count\">(%s)</span>"
+msgstr[0] "Föräldralös <span class=\"count\">(%s)</span>"
+msgstr[1] "Föräldralösa <span class=\"count\">(%s)</span>"
+
+#: bbpress.php:609
+msgctxt "post"
+msgid "Hidden <span class=\"count\">(%s)</span>"
+msgid_plural "Hidden <span class=\"count\">(%s)</span>"
+msgstr[0] "Dolt <span class=\"count\">(%s)</span>"
+msgstr[1] "Dolda <span class=\"count\">(%s)</span>"
+
+#: includes/admin/tools.php:165
+msgid "Recalculate the sticky relationship of each topic"
+msgstr "Räknar om klistrad relation för varje ämne"
+
+#: includes/admin/tools.php:409
+msgid "group-forums"
+msgstr "grupp-forum"
+
+#: includes/admin/tools.php:425
+msgid ""
+"Complete! %s groups updated; %s forums updated; %s forum statuses synced."
+msgstr ""
+"Klart! %s grupper uppdaterade; %s forum uppdaterade; %s forum statusar "
+"synkroniserade."
+
+#: includes/admin/tools.php:945
+msgid "Repairing the sticky topic to the parent forum relationships&hellip; %s"
+msgstr ""
+"Reparerar relationen mellan klistrade ämnen och dess forumförälder&hellip; %s"
+
+#: includes/admin/tools.php:1240
+msgid "Deleting Topic Tags&hellip; %s"
+msgstr "Raderar ämnestaggar&hellip; %s"
+
+#: includes/admin/users.php:96 includes/admin/users.php:100
+#: includes/users/template.php:1290
+msgid "&mdash; No role for these forums &mdash;"
+msgstr "&mdash; Ingen roll för dessa forum &mdash;"
+
+#: includes/common/functions.php:1074
+msgid ""
+"%1$s wrote:\n"
+"\n"
+"%2$s\n"
+"\n"
+"Post Link: %3$s\n"
+"\n"
+"-----------\n"
+"\n"
+"You are receiving this email because you subscribed to a forum topic.\n"
+"\n"
+"Login and visit the topic to unsubscribe from these emails."
+msgstr ""
+"%1$s skrev:\n"
+"\n"
+"%2$s\n"
+"\n"
+"Inläggslänk: %3$s\n"
+"\n"
+"-----------\n"
+"\n"
+"Du får detta meddelande eftersom du prenumererar på ett forumämne.\n"
+"\n"
+"Logga in och besök ämnet för att avsluta prenumerationen av dessa "
+"meddelanden."
+
+#: includes/admin/settings.php:166 includes/admin/settings.php:333
+#: includes/common/template.php:2324 includes/search/template.php:225
+#: templates/default/bbpress/form-search.php:17
+msgid "Search"
+msgstr "Sök"
+
+#: includes/common/widgets.php:384
+msgid "The bbPress forum search form."
+msgstr "Sökformuläret för bbPress forum."
+
+#: includes/common/widgets.php:387
+msgid "(bbPress) Forum Search Form"
+msgstr "(bbPress) Sökformulär för forum"
+
+#: includes/common/widgets.php:948
+msgid "Some statistics from your forum."
+msgstr "Lite statistik från ditt forum."
+
+#: includes/common/widgets.php:951
+msgid "(bbPress) Statistics"
+msgstr "(bbPress) Statistik"
+
+#: includes/core/sub-actions.php:147
+msgid "The current user is being initialized without using $wp->init()."
+msgstr "Den nuvarande användaren initieras utan att använda $wp->init()."
+
+#: includes/extend/buddypress/activity.php:195
+msgid "New forum topic"
+msgstr "Ny forumämne"
+
+#: includes/extend/buddypress/activity.php:196
+msgid "New forum reply"
+msgstr "Nytt forumsvar"
+
+#: includes/replies/functions.php:1222
+msgid "<strong>ERROR</strong>: Reply ID to move not found!"
+msgstr "<strong>FEL</strong>: Svars-ID att flytta hittades inte!"
+
+#: includes/replies/functions.php:1231
+msgid "<strong>ERROR</strong>: The reply you want to move was not found."
+msgstr "<strong>FEL</strong>: Svaret du ville flytta hittades inte."
+
+#: includes/replies/functions.php:1240
+msgid "<strong>ERROR</strong>: The topic you want to move from was not found."
+msgstr "<strong>FEL</strong>: Det ämne du vill flytta från hittades inte."
+
+#: includes/replies/functions.php:1261
+msgid "<strong>ERROR</strong>: You need to choose a valid move option."
+msgstr "<strong>FEL</strong>: Du måste välja ett giltigt flyttalternativ."
+
+#: includes/replies/functions.php:1284
+msgid "<strong>ERROR</strong>: The topic you want to move to was not found!"
+msgstr "<strong>FEL</strong>: Det ämne du vill flytta till hittades inte!"
+
+#: includes/replies/template.php:2167
+msgid "Move"
+msgstr "Flytta"
+
+#: includes/replies/template.php:2168
+msgid "Move this reply"
+msgstr "Flytta detta svar"
+
+#: includes/search/template.php:229
+msgid "Search Results for '%s'"
+msgstr "Sökresultat för '%s'"
+
+#: includes/search/template.php:401
+msgid "Viewing %1$s result"
+msgid_plural "Viewing %1$s results"
+msgstr[0] "Visar %1$s resultat"
+msgstr[1] "Visar %1$s resultat"
+
+#: includes/search/template.php:405
+msgid "Viewing %2$s results (of %4$s total)"
+msgid_plural "Viewing %1$s results - %2$s through %3$s (of %4$s total)"
+msgstr[0] "Visar %2$s resultat (av totalt %4$s)"
+msgstr[1] "Visar %1$s resultat - %2$s till %3$s (av totalt %4$s)"
+
+#: includes/topics/template.php:1891 includes/users/template.php:894
+msgid "Favorite"
+msgstr "Favorit"
+
+#: includes/users/template.php:895
+msgid "Favorited"
+msgstr "Favoritmarkerad"
+
+#: templates/default/bbpress/form-reply-move.php:24
+msgid "Move reply \"%s\""
+msgstr "Flytta svar \"%s\""
+
+#: templates/default/bbpress/form-reply-move.php:29
+msgid ""
+"You can either make this reply a new topic with a new title, or merge it "
+"into an existing topic."
+msgstr ""
+"Du kan antingen göra detta svar till ett nytt ämne med en ny titel, eller "
+"slå ihop det med ett existerande ämne."
+
+#: templates/default/bbpress/form-reply-move.php:33
+msgid ""
+"If you choose an existing topic, replies will be ordered by the time and "
+"date they were created."
+msgstr ""
+"Om du väljer ett existerande ämne så kommer svaren att ordnas efter det "
+"datum och tid då de skapades."
+
+#: templates/default/bbpress/form-reply-move.php:37
+msgid "Move Method"
+msgstr "Flyttmetod"
+
+#: templates/default/bbpress/form-reply-move.php:42
+msgid "Moved: %s"
+msgstr "Flyttat: %s"
+
+#: templates/default/bbpress/form-reply-move.php:85
+msgid "You do not have the permissions to edit this reply!"
+msgstr "Du har inte rättigheter att redigera detta svar!"
+
+#: templates/default/bbpress/form-reply-move.php:85
+msgid "You cannot edit this reply."
+msgstr "Du kan inte redigera detta svar."
+
+#: templates/default/bbpress/form-search.php:14
+msgid "Search for:"
+msgstr "Sök efter:"
+
+#: templates/default/bbpress/loop-search-forum.php:16
+msgid "Last updated %s"
+msgstr "Senast uppdaterat %s"
+
+#: templates/default/bbpress/loop-search-forum.php:26
+msgid "Forum: "
+msgstr "Forum:"
+
+#: templates/default/bbpress/loop-search-reply.php:24
+msgid "In reply to: "
+msgstr "Som svar till:"
+
+#: templates/default/bbpress/loop-search-topic.php:26
+msgid "Topic: "
+msgstr "Ämne:"
+
+#: templates/default/bbpress/loop-search-topic.php:33
+msgid "in group forum "
+msgstr "i gruppforum"
+
+#: templates/default/bbpress/loop-search-topic.php:37
+msgid "in forum "
+msgstr "i forum"
+
+#: templates/default/bbpress/loop-search.php:22
+#: templates/default/bbpress/loop-search.php:44
+msgid "Search Results"
+msgstr "Sökresultat"
+
+#: templates/default/bbpress-functions.php:248
+#: templates/default/bbpress-functions.php:257
+msgid "Something went wrong. Refresh your browser and try again."
+msgstr "Något gick fel. Ladda om sidan och försök igen."
+
+#: templates/default/bbpress-functions.php:353
+msgid "Favorites are no longer active."
+msgstr "Favoriter är inte längre aktiva."
+
+#: templates/default/bbpress-functions.php:358
+msgid "Please login to make this topic a favorite."
+msgstr "Vänligen logga in för att lägga till ämnet till favoriter."
+
+#: templates/default/bbpress-functions.php:299
+#: templates/default/bbpress-functions.php:367
+#: templates/default/bbpress-functions.php:435
+msgid "You do not have permission to do this."
+msgstr "Du har inte rättigheter att göra detta."
+
+#: templates/default/bbpress-functions.php:375
+#: templates/default/bbpress-functions.php:443
+msgid "The topic could not be found."
+msgstr "Ämnet kunde inte hittas."
+
+#: templates/default/bbpress-functions.php:312
+#: templates/default/bbpress-functions.php:380
+#: templates/default/bbpress-functions.php:448
+msgid "Are you sure you meant to do that?"
+msgstr "Är du säker på att du tänkt att göra det?"
+
+#: templates/default/bbpress-functions.php:320
+#: templates/default/bbpress-functions.php:388
+#: templates/default/bbpress-functions.php:456
+msgid "The request was unsuccessful. Please try again."
+msgstr "Begäran misslyckades. Vänligen försök igen."
+
+#: templates/default/bbpress-functions.php:285
+#: templates/default/bbpress-functions.php:421
+msgid "Subscriptions are no longer active."
+msgstr "Prenumerationer är inte längre aktiva."
+
+#: templates/default/bbpress-functions.php:426
+msgid "Please login to subscribe to this topic."
+msgstr "Vänligen logga in för att prenumerera på detta ämne."
+
+#: templates/default/bbpress/user-replies-created.php:15
+msgid "Forum Replies Created"
+msgstr "Forumsvar skapade"
+
+#: includes/common/template.php:2611
+#: templates/default/bbpress/user-details.php:48
+msgid "%s's Favorites"
+msgstr "%s's favoriter"
+
+#: templates/default/bbpress/user-details.php:35
+msgid "%s's Topics Started"
+msgstr "%s startade ämnen"
+
+#: templates/default/bbpress/loop-single-reply.php:21
+msgid "in reply to: "
+msgstr "som svar till:"
+
+#: templates/default/bbpress/form-user-edit.php:143
+#: templates/default/bbpress/form-user-edit.php:146
+msgid "User Role"
+msgstr "Användarroll"
+
+#: templates/default/bbpress/form-user-edit.php:39
+msgid "Display Name"
+msgstr "Visningsnamn"
+
+#: templates/default/bbpress/user-details.php:41
+msgid "%s's Replies Created"
+msgstr "%s's svar"
+
+#: includes/core/capabilities.php:523
+msgid "Editable forum roles no longer exist."
+msgstr "Redigeringsbara forumroller finns inte längre."
+
+#: includes/extend/akismet.php:405
+msgid "No response"
+msgstr "Inget svar"
+
+#: includes/admin/admin.php:710 includes/admin/admin.php:734
+msgid "%s - %s"
+msgstr "%s - %s"
+
+#: includes/admin/metaboxes.php:314 includes/admin/metaboxes.php:394
+#: includes/admin/metaboxes.php:448
+msgid "&mdash; No parent &mdash;"
+msgstr "&mdash; Ingen förälder &mdash;"
+
+#: includes/admin/metaboxes.php:502
+msgid "Email:"
+msgstr "E-post:"
+
+#: includes/admin/settings.php:99
+msgid "Throttle posting every"
+msgstr "Begränsa postningsintervall till"
+
+#: includes/admin/metaboxes.php:524
+msgid "IP:"
+msgstr "IP:"
+
+#: includes/admin/settings.php:91
+msgid "Disallow editing after"
+msgstr "Tillåt ej redigering efter"
+
+#: includes/admin/settings.php:730
+msgid "No template packages available."
+msgstr "Inga mallpaket tillgängliga."
+
+#: includes/admin/settings.php:1548
+msgid "This screen provides access to all of the Forums settings."
+msgstr "Denna sida ger tillgång till alla foruminställningar."
+
+#: includes/admin/tools.php:166
+msgid "Repair BuddyPress Group Forum relationships"
+msgstr "Reparera relationer för BuddyPress gruppforum"
+
+#: includes/admin/tools.php:177
+msgid "Remap existing users to default forum roles"
+msgstr "Mappa existerande användare till standardforumroller"
+
+#: includes/core/capabilities.php:404
+msgid "Blocked"
+msgstr "Blockerad"
+
+#: includes/core/capabilities.php:398
+msgid "Spectator"
+msgstr "Åskådare"
+
+#: includes/core/capabilities.php:392
+msgid "Participant"
+msgstr "Deltagare"
+
+#: includes/users/template.php:507
+msgid "Inactive"
+msgstr "Inaktiv"
+
+#: templates/default/bbpress/form-forum.php:169
+msgid "You cannot create new forums."
+msgstr "Du kan inte skapa nya forum."
+
+#: templates/default/bbpress/user-replies-created.php:28
+msgid "This user has not replied to any topics."
+msgstr "Denna användare har inte svarat på några ämnen."
+
+#: templates/default/bbpress/user-replies-created.php:28
+msgid "You have not replied to any topics."
+msgstr "Du har inte svarat på några ämnen."
+
+#: templates/default/bbpress/form-topic.php:234
+msgid "You cannot create new topics."
+msgstr "Du kan inte skapa nya ämnen."
+
+#: templates/default/bbpress/user-profile.php:26
+msgid "Replies Created: %s"
+msgstr "Svar skapade: %s"
+
+#: includes/common/template.php:2615
+#: templates/default/bbpress/user-details.php:58
+msgid "%s's Subscriptions"
+msgstr "%s's prenumerationer"
+
+#: templates/default/bbpress/form-user-edit.php:153
+msgid "Network Role"
+msgstr "Närverksroll"
+
+#: templates/default/bbpress/form-user-edit.php:133
+msgid ""
+"Your password should be at least ten characters long. Use upper and lower "
+"case letters, numbers, and symbols to make it even stronger."
+msgstr ""
+"Ditt lösenord bör vara minst 10 tecken långt. Använd små och stora "
+"bokstäver, siffror och symboler för att göra det ännu starkare."
+
+#: templates/default/bbpress/form-user-roles.php:13
+msgid "Blog Role"
+msgstr "Bloggroll"
+
+#: templates/default/bbpress/user-details.php:29
+#: templates/default/bbpress/user-profile.php:15
+msgid "Profile"
+msgstr "Profil"
+
+#: templates/default/bbpress/user-profile.php:25
+msgid "Topics Started: %s"
+msgstr "Ämnen startade: %s"
+
+#: templates/default/bbpress/user-profile.php:24
+msgid "Forum Role: %s"
+msgstr "Forumroll: %s"
+
+#: templates/default/bbpress/user-topics-created.php:15
+msgid "Forum Topics Started"
+msgstr "Forumämnen startade"
+
+#: includes/core/capabilities.php:380
+msgid "Keymaster"
+msgstr "Forumledare"
+
+#: includes/admin/admin.php:841
+msgid "bbPress is created by a worldwide swarm of busy, busy bees."
+msgstr "bbPress är skapat av en global svärm upptagna bin."
+
+#: includes/admin/admin.php:843
+msgid "Project Leaders"
+msgstr "Projektledare"
+
+#: includes/admin/admin.php:848
+msgid "Founding Developer"
+msgstr "Grundande utvecklare"
+
+#: includes/admin/admin.php:853
+msgid "Lead Developer"
+msgstr "Huvudutvecklare"
+
+#: includes/admin/admin.php:867
+msgid "Contributing Developers"
+msgstr "Bidragande utvecklare"
+
+#: includes/admin/settings.php:158
+msgid "Topic tags"
+msgstr "Ämnestaggar"
+
+#: includes/admin/settings.php:107
+msgid "Anonymous posting"
+msgstr "Anonym postning"
+
+#: includes/admin/settings.php:115
+msgid "Auto role"
+msgstr "Automatisk roll"
+
+#: includes/admin/settings.php:182
+msgid "Auto-embed links"
+msgstr "Bädda automatiskt in länkar"
+
+#: includes/admin/settings.php:1192
+msgid "&mdash; Forum root &mdash;"
+msgstr "&mdash; Forumrot &mdash;"
+
+#: includes/admin/settings.php:1256
+msgid "Forums Settings"
+msgstr "Foruminställningar"
+
+#: includes/admin/tools.php:307
+msgid "Repairing BuddyPress group-forum relationships&hellip; %s"
+msgstr "Reparerar relationer för BuddyPress gruppforum&hellip; %s"
+
+#: includes/admin/tools.php:785
+msgid "Remapping forum role for each user on this site&hellip; %s"
+msgstr "Mappar om forumroller för varje användare på denna sida&hellip; %s"
+
+#: includes/admin/tools.php:823
+msgid "Complete! %s users updated."
+msgstr "Klart! %s användare uppdaterade."
+
+#: includes/admin/topics.php:145
+msgid ""
+"You can filter the list of topics by topic status using the text links in "
+"the upper left to show All, Published, or Trashed topics. The default view "
+"is to show all topics."
+msgstr ""
+"Du kan filtrera listan av ämnen efter status genom att använda textlänkarna "
+"uppe till vänster för att visa Alla, Publicerade, Papperskorg. Den förvalda "
+"vyn visar alla ämnen."
+
+#: includes/admin/topics.php:146
+msgid ""
+"You can refine the list to show only topics from a specific month by using "
+"the dropdown menus above the topics list. Click the Filter button after "
+"making your selection. You also can refine the list by clicking on the topic "
+"creator in the topics list."
+msgstr ""
+"Du kan förfina listan att visa endast ämnen från specifik månad genom att "
+"använda rullgardinsmenyn ovanför ämneslistan. Klicka på knappen Filtrera när "
+"du gjort ditt val. Du kan även förfina genom att klicka på en författare i "
+"ämneslistan."
+
+#: includes/admin/topics.php:161
+msgid ""
+"<strong>Close</strong> will mark the selected topic as &#8217;closed&#8217; "
+"and disable the option to post new replies to the topic."
+msgstr ""
+"<strong>Stäng</strong> kommer att markera den valda ämnet som &#8217;"
+"stängd&#8217; och inaktiverar möjligheten att posta nya inlägg."
+
+#: includes/admin/topics.php:162
+msgid ""
+"<strong>Stick</strong> will keep the selected topic &#8217;pinned&#8217; to "
+"the top the parent forum topic list."
+msgstr ""
+"<strong>Klistra</strong> kommer att visa valt ämne högst upp i vyn "
+"tillsammans med andra klistrade ämnen."
+
+#: includes/admin/topics.php:163
+msgid ""
+"<strong>Stick <em>(to front)</em></strong> will keep the selected topic "
+"&#8217;pinned&#8217; to the top of ALL forums and be visable in any forums "
+"topics list."
+msgstr ""
+"<strong>Klistra <em>(till index)</em></strong> kommer att &#8217;"
+"klistra&#8217; valt ämne till att visas överst i ALLA forumlistningar "
+"tillsammans med andra klistrade ämnen."
+
+#: includes/admin/users.php:87 includes/admin/users.php:213
+#: templates/default/bbpress/form-user-roles.php:20
+msgid "Forum Role"
+msgstr "Forumroll"
+
+#: includes/admin/users.php:138 includes/admin/users.php:140
+msgid "Change forum role to&hellip;"
+msgstr "Ändra forumroll till&hellip;"
+
+#: includes/admin/users.php:144
+msgid "Change"
+msgstr "Ändra"
+
+#: includes/admin/users.php:212
+msgid "Site Role"
+msgstr "Webbplatsroll"
+
+#: includes/extend/buddypress/groups.php:282
+msgid "Saying no will not delete existing forum content."
+msgstr "Ett nej tar inte bort befintligt foruminnehåll."
+
+#: includes/extend/buddypress/groups.php:300
+msgid "Save Settings"
+msgstr "Spara inställningar"
+
+#: includes/extend/buddypress/groups.php:474
+msgid "Group Forum"
+msgstr "Gruppforum"
+
+#: includes/admin/settings.php:362 includes/extend/buddypress/loader.php:207
+#: includes/extend/buddypress/loader.php:277
+#: templates/default/bbpress/user-details.php:41
+msgid "Replies Created"
+msgstr "Svar skapade"
+
+#: includes/admin/settings.php:1397
+msgid "Some optional parameters to help tune the conversion process."
+msgstr ""
+"Ett par valfria parametrar för att hjälpa till att ställa in "
+"konverteringsprocessen."
+
+#: includes/admin/settings.php:1471
+msgid ""
+"Use this if an import failed and you want to remove that incomplete data."
+msgstr ""
+"Använd det här om en importering misslyckats och du vill ta bort data som "
+"inte är komplett."
+
+#: includes/admin/settings.php:1456
+msgid "You should clean old conversion information before starting over."
+msgstr "Du bör rensa gammal konversations-information innan du börjar om igen."
+
+#: includes/admin/settings.php:1455
+msgid "Start a fresh conversion from the beginning"
+msgstr "Starta en ny konversation från början"
+
+#: includes/admin/topics.php:172
+msgid ""
+"You can also edit or move multiple topics to the trash at once. Select the "
+"topics you want to act on using the checkboxes, then select the action you "
+"want to take from the Bulk Actions menu and click Apply."
+msgstr ""
+"Du kan också redigera eller flytta flera ämnen till papperskorgen på en "
+"gång. Välj de ämnen du vill hantera genom att använda kryssrutorna, välj "
+"sedan den åtgärd du vill utföra i menyn \"Massåtgärder\" och klicka på Utför."
+
+#: includes/admin/topics.php:134
+msgid ""
+"This screen displays the individual topics on your site. You can customize "
+"the display of this screen to suit your workflow."
+msgstr ""
+"Denna sida visar dom individuella ämnen som finns på din webbplats. Du kan "
+"anpassa visning av denna sida för att matcha ditt arbetsflöde."
+
+#: includes/admin/settings.php:1563
+msgid ""
+"Topic-Tags allow users to filter topics between forums. This is enabled by "
+"default."
+msgstr ""
+"Ämnestaggar låter användare att filtrera ämnen mellan forum. Detta är "
+"aktiverat som standard."
+
+#: includes/admin/tools.php:163
+msgid "Recalculate private and hidden forums"
+msgstr "Räkna om privata och dolda forum"
+
+#: includes/admin/tools.php:1002
+msgid "Recalculating forum visibility &hellip; %s"
+msgstr "Räknar om visningsläge &hellip; %s"
+
+#: includes/admin/topics.php:173
+msgid ""
+"When using Bulk Edit, you can change the metadata (categories, author, etc.) "
+"for all selected topics at once. To remove a topic from the grouping, just "
+"click the x next to its name in the Bulk Edit area that appears."
+msgstr ""
+"När du använder massredigering så kan du ändra metadata (kategori, "
+"författare, etc.) för alla valda ämnen på en och samma gång. För att ta bort "
+"ett ämne från grupperingen, klicka på krysset bredvid ämnets namn i fältet "
+"för massredigering som dyker upp."
+
+#: includes/common/widgets.php:815
+msgctxt "widgets"
+msgid "by %1$s"
+msgstr "av %1$s"
+
+#: includes/common/widgets.php:890
+msgid "Show topic author:"
+msgstr "Visa skapare för ämne:"
+
+#: includes/common/widgets.php:893
+msgid "Order By:"
+msgstr "Sortera efter:"
+
+#: includes/common/widgets.php:895
+msgid "Newest Topics"
+msgstr "Nyaste ämnen"
+
+#: includes/common/widgets.php:897
+msgid "Topics With Recent Replies"
+msgstr "Ämnen med nya svar"
+
+#: includes/common/widgets.php:1166
+msgctxt "widgets"
+msgid "%1$s on %2$s %3$s"
+msgstr "%1$s i %2$s %3$s"
+
+#: includes/common/widgets.php:1172
+msgctxt "widgets"
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#: includes/common/widgets.php:1184
+msgctxt "widgets"
+msgid "%1$s"
+msgstr "%1$s"
+
+#: includes/common/widgets.php:1237
+msgid "Show reply author:"
+msgstr "Visa svarets skribent:"
+
+#: includes/extend/buddypress/groups.php:335
+#: includes/extend/buddypress/groups.php:494
+#: includes/extend/buddypress/notifications.php:161
+#: includes/forums/functions.php:118 includes/forums/functions.php:395
+#: includes/replies/functions.php:116 includes/replies/functions.php:518
+#: includes/replies/functions.php:1245 includes/topics/functions.php:122
+#: includes/topics/functions.php:520 includes/topics/functions.php:1153
+#: includes/topics/functions.php:1456 includes/topics/functions.php:1820
+#: includes/topics/functions.php:1859 includes/topics/functions.php:1916
+#: includes/users/functions.php:459 includes/users/functions.php:1174
+#: includes/users/functions.php:1280 includes/users/functions.php:1407
+#: includes/users/functions.php:1413
+msgid "<strong>ERROR</strong>: Are you sure you wanted to do that?"
+msgstr "<strong>FEL</strong>: Är du säker på att du ville göra det där?"
+
+#: includes/replies/template.php:706 includes/topics/template.php:809
+msgctxt "date at time"
+msgid "%1$s at %2$s"
+msgstr "%1$s kl. %2$s"
+
+#: includes/admin/admin.php:808 includes/admin/admin.php:912
+msgid "Go to Forum Settings"
+msgstr "Gå till foruminställningar"
+
+#: includes/admin/admin.php:752 includes/admin/admin.php:829
+msgid "Welcome to bbPress %s"
+msgstr "Välkommen till bbPress %s"
+
+#: includes/admin/admin.php:760 includes/admin/admin.php:837
+msgid "Credits"
+msgstr "Erkännande"
+
+#: includes/admin/admin.php:259 includes/admin/admin.php:260
+#: includes/admin/admin.php:268 includes/admin/admin.php:269
+msgid "Welcome to bbPress"
+msgstr "Välkommen till bbPress"
+
+#: includes/admin/forums.php:164 includes/admin/forums.php:223
+#: includes/admin/replies.php:178 includes/admin/replies.php:235
+#: includes/admin/settings.php:1594 includes/admin/topics.php:179
+#: includes/admin/topics.php:235
+msgid ""
+"<a href=\"http://codex.bbpress.org\" target=\"_blank\">bbPress "
+"Documentation</a>"
+msgstr ""
+"<a href=\"http://codex.bbpress.org\" target=\"_blank\">bbPress "
+"Dokumentation</a>"
+
+#: includes/admin/forums.php:158
+msgid ""
+"When using Bulk Edit, you can change the metadata (categories, author, etc.) "
+"for all selected forums at once. To remove a forum from the grouping, just "
+"click the x next to its name in the Bulk Edit area that appears."
+msgstr ""
+"När du använder massredigering så kan du ändra metadata (kategori, "
+"författare, etc.) för alla valda forum på en och samma gång. För att ta bort "
+"ett forum från grupperingen, klicka på krysset bredvid forumets namn i "
+"fältet för massredigering som visas."
+
+#: includes/admin/admin.php:758 includes/admin/admin.php:835
+msgid "What&#8217;s New"
+msgstr "Vad är nytt"
+
+#: includes/admin/admin.php:754 includes/admin/admin.php:831
+msgid "Version %s"
+msgstr "Version %s"
+
+#: includes/admin/forums.php:148
+msgid ""
+"<strong>View</strong> will show you what your draft forum will look like if "
+"you publish it. View will take you to your live site to view the forum. "
+"Which link is available depends on your forum&#8217;s status."
+msgstr ""
+"<strong>Visa</strong> kommer att visa dig hur ditt utkast till forum kommer "
+"att se ut när du gör det publikt. Visa kommer att ta dig till din sida live "
+"för att visa forumet. Vilka länkar som finns tillgängliga beror på ditt "
+"forums status."
+
+#: includes/admin/forums.php:123
+msgid ""
+"This screen displays the individual forums on your site. You can customize "
+"the display of this screen to suit your workflow."
+msgstr ""
+"Denna sida visar de individuella forumen på din hemsida. Du kan anpassa "
+"visningen på den här sidan enligt dina preferenser."
+
+#: includes/admin/converter.php:134
+msgid "Purge Previous Import"
+msgstr "Rensa tidigare import"
+
+#: includes/admin/converter.php:130
+msgid "Start Over"
+msgstr "Börja om"
+
+#: includes/admin/converter.php:84
+msgid "Database Settings"
+msgstr "Databasinställningar"
+
+#: includes/admin/forums.php:157
+msgid ""
+"You can also edit or move multiple forums to the trash at once. Select the "
+"forums you want to act on using the checkboxes, then select the action you "
+"want to take from the Bulk Actions menu and click Apply."
+msgstr ""
+"Du kan också redigera eller flytta flera forum till papperskorgen på en och "
+"samma gång. Välj dom forum du vill agera på genom att bocka för dessa, välj "
+"sedan den åtgärd du vill ta från massåtgärdsmenyn och klicka på utför."
+
+#: includes/admin/settings.php:746
+msgid ""
+"Embed media (YouTube, Twitter, Flickr, etc...) directly into topics and "
+"replies"
+msgstr ""
+"Bädda in media (YouTube, Twitter, Flickr, m.m.) direkt i ämnen och svar."
+
+#: includes/admin/settings.php:597
+msgid "Allow topics to have tags"
+msgstr "Tillåt taggar i ämnen"
+
+#: includes/admin/forums.php:208
+msgid ""
+"<strong>Status</strong> allows you to close a forum to new topics and forums."
+msgstr ""
+"<strong>Status</strong> låter dig stänga ett forum för nya ämnen och forum."
+
+#: includes/admin/converter.php:223
+msgid "Starting Conversion"
+msgstr "Starta konvertering"
+
+#: includes/admin/admin.php:517
+msgid "About"
+msgstr "Om"
+
+#: includes/admin/converter.php:346
+msgid "Deleting previously converted data (%1$s - %2$s)"
+msgstr "Raderar tidigare konverterad data (%1$s - %2$s)"
+
+#: includes/admin/converter.php:366
+msgid "Converting users (%1$s - %2$s)"
+msgstr "Konverterar användare (%1$s - %2$s)"
+
+#: includes/admin/converter.php:405
+msgid "Converting forums (%1$s - %2$s)"
+msgstr "Konverterar forum (%1$s - %2$s)"
+
+#: includes/admin/converter.php:420
+msgid "Calculating forum hierarchy (%1$s - %2$s)"
+msgstr "Fastställer forumhierarki (%1$s - %2$s)"
+
+#: includes/admin/converter.php:435
+msgid "Converting topics (%1$s - %2$s)"
+msgstr "Konverterar ämnen (%1$s - %2$s)"
+
+#: includes/admin/converter.php:480
+msgid "Converting topic tags (%1$s - %2$s)"
+msgstr "Konverterar ämnestaggar (%1$s - %2$s)"
+
+#: includes/admin/converter.php:495
+msgid "Converting replies (%1$s - %2$s)"
+msgstr "Konverterar svar (%1$s - %2$s)"
+
+#: templates/default/bbpress/feedback-no-replies.php:13
+msgid "Oh bother! No replies were found here!"
+msgstr "Oops! Inga svar funna!"
+
+#: includes/admin/tools.php:510
+msgid "Counting the number of topics each user has created&hellip; %s"
+msgstr "Räknar antalet ämnen varje användare skapat &hellip; %s"
+
+#: includes/admin/tools.php:172
+msgid "Count topics for each user"
+msgstr "Räkna ämnen för vardera användare"
+
+#: includes/admin/tools.php:1140
+msgid "The following data will be removed:"
+msgstr "Följande data kommer att tas bort:"
+
+#: includes/admin/tools.php:1145
+msgid "All Topic Tags"
+msgstr "Alla ämnestaggar"
+
+#: includes/admin/tools.php:1146
+msgid "Related Meta Data"
+msgstr "Relaterad metadata"
+
+#: includes/admin/tools.php:1147
+msgid "Forum Settings"
+msgstr "Foruminställningar"
+
+#: includes/admin/tools.php:1148
+msgid "Forum Activity"
+msgstr "Forumaktivitet"
+
+#: includes/admin/tools.php:1149
+msgid "Forum User Roles"
+msgstr "Användarroller för forum"
+
+#: includes/admin/tools.php:1150
+msgid "Importer Helper Data"
+msgstr "Hjälpdata för importerare"
+
+#: includes/admin/tools.php:1164
+msgid "Are you sure you want to do this?"
+msgstr "Är du säker på att du vill göra detta?"
+
+#: includes/admin/tools.php:1157 includes/admin/tools.php:1167
+msgid "Say it ain't so!"
+msgstr "Säg att det inte är så!"
+
+#: includes/admin/tools.php:1168
+msgid "This process cannot be undone."
+msgstr "Detta kan inte ångras"
+
+#: includes/admin/tools.php:1177
+msgid "Reset bbPress"
+msgstr "Återställ bbPress"
+
+#: includes/admin/tools.php:1210
+msgid "Failed"
+msgstr "Misslyckades"
+
+#: includes/admin/tools.php:1211
+msgid "Success!"
+msgstr "Lyckades!"
+
+#: includes/admin/tools.php:1218
+msgid "Deleting Posts&hellip; %s"
+msgstr "Raderar inlägg&hellip; %s"
+
+#: includes/admin/tools.php:1231
+msgid "Deleting Post Meta&hellip; %s"
+msgstr "Raderar inläggsmeta&hellip; %s"
+
+#: includes/admin/tools.php:1260 includes/admin/tools.php:1268
+msgid "Deleting User Meta&hellip; %s"
+msgstr "Raderar användarmeta&hellip; %s"
+
+#: includes/admin/tools.php:1276
+msgid "Deleting Conversion Table&hellip; %s"
+msgstr "Raderar omvandlingstabell&hellip; %s"
+
+#: includes/admin/tools.php:1288
+msgid "Deleting Settings&hellip; %s"
+msgstr "Raderar inställningar&hellip; %s"
+
+#: includes/admin/tools.php:1294
+msgid "Deleting Roles and Capabilities&hellip; %s"
+msgstr "Raderar roller och rättigheter&hellip; %s"
+
+#: includes/admin/converters/AEF.php:688
+#: includes/admin/converters/FluxBB.php:643
+#: includes/admin/converters/Invision.php:525
+#: includes/admin/converters/Kunena1.php:543
+#: includes/admin/converters/Kunena2.php:585
+#: includes/admin/converters/Kunena3.php:812
+#: includes/admin/converters/PHPFox3.php:649
+#: includes/admin/converters/PunBB.php:677
+#: includes/admin/converters/SMF.php:656
+#: includes/admin/converters/SimplePress5.php:537
+#: includes/admin/converters/Vanilla.php:535
+#: includes/admin/converters/XMB.php:705
+#: includes/admin/converters/XenForo.php:722
+#: includes/admin/converters/bbPress1.php:636
+#: includes/admin/converters/phpBB.php:816
+#: includes/admin/converters/vBulletin.php:652
+#: includes/admin/converters/vBulletin3.php:652
+msgid "Re: "
+msgstr "Sv: "
+
+#: includes/admin/admin.php:201
+msgid "Forum Repair"
+msgstr "Forumreparation"
+
+#: includes/admin/admin.php:211
+msgid "Forum Import"
+msgstr "Forumimport"
+
+#: includes/admin/admin.php:220 includes/admin/functions.php:251
+#: includes/admin/tools.php:1132
+msgid "Reset Forums"
+msgstr "Återställ forum"
+
+#: includes/admin/admin.php:221
+msgid "Forum Reset"
+msgstr "Återställ forum"
+
+#: templates/default/bbpress/form-user-lost-pass.php:27
+msgid "Reset My Password"
+msgstr "Återställ mitt lösenord"
+
+#: includes/admin/tools.php:36
+msgid ""
+"bbPress keeps track of relationships between forums, topics, replies, and "
+"topic tags, and users. Occasionally these relationships become out of sync, "
+"most often after an import or migration. Use the tools below to manually "
+"recalculate these relationships."
+msgstr ""
+"bbPress håller reda på förhållanden mellan forum, ämnen, svar, ämnestaggar "
+"och användare.\n"
+"Vid vissa tillfällen blir dessa förhållanden osynkade, oftast efter en "
+"import eller migrering. Använd verktygen nedan för att manuellt synka om "
+"dessa förhållanden."
+
+#: includes/admin/tools.php:37
+msgid ""
+"Some of these tools create substantial database overhead. Avoid running more "
+"than 1 repair job at a time."
+msgstr ""
+"Några av dessa verktyg skapar hög belastning på databasen. Undvik att köra "
+"mer än en reparation åt gången."
+
+#: includes/admin/tools.php:43
+msgid "Relationships to Repair:"
+msgstr "Förhållanden att reparera:"
+
+#: includes/admin/converter.php:107
+msgid "Database Password"
+msgstr "Lösenord för databas"
+
+#: includes/admin/tools.php:46
+msgid "Repair"
+msgstr "Reparera"
+
+#: includes/admin/admin.php:200 includes/admin/functions.php:243
+#: includes/admin/tools.php:34
+msgid "Repair Forums"
+msgstr "Reparera forum"
+
+#: includes/admin/admin.php:210 includes/admin/functions.php:247
+#: includes/admin/settings.php:1507
+msgid "Import Forums"
+msgstr "Importera forum"
+
+#: includes/admin/settings.php:1328
+msgid "IP or hostname"
+msgstr "IP eller värdnamn"
+
+#: includes/admin/settings.php:1342
+msgid "Use default 3306 if unsure"
+msgstr "Använd standardporten 3306 om du är osäker"
+
+#: includes/admin/settings.php:1356
+msgid "User for your database connection"
+msgstr "Användare för din databasanslutning"
+
+#: includes/admin/settings.php:1370
+msgid "Password to access the database"
+msgstr "Lösenord för tillgång till databasen"
+
+#: includes/admin/settings.php:1384
+msgid "Name of the database with your old forum data"
+msgstr "Namn på databasen med data från ditt tidigare forum"
+
+#: includes/admin/settings.php:1425
+msgid "rows to process at a time"
+msgstr "rader att bearbeta åt gången"
+
+#: includes/admin/settings.php:1426
+msgid "Keep this low if you experience out-of-memory issues."
+msgstr ""
+"Behåll detta lågt om du har problem med att minnet tar slut (out-of-memory)."
+
+#: includes/admin/settings.php:1440
+msgid "second(s) delay between each group of rows"
+msgstr "fördröjning i sekund(er) mellan varje grupp av rader"
+
+#: includes/admin/settings.php:1441
+msgid "Keep this high to prevent too-many-connection issues."
+msgstr ""
+"Behåll detta högt för att förhindra problem med för många anslutningar (too-"
+"many-connection)."
+
+#: includes/admin/settings.php:1470
+msgid "Purge all information from a previously attempted import"
+msgstr "Rensa all information från tidigare importförsök"
+
+#: includes/admin/settings.php:1486
+msgid ""
+"Non-bbPress passwords cannot be automatically converted. They will be "
+"converted as each user logs in."
+msgstr ""
+"Lösenord som inte angetts i bbPress kan inte automatiskt konverteras. Dessa "
+"kommer att bli konverterade vartefter varje användare loggar in."
+
+#: includes/admin/tools.php:61
+msgid "Repair Items"
+msgstr "Reparera objekt"
+
+#: includes/admin/tools.php:161
+msgid "Recalculate the parent topic for each post"
+msgstr "Räknar om ämnesförälder för varje svar"
+
+#: includes/admin/tools.php:162
+msgid "Recalculate the parent forum for each post"
+msgstr "Räknar om forumförälder för varje inlägg"
+
+#: includes/admin/tools.php:1026
+msgid "Recalculating the forum for each post &hellip; %s"
+msgstr "Räknar om forum för varje inlägg &hellip; %s"
+
+#: includes/admin/tools.php:1080
+msgid "Recalculating the topic for each post &hellip; %s"
+msgstr "Räknar om ämne för varje inlägg &hellip; %s"
+
+#: includes/admin/converter.php:115
+msgid "Options"
+msgstr "Alternativ"
+
+#: includes/admin/settings.php:1284
+msgid ""
+"Information about your previous forums database so that they can be "
+"converted. <strong>Backup your database before proceeding.</strong>"
+msgstr ""
+"Information om din tidigare forumsdatabas så att den kan bli konverterad. "
+"<strong>Genomför en backup av din databas innan du fortsätter.</strong>"
+
+#: includes/admin/converter.php:416
+msgid "No forum parents to convert"
+msgstr "Inga överliggande forum att konvertera"
+
+#: includes/admin/converter.php:491
+msgid "No replies to convert"
+msgstr "Inga svar att konvertera"
+
+#: includes/admin/converter.php:248 includes/admin/converter.php:520
+msgid "Conversion Complete"
+msgstr "Konvertering slutförd"
+
+#: includes/users/template.php:503
+msgid "Guest"
+msgstr "Gäst"
+
+#: includes/users/template.php:517
+msgid "Member"
+msgstr "Medlem"
+
+#: includes/core/capabilities.php:386
+msgid "Moderator"
+msgstr "Moderator"
+
+#: includes/forums/template.php:1994
+msgid "This category contains %1$s, and was last updated by %2$s %3$s."
+msgstr ""
+"Den här kategorin innehåller %1$s och uppdaterades senast av %2$s %3$s."
+
+#: includes/forums/template.php:1996
+msgid "This forum contains %1$s, and was last updated by %2$s %3$s."
+msgstr "Detta forum innehåller %1$s och uppdaterades senast av %2$s %3$s."
+
+#: includes/forums/template.php:2016
+msgid "This category contains %1$s."
+msgstr "Denna kategori innehåller %1$s."
+
+#: includes/forums/template.php:2018
+msgid "This forum contains %1$s."
+msgstr "Detta forum innehåller %1$s."
+
+#: includes/forums/template.php:2022
+msgid "This forum is empty."
+msgstr "Detta forum är tomt."
+
+#: includes/topics/template.php:3322
+msgid "This topic has no replies."
+msgstr "Detta ämne har inga svar."
+
+#: includes/forums/template.php:1986
+msgid ""
+"This category contains %1$s and %2$s, and was last updated by %3$s %4$s."
+msgstr ""
+"Denna kategori innehåller %1$s och %2$s, och uppdaterades senast av %3$s "
+"%4$s."
+
+#: includes/forums/template.php:1988
+msgid "This forum contains %1$s and %2$s, and was last updated by %3$s %4$s."
+msgstr ""
+"Det här forumet innehåller %1$s och %2$s, och uppdaterades senast av %3$s "
+"%4$s."
+
+#: includes/replies/template.php:804
+msgid "This reply was modified %1$s by %2$s. Reason: %3$s"
+msgstr "Detta svar redigerades %1$s av %2$s. Anledning: %3$s"
+
+#: includes/replies/template.php:806
+msgid "This reply was modified %1$s by %2$s."
+msgstr "Det här svaret redigerades %1$s av %2$s."
+
+#: includes/topics/template.php:991
+msgid "This topic was modified %1$s by %2$s. Reason: %3$s"
+msgstr "Detta ämne redigerades %1$s av %2$s. Anledning: %3$s"
+
+#: includes/topics/template.php:993
+msgid "This topic was modified %1$s by %2$s."
+msgstr "Detta ämne redigerades %1$s av %2$s."
+
+#: includes/topics/template.php:3314
+msgid "This topic contains %1$s, has %2$s, and was last updated by %3$s %4$s."
+msgstr ""
+"Detta ämne innehåller %1$s, har %2$s, och uppdaterades senast av %3$s %4$s."
+
+#: includes/common/functions.php:112
+msgid "sometime"
+msgstr "någon gång"
+
+#: includes/common/functions.php:113
+msgid "right now"
+msgstr "just nu"
+
+#: includes/common/functions.php:118
+msgid "year"
+msgstr "år"
+
+#: includes/common/functions.php:118
+msgid "years"
+msgstr "år"
+
+#: includes/common/functions.php:119
+msgid "month"
+msgstr "månad"
+
+#: includes/common/functions.php:119
+msgid "months"
+msgstr "månader"
+
+#: includes/common/functions.php:120
+msgid "week"
+msgstr "vecka"
+
+#: includes/common/functions.php:120
+msgid "weeks"
+msgstr "veckor"
+
+#: includes/common/functions.php:121
+msgid "day"
+msgstr "dag"
+
+#: includes/common/functions.php:121
+msgid "days"
+msgstr "dagar"
+
+#: includes/common/functions.php:122
+msgid "hour"
+msgstr "timme"
+
+#: includes/common/functions.php:122
+msgid "hours"
+msgstr "timmar"
+
+#: includes/common/functions.php:123
+msgid "minute"
+msgstr "minut"
+
+#: includes/common/functions.php:124
+msgid "second"
+msgstr "sekund"
+
+#: includes/common/functions.php:179
+msgctxt "Separator in time since"
+msgid ","
+msgstr ","
+
+#: includes/extend/buddypress/loader.php:105
+msgid "Search Forums..."
+msgstr "Sök i forum..."
+
+#: includes/admin/settings.php:354 includes/extend/buddypress/loader.php:196
+#: includes/extend/buddypress/loader.php:269
+#: templates/default/bbpress/user-details.php:35
+msgid "Topics Started"
+msgstr "Startade ämnen"
+
+#: includes/admin/settings.php:142 includes/extend/buddypress/loader.php:218
+#: templates/default/bbpress/user-details.php:48
+msgid "Favorites"
+msgstr "Favoriter"
+
+#: includes/admin/settings.php:150 includes/extend/buddypress/loader.php:230
+#: templates/default/bbpress/user-details.php:58
+msgid "Subscriptions"
+msgstr "Prenumerationer"
+
+#: includes/admin/settings.php:370 includes/extend/buddypress/loader.php:285
+msgid "Favorite Topics"
+msgstr "Favoritämnen"
+
+#: includes/extend/buddypress/loader.php:293
+#: templates/default/bbpress/user-subscriptions.php:34
+msgid "Subscribed Topics"
+msgstr "Bevakade ämnen"
+
+#: includes/admin/tools.php:408
+msgid "Group Forums"
+msgstr "Gruppforum"
+
+#: includes/extend/buddypress/groups.php:275
+#: includes/extend/buddypress/groups.php:476
+msgid ""
+"Create a discussion forum to allow members of this group to communicate in a "
+"structured, bulletin-board style fashion."
+msgstr ""
+"Skapa ett diskussionsforum för att tillåta medlemmar av denna grupp att "
+"kommunicera i en traditionellt strukturerat forum."
+
+#: includes/extend/buddypress/groups.php:279
+#: includes/extend/buddypress/groups.php:479
+msgid "Yes. I want this group to have a forum."
+msgstr "Ja, jag vill att denna grupp ska ha ett forum."
+
+#: includes/forums/functions.php:131
+msgid ""
+"<strong>ERROR</strong>: You do not have permission to create new forums."
+msgstr "<strong>FEL</strong>: Du har inte behörighet att skapa nya forum."
+
+#: includes/forums/functions.php:155 includes/forums/functions.php:455
+msgid "<strong>ERROR</strong>: Your forum needs a title."
+msgstr "<strong>FEL</strong>: Ditt forum behöver ha en titel."
+
+#: includes/forums/functions.php:167 includes/forums/functions.php:467
+msgid "<strong>ERROR</strong>: Your forum description cannot be empty."
+msgstr "<strong>FEL</strong>: Beskrivningen av ditt forum får inte vara tom."
+
+#: includes/forums/functions.php:181
+msgid "<strong>ERROR</strong>: Your forum must have a parent."
+msgstr "<strong>FEL</strong>: Ditt forum måste ha ett huvudforum."
+
+#: includes/forums/functions.php:188
+msgid ""
+"<strong>ERROR</strong>: This forum is a category. No forums can be created "
+"in this forum."
+msgstr ""
+"<strong>FEL</strong>: Detta forum är en kategori. Inga forum kan skapas i "
+"detta forum."
+
+#: includes/forums/functions.php:193 includes/forums/functions.php:431
+msgid "<strong>ERROR</strong>: This forum has been closed to new forums."
+msgstr "<strong>FEL</strong>: Detta forum är stängt för nya forum."
+
+#: includes/forums/functions.php:198 includes/forums/functions.php:436
+msgid ""
+"<strong>ERROR</strong>: This forum is private and you do not have the "
+"capability to read or create new forums in it."
+msgstr ""
+"<strong>FEL</strong>: Detta forumet är privat och du har inte behörighet att "
+"läsa eller skapa nya forum i det."
+
+#: includes/forums/functions.php:203 includes/forums/functions.php:441
+msgid ""
+"<strong>ERROR</strong>: This forum is hidden and you do not have the "
+"capability to read or create new forums in it."
+msgstr ""
+"<strong>FEL</strong>: Det här forumet är dolt och du har inte tillgång till "
+"att läsa eller skapa nya forum i det."
+
+#: includes/forums/functions.php:215
+msgid "<strong>ERROR</strong>: This forum already exists."
+msgstr "<strong>FEL</strong>: Det här forumet existerar redan."
+
+#: includes/forums/functions.php:220
+msgid "<strong>ERROR</strong>: Your forum cannot be created at this time."
+msgstr "<strong>FEL</strong>: Det gick inte att skapa ditt forum just nu."
+
+#: includes/forums/functions.php:384
+msgid "<strong>ERROR</strong>: Forum ID not found."
+msgstr "<strong>FEL</strong> Forumet kunde inte hittas."
+
+#: includes/forums/functions.php:400
+msgid "<strong>ERROR</strong>: The forum you want to edit was not found."
+msgstr "<strong>FEL</strong>: Forumet du vill redigera kunde inte hittas."
+
+#: includes/forums/functions.php:405
+msgid "<strong>ERROR</strong>: You do not have permission to edit that forum."
+msgstr "<strong>FEL</strong>: Du har inte rättighet att redigera detta forum."
+
+#: includes/forums/functions.php:472
+msgid "<strong>ERROR</strong>: Your forum cannot be edited at this time."
+msgstr "<strong>FEL</strong>: Ditt forum kan inte redigeras just nu."
+
+#: includes/replies/template.php:2352
+msgid "Viewing %2$s replies (of %4$s total)"
+msgid_plural "Viewing %1$s replies - %2$s through %3$s (of %4$s total)"
+msgstr[0] "Visar %2$s svar (av %4$s totalt)"
+msgstr[1] "Visar %2$s svar - %2$s till %3$s (av %4$s totalt)"
+
+#: includes/replies/template.php:2364
+msgid "Viewing %2$s post (of %4$s total)"
+msgid_plural "Viewing %1$s posts - %2$s through %3$s (of %4$s total)"
+msgstr[0] "Visar %2$s inlägg (av %4$s totalt)"
+msgstr[1] "Visar %1$s inlägg - %2$s till %3$s (av %4$s totalt)"
+
+#: includes/topics/template.php:2687
+msgctxt "Topic Status"
+msgid "Close"
+msgstr "Stäng"
+
+#: includes/topics/template.php:2688
+msgctxt "Topic Status"
+msgid "Open"
+msgstr "Öppna"
+
+#: includes/topics/template.php:2983
+msgid "Viewing topic %2$s (of %4$s total)"
+msgid_plural "Viewing %1$s topics - %2$s through %3$s (of %4$s total)"
+msgstr[0] "Visar ämne %2$s (av totalt %4$s)"
+msgstr[1] "Visar %1$s ämnen - %2$s till %3$s (av totalt %4$s)"
+
+#: includes/topics/template.php:3318
+msgid "This topic contains %1$s and has %2$s."
+msgstr "Detta ämne innehåller %1$s och har %2$s."
+
+#: templates/default/bbpress/form-forum.php:37
+msgid "Create New Forum in &ldquo;%s&rdquo;"
+msgstr "Skapa nytt forum i &rdquo;%s&rdquo;"
+
+#: templates/default/bbpress/form-forum.php:47
+msgid ""
+"This forum is closed to new content, however your account still allows you "
+"to do so."
+msgstr ""
+"Detta forum är stängt för nytt innehåll, dock tillåter ditt konto dig att "
+"göra så."
+
+#: templates/default/bbpress/form-forum.php:67
+msgid "Forum Name (Maximum Length: %d):"
+msgstr "Forumnamn (maxlängd: %d):"
+
+#: templates/default/bbpress/form-forum.php:91
+msgid "Forum Type:"
+msgstr "Forumtyp:"
+
+#: templates/default/bbpress/form-forum.php:161
+msgid "The forum &#8216;%s&#8217; is closed to new content."
+msgstr "Forumet &#8217;%s&#8217; är stängd för nytt innehåll."
+
+#: templates/default/bbpress/form-forum.php:169
+msgid "You must be logged in to create new forums."
+msgstr "Du behöver vara inloggad för att skapa nya forum."
+
+#: bbpress.php:133 bbpress.php:140
+msgid "Cheatin&#8217; huh?"
+msgstr "Fuskar du, eller?"
+
+#: bbpress.php:406 templates/default/bbpress-functions.php:51
+msgid "bbPress Default"
+msgstr "bbPress-standard"
+
+#: includes/admin/admin.php:282 includes/admin/admin.php:283
+#: includes/admin/admin.php:304 includes/admin/admin.php:305
+#: includes/admin/admin.php:986 includes/admin/admin.php:1073
+msgid "Update Forums"
+msgstr "Uppdatera forum"
+
+#: includes/admin/settings.php:209
+msgid "Current Package"
+msgstr "Nuvarande paket"
+
+#: includes/admin/settings.php:391
+msgid "Enable Group Forums"
+msgstr "Tillåt gruppforum"
+
+#: includes/admin/settings.php:399
+msgid "Group Forums Parent"
+msgstr "Förälder för gruppforum"
+
+#: includes/admin/settings.php:412
+msgid "Use Akismet"
+msgstr "Använd Akismet"
+
+#: includes/admin/admin.php:938 includes/admin/admin.php:960
+msgid "Update Forum"
+msgstr "Uppdatera forum"
+
+#: includes/admin/admin.php:949 includes/admin/admin.php:1003
+msgid "All done!"
+msgstr "Allt klart!"
+
+#: includes/admin/admin.php:959
+msgid ""
+"You can update your forum through this page. Hit the link below to update."
+msgstr ""
+"Du kan uppdatera ditt forum via denna sida. Klicka på länken nedan för att "
+"uppdatera."
+
+#: includes/admin/admin.php:1029
+msgid ""
+"Warning! Problem updating %1$s. Your server may not be able to connect to "
+"sites running on it. Error message: <em>%2$s</em>"
+msgstr ""
+"Varning! Det uppstod problem vid uppdatering av %1$s. Det kan vara så att "
+"din server inte kan ansluta till sidor som körs på den. Felmeddelande: <em>"
+"%2$s</em>"
+
+#: includes/admin/admin.php:1053
+msgid ""
+"If your browser doesn&#8217;t start loading the next page automatically, "
+"click this link:"
+msgstr ""
+"Om din webbläsare inte börjar ladda nästa sida automatiskt, klicka på "
+"följande länk:"
+
+#: includes/admin/admin.php:1054
+msgid "Next Forums"
+msgstr "Nästa forum"
+
+#: includes/admin/admin.php:1072
+msgid ""
+"You can update all the forums on your network through this page. It works by "
+"calling the update script of each site automatically. Hit the link below to "
+"update."
+msgstr ""
+"Du kan uppdatera alla forum i nätverket via den här sidan. Det fungerar "
+"genom att anropa uppdateringsskriptet för varje webbplats automatiskt. "
+"Klicka på länken nedan för att uppdatera."
+
+#: includes/admin/converter.php:87
+msgid "Select Platform"
+msgstr "Välj plattform"
+
+#: includes/admin/converter.php:91
+msgid "Database Server"
+msgstr "Databasserver"
+
+#: includes/admin/converter.php:95
+msgid "Database Port"
+msgstr "Databasport"
+
+#: includes/admin/converter.php:103
+msgid "Database User"
+msgstr "Databasanvändare"
+
+#: includes/admin/converter.php:99
+msgid "Database Name"
+msgstr "Databasnamn"
+
+#: includes/admin/converter.php:111
+msgid "Table Prefix"
+msgstr "Tabellprefix"
+
+#: includes/admin/converter.php:118
+msgid "Rows Limit"
+msgstr "Radgräns"
+
+#: includes/admin/converter.php:122
+msgid "Delay Time"
+msgstr "Fördröjning"
+
+#: includes/admin/converter.php:126
+msgid "Convert Users"
+msgstr "Konvertera användare"
+
+#: includes/admin/converter.php:342
+msgid "No data to clean"
+msgstr "Ingen data att rensa"
+
+#: includes/admin/converter.php:362
+msgid "No users to convert"
+msgstr "Inga användare att konvertera"
+
+#: includes/admin/converter.php:382
+msgid "No passwords to clear"
+msgstr "Inga lösenord att rensa"
+
+#: includes/admin/converter.php:401
+msgid "No forums to convert"
+msgstr "Inga forum att konvertera"
+
+#: includes/admin/converter.php:431
+msgid "No topics to convert"
+msgstr "Inga ämnen att konvertera"
+
+#: includes/admin/converter.php:476
+msgid "No tags to convert"
+msgstr "Inga taggar att konvertera"
+
+#: includes/admin/forums.php:121 includes/admin/replies.php:132
+#: includes/admin/settings.php:1547 includes/admin/topics.php:132
+msgid "Overview"
+msgstr "Översikt"
+
+#: includes/admin/replies.php:134
+msgid ""
+"This screen provides access to all of your replies. You can customize the "
+"display of this screen to suit your workflow."
+msgstr ""
+"Denna sida ger dig tillgång till alla dina svar. Du kan anpassa visningen av "
+"denna sida för att matcha ditt arbetsflöde."
+
+#: includes/admin/forums.php:129 includes/admin/replies.php:140
+#: includes/admin/topics.php:140
+msgid "Screen Content"
+msgstr "Skärminnehåll"
+
+#: includes/admin/forums.php:131 includes/admin/replies.php:142
+#: includes/admin/topics.php:142
+msgid ""
+"You can customize the display of this screen&#8217;s contents in a number of "
+"ways:"
+msgstr ""
+"Du kan anpassa visningen av innehållet på denna sida på flera olika sätt:"
+
+#: includes/admin/replies.php:144
+msgid ""
+"You can hide/display columns based on your needs and decide how many replies "
+"to list per screen using the Screen Options tab."
+msgstr ""
+"Du kan dölja/visa kolumner baserat på dina behov och välja hur många svar "
+"som ska visas per sida under fliken Panelinställningar."
+
+#: includes/admin/forums.php:142 includes/admin/replies.php:154
+#: includes/admin/topics.php:153
+msgid "Available Actions"
+msgstr "Tillgängliga åtgärder"
+
+#: includes/admin/forums.php:146
+msgid ""
+"<strong>Edit</strong> takes you to the editing screen for that forum. You "
+"can also reach that screen by clicking on the forum title."
+msgstr ""
+"<strong>Redigera</strong> tar dig till redigeringssidan för det forumet. Du "
+"kan också nå sidan genom att klicka på forumtiteln."
+
+#: includes/admin/forums.php:147
+msgid ""
+"<strong>Trash</strong> removes your forum from this list and places it in "
+"the trash, from which you can permanently delete it."
+msgstr ""
+"<strong>Papperskorgen</strong> tar bort ditt forum i listan och placerar det "
+"i papperskorgen, därifrån kan välja att ta bort det permanent."
+
+#: includes/admin/forums.php:155 includes/admin/replies.php:169
+#: includes/admin/topics.php:170
+msgid "Bulk Actions"
+msgstr "Massåtgärder"
+
+#: includes/admin/replies.php:171
+msgid ""
+"You can also edit or move multiple replies to the trash at once. Select the "
+"replies you want to act on using the checkboxes, then select the action you "
+"want to take from the Bulk Actions menu and click Apply."
+msgstr ""
+"Du kan också redigera eller flytta flera svar till papperskorgen på en och "
+"samma gång. Välj dom svar du vill agera på genom att bocka för dessa, välj "
+"sedan den åtgärd du vill ta från massåtgärdsmenyn och klicka på utför."
+
+#: includes/admin/forums.php:163 includes/admin/forums.php:222
+#: includes/admin/replies.php:177 includes/admin/replies.php:234
+#: includes/admin/settings.php:1593 includes/admin/topics.php:178
+#: includes/admin/topics.php:234
+msgid "For more information:"
+msgstr "För mer information:"
+
+#: includes/admin/forums.php:165 includes/admin/forums.php:224
+#: includes/admin/replies.php:179 includes/admin/replies.php:236
+#: includes/admin/settings.php:1595 includes/admin/topics.php:180
+#: includes/admin/topics.php:236
+msgid ""
+"<a href=\"http://bbpress.org/forums/\" target=\"_blank\">bbPress Support "
+"Forums</a>"
+msgstr ""
+"<a href=\"http://bbpress.org/forums/\" target=\"_blank\">Supportforum för "
+"bbPress</a>"
+
+#: includes/admin/forums.php:179
+msgid ""
+"The title field and the big forum editing Area are fixed in place, but you "
+"can reposition all the other boxes using drag and drop, and can minimize or "
+"expand them by clicking the title bar of each box. Use the Screen Options "
+"tab to unhide more boxes (Excerpt, Send Trackbacks, Custom Fields, "
+"Discussion, Slug, Author) or to choose a 1- or 2-column layout for this "
+"screen."
+msgstr ""
+"Titelfältet och det stora redigeringsfältet är fixerade på plats, men du kan "
+"flytta alla andra paneler genom att använda metoden dra och släpp, du kan "
+"även minimera eller expandera dessa paneler genom att klicka på dess "
+"titelrad. Använd fliken Panelinställningar för att visa fler paneler "
+"(Utdrag, Skicka trackbacks, Egna fält, Diskussion, Permalänk, Författare) "
+"eller för att välja att visa en eller två kolumner av innehåll på denna sida."
+
+#: includes/admin/forums.php:183 includes/admin/replies.php:197
+#: includes/admin/topics.php:198
+msgid "Customizing This Display"
+msgstr "Anpassar denna vy"
+
+#: includes/admin/forums.php:189
+msgid "Title and Forum Editor"
+msgstr "Titel- och forumredigerare"
+
+#: includes/admin/forums.php:191
+msgid ""
+"<strong>Title</strong> - Enter a title for your forum. After you enter a "
+"title, you&#8217;ll see the permalink below, which you can edit."
+msgstr ""
+"<strong>Titel</strong> - Ange en titel för ditt forum. När du gjort detta "
+"kommer du att se en permalänk som kan redigeras vid behov."
+
+#: includes/admin/forums.php:192
+msgid ""
+"<strong>Forum Editor</strong> - Enter the text for your forum. There are two "
+"modes of editing: Visual and HTML. Choose the mode by clicking on the "
+"appropriate tab. Visual mode gives you a WYSIWYG editor. Click the last icon "
+"in the row to get a second row of controls. The HTML mode allows you to "
+"enter raw HTML along with your forum text. You can insert media files by "
+"clicking the icons above the forum editor and following the directions. You "
+"can go to the distraction-free writing screen via the Fullscreen icon in "
+"Visual mode (second to last in the top row) or the Fullscreen button in HTML "
+"mode (last in the row). Once there, you can make buttons visible by hovering "
+"over the top area. Exit Fullscreen back to the regular forum editor."
+msgstr ""
+"<strong>Forumredigerare</strong> - Ange texten för ditt forum. Det finns två "
+"typer av redigering: Visuell och HTML. Välj läget genom att klicka på "
+"motsvarande flik. Det visuella läget ger dig en WYSIWYG-redigerare. Klicka "
+"på sista ikonen på raden för att få en andra rad med verktyg. I HTML-läget "
+"kan du ange HTML tillsammans med ditt forums text. Du kan infoga mediefiler "
+"genom att klicka på ikonerna ovanför forumredigeraren och följa "
+"anvisningarna. Du kan gå till ett störningsfritt fullskärmsläge via "
+"Fullskärms-ikonen i den visuella redigeraren (näst sista i den översta "
+"raden) eller fullskärms-knappen i HTML-läget (sista i raden). Väl där kan du "
+"göra knappar synliga genom att föra muspekaren över det övre området. "
+"Avsluta fullskärmsläget för att komma tillbaka till den vanliga "
+"forumredigeraren igen."
+
+#: includes/admin/forums.php:195
+msgid ""
+"<strong>Publish</strong> - You can set the terms of publishing your forum in "
+"the Publish box. For Status, Visibility, and Publish (immediately), click on "
+"the Edit link to reveal more options. Visibility includes options for "
+"password-protecting a forum or making it stay at the top of your blog "
+"indefinitely (sticky). Publish (immediately) allows you to set a future or "
+"past date and time, so you can schedule a forum to be published in the "
+"future or backdate a forum."
+msgstr ""
+"<strong>Publicera</strong> - Du kan ange villkoren för att publicera ditt "
+"forum i panelen Publicera. För status, synlighet, och publicera "
+"(omedelbart), klicka på länken Redigera för att visa fler alternativ. "
+"Synlighet innehåller alternativ för att lösenordsskydda ett forum eller "
+"klistra det i toppen på obestämd tid (klistrad). Publicera (direkt) tillåter "
+"dig ställa in ett framtida eller tidigare datum och tid, så att du kan "
+"schemalägga ett forum som ska offentliggöras i framtiden eller antedatera "
+"ett forum."
+
+#: includes/admin/forums.php:198
+msgid ""
+"<strong>Featured Image</strong> - This allows you to associate an image with "
+"your forum without inserting it. This is usually useful only if your theme "
+"makes use of the featured image as a forum thumbnail on the home page, a "
+"custom header, etc."
+msgstr ""
+"<strong>Utvald bild</strong> - Detta låter dig associera en bild med ditt "
+"forum utan att faktiskt infoga bilden. Detta är oftast endast användbart om "
+"ditt tema använder funktionen för att visa en miniatyr, sidhuvud eller "
+"liknande i ditt forum."
+
+#: includes/admin/forums.php:205
+msgid "Select the attributes that your forum should have:"
+msgstr "Välj dom attribut som ditt forum ska ha:"
+
+#: includes/admin/forums.php:207
+msgid ""
+"<strong>Type</strong> indicates if the forum is a category or forum. "
+"Categories generally contain other forums."
+msgstr ""
+"<strong>Typ</strong> indikerar om ett forum är en kategori eller ett forum. "
+"Generellt innehåller kategorier andra forum."
+
+#: includes/admin/forums.php:209
+msgid ""
+"<strong>Visibility</strong> lets you pick the scope of each forum and what "
+"users are allowed to access it."
+msgstr ""
+"<strong>Synlighet</strong> låter dig välja omfånget för varje forum samt "
+"vilka användare som tillåts komma åt det."
+
+#: includes/admin/forums.php:210
+msgid ""
+"<strong>Parent</strong> dropdown determines the parent forum. Select the "
+"forum or category from the dropdown, or leave the default (No Parent) to "
+"create the forum at the root of your forums."
+msgstr ""
+"<strong>Förälder</strong> rullgardinsmenyn bestämmer moderforum. Välj det "
+"forum eller den kategori i menyn som ska agera förälder, eller lämna tomt "
+"för att låta forumet agera huvudforum/kategori."
+
+#: includes/admin/forums.php:211
+msgid "<strong>Order</strong> allows you to order your forums numerically."
+msgstr "<strong>Ordning</strong> låter dig ordna forum efter numrering."
+
+#: includes/admin/forums.php:217 includes/admin/replies.php:229
+#: includes/admin/topics.php:229
+msgid "Publish Box"
+msgstr "Publiceringspanel"
+
+#: includes/admin/metaboxes.php:356
+msgid "Topic Type"
+msgstr "Ämnestyp"
+
+#: includes/admin/replies.php:145
+msgid ""
+"You can filter the list of replies by reply status using the text links in "
+"the upper left to show All, Published, Draft, or Trashed replies. The "
+"default view is to show all replies."
+msgstr ""
+"Du kan filtrera listan över svar efter status genom att använda textlänkarna "
+"uppe till vänster för att visa Alla, Publicerade, Utkast och Papperskorg. "
+"Som standard visas alla svar."
+
+#: includes/admin/replies.php:147
+msgid ""
+"You can refine the list to show only replies in a specific category or from "
+"a specific month by using the dropdown menus above the replies list. Click "
+"the Filter button after making your selection. You also can refine the list "
+"by clicking on the reply author, category or tag in the replies list."
+msgstr ""
+"Du kan förfina listan att visa endast svar i en specifik kategori eller från "
+"en specifik månad genom att använda rullgardinsmenyn ovanför listvyn. Klicka "
+"på knappen Filtrera när du gjort ditt val. Du kan också förfina listan genom "
+"att klicka på en författares namn, kategori eller tagg i listvyn."
+
+#: includes/admin/replies.php:158
+msgid ""
+"<strong>Edit</strong> takes you to the editing screen for that reply. You "
+"can also reach that screen by clicking on the reply title."
+msgstr ""
+"<strong>Redigera</strong> tar dig till sidan för att redigera svaret i "
+"fråga. Du kan även nå denna sida genom att klicka på svarets rubrik."
+
+#: includes/admin/replies.php:160
+msgid ""
+"<strong>Trash</strong> removes your reply from this list and places it in "
+"the trash, from which you can permanently delete it."
+msgstr ""
+"<strong>Kasta</strong> tar bort ditt svar från denna lista och placerar det "
+"i papperskorgen, där du sedan kan radera det permanent."
+
+#: includes/admin/replies.php:161
+msgid ""
+"<strong>Spam</strong> removes your reply from this list and places it in the "
+"spam queue, from which you can permanently delete it."
+msgstr ""
+"<strong>Skräp</strong> tar bort ditt svar från denna lista och placerar det "
+"i kön för skräppost, varpå du kan radera det permanent."
+
+#: includes/admin/replies.php:162
+msgid ""
+"<strong>Preview</strong> will show you what your draft reply will look like "
+"if you publish it. View will take you to your live site to view the reply. "
+"Which link is available depends on your reply&#8217;s status."
+msgstr ""
+"<strong>Förhandsgranska</strong> visar dig hur utkastet av ditt svar ser ut "
+"ifall du publicerar det. Visa kommer att ta dig till den uppdaterade sidan "
+"där du kan se ditt svar. Vilken länk som är synlig beror på ditt svars "
+"status."
+
+#: includes/admin/replies.php:172
+msgid ""
+"When using Bulk Edit, you can change the metadata (categories, author, etc.) "
+"for all selected replies at once. To remove a reply from the grouping, just "
+"click the x next to its name in the Bulk Edit area that appears."
+msgstr ""
+"När du använder massredigering så kan du ändra metadata (kategori, "
+"författare, etc.) för alla valda svar på en och samma gång. För att ta bort "
+"ett svar från grupperingen, klicka på krysset bredvid svarets namn i fältet "
+"för massredigering som visas."
+
+#: includes/admin/replies.php:193
+msgid ""
+"The title field and the big reply editing Area are fixed in place, but you "
+"can reposition all the other boxes using drag and drop, and can minimize or "
+"expand them by clicking the title bar of each box. Use the Screen Options "
+"tab to unhide more boxes (Excerpt, Send Trackbacks, Custom Fields, "
+"Discussion, Slug, Author) or to choose a 1- or 2-column layout for this "
+"screen."
+msgstr ""
+"Titelfältet och det stora redigeringsfältet är fixerade på plats, men du kan "
+"flytta alla andra paneler genom att använda metoden dra och släpp, du kan "
+"även minimera eller expandera dessa paneler genom att klicka på dess "
+"titelrad. Använd fliken Panelinställningar för att visa fler paneler "
+"(Utdrag, Skicka trackbacks, Egna fält, Diskussion, Permalänk, Författare) "
+"eller för att välja att visa en eller två kolumner av innehåll på denna sida."
+
+#: includes/admin/replies.php:203
+msgid "Title and Reply Editor"
+msgstr "Titel och svarsredigerare"
+
+#: includes/admin/replies.php:205
+msgid ""
+"<strong>Title</strong> - Enter a title for your reply. After you enter a "
+"title, you&#8217;ll see the permalink below, which you can edit."
+msgstr ""
+"<strong>Titel</strong> - Skriv en titel för ditt svar. Efter att du angett "
+"en titel så kommer du att se en permalänk nedan, som du kan redigera."
+
+#: includes/admin/replies.php:206
+msgid ""
+"<strong>Reply Editor</strong> - Enter the text for your reply. There are two "
+"modes of editing: Visual and HTML. Choose the mode by clicking on the "
+"appropriate tab. Visual mode gives you a WYSIWYG editor. Click the last icon "
+"in the row to get a second row of controls. The HTML mode allows you to "
+"enter raw HTML along with your reply text. You can insert media files by "
+"clicking the icons above the reply editor and following the directions. You "
+"can go to the distraction-free writing screen via the Fullscreen icon in "
+"Visual mode (second to last in the top row) or the Fullscreen button in HTML "
+"mode (last in the row). Once there, you can make buttons visible by hovering "
+"over the top area. Exit Fullscreen back to the regular reply editor."
+msgstr ""
+"<strong>Svarsredigerare</strong> - Ange texten för ditt svar. Det finns två "
+"typer av redigering: Visuell och HTML. Välj läget genom att klicka på "
+"motsvarande flik. Det visuella läget ger dig en WYSIWYG-redigerare. Klicka "
+"på sista ikonen på raden för att få en andra rad med verktyg. I HTML-läget "
+"kan du ange HTML tillsammans med din svarstext. Du kan infoga mediefiler "
+"genom att klicka på ikonerna ovanför svarsredigeraren och följa "
+"anvisningarna. Du kan gå till ett störningsfritt fullskärmsläge via "
+"Fullskärms-ikonen i den visuella redigeraren (näst sista i den översta "
+"raden) eller fullskärms-knappen i HTML-läget (sista i raden). Väl där kan du "
+"göra knappar synliga genom att föra muspekaren över det övre området. "
+"Avsluta fullskärmsläget för att komma tillbaka till den vanliga "
+"svarsredigeraren igen."
+
+#: includes/admin/replies.php:209
+msgid ""
+"<strong>Publish</strong> - You can set the terms of publishing your reply in "
+"the Publish box. For Status, Visibility, and Publish (immediately), click on "
+"the Edit link to reveal more options. Visibility includes options for "
+"password-protecting a reply or making it stay at the top of your blog "
+"indefinitely (sticky). Publish (immediately) allows you to set a future or "
+"past date and time, so you can schedule a reply to be published in the "
+"future or backdate a reply."
+msgstr ""
+"<strong>Publicera</strong> - Du kan ange villkoren för att publicera ditt "
+"svar i panelen Publicera. För status, synlighet, och publicera (omedelbart), "
+"klicka på länken Redigera för att visa fler alternativ. Synlighet innehåller "
+"alternativ för att lösenordsskydda ett svar eller klistra det i toppen på "
+"obestämd tid (klistrad). Publicera (direkt) tillåter dig ställa in ett "
+"framtida eller tidigare datum och tid, så att du kan schemalägga ett svar "
+"som ska offentliggöras i framtiden eller antedatera ett svar."
+
+#: includes/admin/replies.php:212
+msgid ""
+"<strong>Featured Image</strong> - This allows you to associate an image with "
+"your reply without inserting it. This is usually useful only if your theme "
+"makes use of the featured image as a reply thumbnail on the home page, a "
+"custom header, etc."
+msgstr ""
+"<strong>Utvald bild</strong> - Detta låter dig associera en bild med ditt "
+"svar utan att faktiskt infoga bilden. Detta är oftast endast användbart om "
+"ditt tema använder funktionen för att visa en svarsminiatyr, sidhuvud eller "
+"liknande i ditt forum."
+
+#: includes/admin/replies.php:219
+msgid "Select the attributes that your reply should have:"
+msgstr "Välj vilka attribut som ditt svar ska ha:"
+
+#: includes/admin/replies.php:221
+msgid ""
+"<strong>Forum</strong> dropdown determines the parent forum that the reply "
+"belongs to. Select the forum, or leave the default (Use Forum of Topic) to "
+"post the reply in forum of the topic."
+msgstr ""
+"<strong>Forum</strong> rullgardinsmenyn bestämmer överordnade forum som "
+"svaret tillhör. Välj forum eller kategori från rullgardinsmenyn eller låt "
+"det förvalda (använd forum för ämen) vara angett för att posta svaret i "
+"forumet tillhörande ämnet."
+
+#: includes/admin/replies.php:222
+msgid ""
+"<strong>Topic</strong> determines the parent topic that the reply belongs to."
+msgstr ""
+"<strong>Ämne</strong> bestämmer ämnesförälder som detta svar hör hemma i."
+
+#: includes/admin/settings.php:565
+msgid "Allow users to mark topics as favorites"
+msgstr "Tillåt användare att markera ämnen som favoriter"
+
+#: includes/admin/settings.php:696
+msgid "How your forum content is displayed within your existing theme."
+msgstr "Hur ditt foruminnehåll visas i ditt nuvarande tema."
+
+#: includes/admin/settings.php:720
+msgid "%1$s - %2$s"
+msgstr "%1$s - %2$s"
+
+#: includes/admin/settings.php:726
+msgid "will serve all bbPress templates"
+msgstr "kommer att användas för alla bbPress-mallar"
+
+#: includes/admin/settings.php:761
+msgid "How many topics and replies to show per page"
+msgstr "Antal ämnen och svar att visa per sida"
+
+#: includes/admin/settings.php:808
+msgid "How many topics and replies to show per RSS page"
+msgstr "Antal ämnen och svar att visa per RSS-sida"
+
+#: includes/admin/settings.php:1159
+msgid "Forum settings for BuddyPress"
+msgstr "Foruminställningar för BuddyPress"
+
+#: includes/admin/settings.php:1175
+msgid "Allow BuddyPress Groups to have their own forums"
+msgstr "Tillåt BuddyPress-grupper att ha sina egna forum"
+
+#: includes/admin/settings.php:1200
+msgid "is the parent for all group forums"
+msgstr "är förälder för alla gruppforum"
+
+#: includes/admin/settings.php:1201
+msgid ""
+"Using the Forum Root is not recommended. Changing this does not move "
+"existing forums."
+msgstr ""
+"Det är inte rekommenderat att använda forumets huvudkatalog. Genom att ändra "
+"detta kommer inte några existerande forum att flyttas."
+
+#: includes/admin/settings.php:1216
+msgid "Forum settings for Akismet"
+msgstr "Foruminställningar för Akismet"
+
+#: includes/admin/settings.php:1233
+msgid "Allow Akismet to actively prevent forum spam."
+msgstr "Tillåt Akismet att aktivt motarbeta skräppost i forumet."
+
+#: includes/admin/settings.php:1314
+msgid "is the previous forum software"
+msgstr "är den föregående forummjukvaran"
+
+#: includes/admin/settings.php:1411
+msgid ""
+"(If converting from BuddyPress Forums, use \"wp_bb_\" or your custom prefix)"
+msgstr ""
+"(Om du konverterar from ett BuddyPress forum, använd \"wp_bb_\" eller ditt "
+"anpassade prefix)"
+
+#: includes/admin/settings.php:1485
+msgid "Attempt to import user accounts from previous forums"
+msgstr "Försök att importera användarkonton från föregående forum"
+
+#: includes/admin/settings.php:1516
+msgid "Start"
+msgstr "Starta"
+
+#: includes/admin/settings.php:1517
+msgid "Stop"
+msgstr "Stoppa"
+
+#: includes/admin/settings.php:1549
+msgid ""
+"Please see the additional help tabs for more information on each indiviual "
+"section."
+msgstr ""
+"Vänligen se hjälpfliken för ytterligare information om vardera sektion."
+
+#: includes/admin/settings.php:1561
+msgid ""
+"Favorites are a way for users to save and later return to topics they favor. "
+"This is enabled by default."
+msgstr ""
+"Favoriter ger användare möjligheten att spara sina favoriter för att kunna "
+"återkomma till dessa. Denna funktion är påslagen som standard."
+
+#: includes/admin/settings.php:1562
+msgid ""
+"Subscriptions allow users to subscribe for notifications to topics that "
+"interest them. This is enabled by default."
+msgstr ""
+"Prenumerationer tillåter användare att abonnera på notifikationer för ämnen "
+"som intresserar dem. Detta är aktiverat som standard."
+
+#: includes/admin/settings.php:1564
+msgid ""
+"\"Anonymous Posting\" allows guest users who do not have accounts on your "
+"site to both create topics as well as replies."
+msgstr ""
+"\"Anonym postning\" tillåter gästanvändare utan konto på din webbplats att "
+"skapa och svara i ämnen."
+
+#: includes/admin/settings.php:1565
+msgid ""
+"The Fancy Editor brings the luxury of the Visual editor and HTML editor from "
+"the traditional WordPress dashboard into your theme."
+msgstr ""
+"Den visuella redigeraren ger dig lyxen av WordPress traditionella redigerare "
+"(visuell/HTML) direkt till ditt tema."
+
+#: includes/admin/settings.php:1566
+msgid ""
+"Auto-embed will embed the media content from a URL directly into the "
+"replies. For example: links to Flickr and YouTube."
+msgstr ""
+"Automatisk inbäddning kommer att bädda in mediainnehåll från URLer direkt i "
+"svar. T.ex: länkar till Flickr och YouTube."
+
+#: includes/admin/settings.php:1576
+msgid ""
+"Per Page settings allow you to control the number of topics and replies "
+"appear on each page."
+msgstr ""
+"Sidinställningarna låter dig kontrollera antalet ämnen och svar som ska "
+"visas per sida."
+
+#: includes/admin/settings.php:1577
+msgid ""
+"This is comparable to the WordPress \"Reading Settings\" page, where you can "
+"set the number of posts that should show on blog pages and in feeds."
+msgstr ""
+"Detta är jämförbart med WordPress-sidan \"Läsinställningar\" där du bl.a. "
+"kan ställa in antalet inlägg som visas i en blogg."
+
+#: includes/admin/settings.php:1578
+msgid ""
+"These are broken up into two separate groups: one for what appears in your "
+"theme, another for RSS feeds."
+msgstr ""
+"Dessa är uppdelade i två separata grupper: en för det som visas i ditt tema, "
+"och en annan för RSS-flöden."
+
+#: includes/admin/settings.php:1584
+msgid "Slugs"
+msgstr "Permalänkar"
+
+#: includes/admin/settings.php:1585
+msgid ""
+"The Slugs section allows you to control the permalink structure for your "
+"forums."
+msgstr ""
+"Sektionen för permalänkar låter dig anpassa dina permalänksstrukturer för "
+"ditt forum."
+
+#: includes/admin/settings.php:1586
+msgid ""
+"\"Archive Slugs\" are used as the \"root\" for your forums and topics. If "
+"you combine these values with existing page slugs, bbPress will attempt to "
+"output the most correct title and content."
+msgstr ""
+"\"Arkivpermalänkar\" används som \"rot\" för dina forum och ämnen. Om du "
+"kombinerar dessa värden med existerande sidpermalänkar så kommer bbPress "
+"försöka skriva ut mest korrekt titel och innehåll."
+
+#: includes/admin/settings.php:1587
+msgid ""
+"\"Single Slugs\" are used as a prefix when viewing an individual forum, "
+"topic, reply, user, or view."
+msgstr ""
+"\"Individuella permalänkar\" används som prefix när individuella forum, "
+"ämnen, svar, användare visas."
+
+#: includes/admin/settings.php:1588
+msgid ""
+"In the event of a slug collision with WordPress or BuddyPress, a warning "
+"will appear next to the problem slug(s)."
+msgstr ""
+"Om det uppstår kollisioner mellan WordPress eller BuddyPress permalänkar så "
+"visas en varning intill berörda permalänkar."
+
+#: includes/admin/topics.php:157
+msgid ""
+"<strong>Edit</strong> takes you to the editing screen for that topic. You "
+"can also reach that screen by clicking on the topic title."
+msgstr ""
+"<strong>Redigera</strong> tar dig till sida för att redigera valt ämne. Du "
+"kan även nå denna panel genom att klicka på ämnets titel."
+
+#: includes/admin/topics.php:158
+msgid ""
+"<strong>Trash</strong> removes your topic from this list and places it in "
+"the trash, from which you can permanently delete it."
+msgstr ""
+"<strong>Kasta i papperskorgen</strong> tar bort ditt ämne och placerar det i "
+"papperkorgen, därifrån kan du välja att ta bort det permanent."
+
+#: includes/admin/topics.php:159
+msgid ""
+"<strong>Spam</strong> removes your topic from this list and places it in the "
+"spam queue, from which you can permanently delete it."
+msgstr ""
+"<strong>Skräp</strong> tar bort ditt ämne från denna lista och placerar det "
+"i papperskorgen, varpå du kan radera det permanent."
+
+#: includes/admin/topics.php:160
+msgid ""
+"<strong>Preview</strong> will show you what your draft topic will look like "
+"if you publish it. View will take you to your live site to view the topic. "
+"Which link is available depends on your topic&#8217;s status."
+msgstr ""
+"<strong>Förhandsgranska</strong> kommer visa dig hur utkastet av ditt ämne "
+"ser ut innan du publicerar det. Visa tar dig till den uppdaterade sidan där "
+"du kan se ditt ämne. Vilken länk som är tillgänglig är beroende på ämnets "
+"status."
+
+#: includes/admin/topics.php:194
+msgid ""
+"The title field and the big topic editing Area are fixed in place, but you "
+"can reposition all the other boxes using drag and drop, and can minimize or "
+"expand them by clicking the title bar of each box. Use the Screen Options "
+"tab to unhide more boxes (Excerpt, Send Trackbacks, Custom Fields, "
+"Discussion, Slug, Author) or to choose a 1- or 2-column layout for this "
+"screen."
+msgstr ""
+"Titelfältet och det stora redigeringsfältet är fixerade på plats, men du kan "
+"omplacera alla andra paneler genom att använda metoden dra och släpp, du kan "
+"även minimera eller expandera dessa paneler genom att klicka på dess "
+"titelrad. Använd fliken Panelinställningar för att visa fler paneler "
+"(Utdrag, Skicka trackbacks, Egna fält, Diskussion, Permalänk, Författare) "
+"eller för att välja att visa en eller två kolumner av innehåll på denna sida."
+
+#: includes/admin/topics.php:204
+msgid "Title and Topic Editor"
+msgstr "Titel och ämnesredigerare"
+
+#: includes/admin/topics.php:206
+msgid ""
+"<strong>Title</strong> - Enter a title for your topic. After you enter a "
+"title, you&#8217;ll see the permalink below, which you can edit."
+msgstr ""
+"<strong>Rubrik</strong> - Ange en rubrik för ditt ämne. När du angett en "
+"rubrik så kommer du att se en permalänk nedan som du även kan redigera vid "
+"behov."
+
+#: includes/admin/topics.php:207
+msgid ""
+"<strong>Topic Editor</strong> - Enter the text for your topic. There are two "
+"modes of editing: Visual and HTML. Choose the mode by clicking on the "
+"appropriate tab. Visual mode gives you a WYSIWYG editor. Click the last icon "
+"in the row to get a second row of controls. The HTML mode allows you to "
+"enter raw HTML along with your topic text. You can insert media files by "
+"clicking the icons above the topic editor and following the directions. You "
+"can go to the distraction-free writing screen via the Fullscreen icon in "
+"Visual mode (second to last in the top row) or the Fullscreen button in HTML "
+"mode (last in the row). Once there, you can make buttons visible by hovering "
+"over the top area. Exit Fullscreen back to the regular topic editor."
+msgstr ""
+"<strong>Ämnesredigerare</strong> - Ange texten för ditt ämne. Det finns två "
+"typer av redigering: Visuell och HTML. Välj läget genom att klicka på "
+"motsvarande flik. Det visuella läget ger dig en WYSIWYG-redigerare. Klicka "
+"på sista ikonen på raden för att få en andra rad med verktyg. I HTML-läget "
+"kan du ange HTML tillsammans med din ämnestext. Du kan infoga mediafiler "
+"genom att klicka på ikonerna ovanför svarsredigeraren och följa "
+"anvisningarna. Du kan gå till ett störningsfritt fullskärmsläge via "
+"Fullskärms-ikonen i den visuella redigeraren (näst sista i den översta "
+"raden) eller fullskärms-knappen i HTML-läget (sista i raden). Väl där kan du "
+"göra knappar synliga genom att föra muspekaren över det övre området. "
+"Avsluta fullskärmsläget för att komma tillbaka till den vanliga "
+"ämnesredigeraren igen."
+
+#: includes/admin/topics.php:210
+msgid ""
+"<strong>Publish</strong> - You can set the terms of publishing your topic in "
+"the Publish box. For Status, Visibility, and Publish (immediately), click on "
+"the Edit link to reveal more options. Visibility includes options for "
+"password-protecting a topic or making it stay at the top of your blog "
+"indefinitely (sticky). Publish (immediately) allows you to set a future or "
+"past date and time, so you can schedule a topic to be published in the "
+"future or backdate a topic."
+msgstr ""
+"<strong>Publicera</strong> - Du kan ange villkoren för att publicera ditt "
+"ämne i panelen Publicera. För status, synlighet, och publicera (omedelbart), "
+"klicka på länken Redigera för att visa fler alternativ. Synlighet innehåller "
+"alternativ för att lösenordsskydda ett ämne eller klistra det i toppen på "
+"obestämd tid (klistrad). Publicera (direkt) tillåter dig ställa in ett "
+"framtida eller tidigare datum och tid, så att du kan schemalägga ett ämne "
+"som ska offentliggöras i framtiden eller antedatera ett ämne."
+
+#: includes/admin/topics.php:213
+msgid ""
+"<strong>Featured Image</strong> - This allows you to associate an image with "
+"your topic without inserting it. This is usually useful only if your theme "
+"makes use of the featured image as a topic thumbnail on the home page, a "
+"custom header, etc."
+msgstr ""
+"<strong>Utvald bild</strong> - Detta låter dig associera en bild med ditt "
+"ämne utan att faktiskt infoga bilden. Detta är oftast endast användbart om "
+"ditt tema använder funktionen för att visa en ämnessminiatyr, sidhuvud eller "
+"liknande i ditt forum."
+
+#: includes/admin/topics.php:220
+msgid "Select the attributes that your topic should have:"
+msgstr "Välj dom attribut som din ämne ska ha:"
+
+#: includes/admin/topics.php:222
+msgid ""
+"<strong>Forum</strong> dropdown determines the parent forum that the topic "
+"belongs to. Select the forum or category from the dropdown, or leave the "
+"default (No Forum) to post the topic without an assigned forum."
+msgstr ""
+"<strong>Forum</strong> rullgardinsmenyn bestämmer överordnade forum som "
+"ämnet tillhör. Välj forum eller kategori från rullgardinsmenyn eller låt det "
+"förvalda (inget forum) vara angett för att posta ämnet utan ett tilldelat "
+"forum."
+
+#: includes/admin/topics.php:223
+msgid ""
+"<strong>Topic Type</strong> dropdown indicates the sticky status of the "
+"topic. Selecting the super sticky option would stick the topic to the front "
+"of your forums, i.e. the topic index, sticky option would stick the topic to "
+"its respective forum. Selecting normal would not stick the topic anywhere."
+msgstr ""
+"<strong>Ämnestyp</strong> rullgardinsmenyn visar klistrad status för ett "
+"ämne. Att välja alternativet super-klistrad skulle hålla ämnet på framsidan "
+"av ditt forum. I en listning av ämnen så skulle det klistrade alternativet "
+"klistra ämnet till respektive forumdel. Att välja normal klistrar inte ämnet "
+"någonstans."
+
+#: includes/admin/topics.php:787
+msgctxt "Close a Topic"
+msgid "Close"
+msgstr "Stäng"
+
+#: includes/admin/topics.php:789
+msgctxt "Open a Topic"
+msgid "Open"
+msgstr "Öppna"
+
+#: includes/core/update.php:186
+msgid "General"
+msgstr "Allmänt"
+
+#: includes/core/update.php:187
+msgid "General chit-chat"
+msgstr "Allmänt snack"
+
+#: includes/core/update.php:188
+msgid "Hello World!"
+msgstr "Hej Världen!"
+
+#: includes/core/update.php:189
+msgid "I am the first topic in your new forums."
+msgstr "Jag är ditt första ämne i ditt nya forum."
+
+#: includes/core/update.php:190
+msgid "Re: Hello World!"
+msgstr "Sv: Hej världen!"
+
+#: includes/core/update.php:191
+msgid "Oh, and this is what a reply looks like."
+msgstr "Åh, och detta är hur ett svar ser ut."
+
+#: includes/common/widgets.php:39
+msgid ""
+"A simple login form with optional links to sign-up and lost password pages."
+msgstr ""
+"Ett enkelt inloggningsformulär med valfria länkar för att registrera sig och "
+"lösenordspåminnelse."
+
+#: includes/common/widgets.php:42
+msgid "(bbPress) Login Widget"
+msgstr "(bbPress) Inloggningswidget"
+
+#: includes/common/widgets.php:243
+msgid "A list of registered optional topic views."
+msgstr "En lista över tillgängliga alternativa ämnesvyer."
+
+#: includes/common/widgets.php:246
+msgid "(bbPress) Topic Views List"
+msgstr "(bbPress) Lista över ämnesvisningar"
+
+#: includes/common/widgets.php:512
+msgid "A list of forums with an option to set the parent."
+msgstr "En lista över forum med ett alternativ för att bestämma förälder."
+
+#: includes/common/widgets.php:515
+msgid "(bbPress) Forums List"
+msgstr "(bbPress) Forumlista"
+
+#: includes/common/widgets.php:695
+msgid "(bbPress) Recent Topics"
+msgstr "(bbPress) Senaste ämnen"
+
+#: includes/common/widgets.php:1078
+msgid "A list of the most recent replies."
+msgstr "En lista över dom senaste svaren."
+
+#: includes/common/widgets.php:1081
+msgid "(bbPress) Recent Replies"
+msgstr "(bbPress) Senaste svaren"
+
+#: includes/common/widgets.php:1178
+msgctxt "widgets"
+msgid "%1$s on %2$s"
+msgstr "%1$s i %2$s"
+
+#: includes/admin/settings.php:667
+msgid "Allow topic and reply revision logging"
+msgstr "Tillåt loggning av ämnen och svar"
+
+#: templates/default/bbpress/form-reply.php:158
+msgid "The topic &#8216;%s&#8217; is closed to new replies."
+msgstr "Ämnet &#8217;%s&#8217; är stängd för nya svar."
+
+#: includes/common/widgets.php:640 includes/common/widgets.php:880
+msgid "Parent Forum ID:"
+msgstr "ID för huvudforum:"
+
+#: includes/common/widgets.php:103
+msgid "Remember Me"
+msgstr "Kom ihåg mig"
+
+#: includes/common/widgets.php:190
+msgid "Register URI:"
+msgstr "URI för registrering:"
+
+#: templates/default/bbpress/form-forum.php:35
+#: templates/default/bbpress/form-topic.php:41
+msgid "Now Editing &ldquo;%s&rdquo;"
+msgstr "Redigerar &ldquo;%s&rdquo;"
+
+#: includes/admin/metaboxes.php:127
+msgid "Users &amp; Moderation"
+msgstr "Användare &amp; Moderering"
+
+#: includes/common/widgets.php:195
+msgid "Lost Password URI:"
+msgstr "URI för återställning av lösenord:"
+
+#: includes/common/widgets.php:646 includes/common/widgets.php:886
+msgid "\"0\" to show only root - \"any\" to show all"
+msgstr "\"0\" för att visa endast root - \"alla\" för att visa alla"
+
+#: includes/admin/settings.php:1734
+msgid "%s page"
+msgstr "%s sida"
+
+#: includes/replies/functions.php:379 includes/replies/functions.php:701
+msgid ""
+"<strong>ERROR</strong>: There was a problem adding the tags to the topic."
+msgstr ""
+"<strong>FEL</strong>: Det uppstod ett problem med att lägga till taggar i "
+"ämnet."
+
+#: includes/topics/functions.php:270
+msgid "<strong>ERROR</strong>: Your topic cannot be created at this time."
+msgstr "<strong>FEL</strong>: Ditt ämne kan för tillfället inte skapas."
+
+#: includes/topics/functions.php:602
+msgid "<strong>ERROR</strong>: Your topic cannot be edited at this time."
+msgstr "<strong>FEL</strong>: Ditt ämne kan för tillfället inte redigeras."
+
+#: templates/default/bbpress/form-topic.php:43
+msgid "Create New Topic in &ldquo;%s&rdquo;"
+msgstr "Skapa nytt ämne i &rdquo;%s&rdquo;"
+
+#: includes/replies/functions.php:622
+msgid "<strong>ERROR</strong>: Your reply cannot be edited at this time."
+msgstr "<strong>FEL</strong>: Ditt svar kan för tillfället inte redigeras."
+
+#: includes/replies/functions.php:303
+msgid "<strong>ERROR</strong>: Your reply cannot be created at this time."
+msgstr "<strong>FEL</strong>: Ditt svar kan för tillfället inte sparas."
+
+#: includes/extend/buddypress/activity.php:420
+msgid "%1$s started the topic %2$s in the forum %3$s"
+msgstr "%1$s skapade ämnet %2$s i forumet %3$s"
+
+#: templates/default/bbpress/form-reply.php:166
+#: templates/default/bbpress/form-topic.php:226
+msgid "The forum &#8216;%s&#8217; is closed to new topics and replies."
+msgstr "Forumet &#8217;%s&#8217; är stängt för nya ämnen och svar."
+
+#: includes/extend/buddypress/activity.php:565
+msgid "%1$s replied to the topic %2$s in the forum %3$s"
+msgstr "%1$s svarade på ämnet %2$s i forumet %3$s"
+
+#: includes/forums/template.php:2008
+msgid "This forum contains %1$s and %2$s."
+msgstr "Detta forum innehåller %1$s och %2$s."
+
+#: templates/default/bbpress/feedback-logged-in.php:13
+msgid "You are already logged in."
+msgstr "Du är redan inloggad."
+
+#: templates/default/bbpress/form-topic.php:75
+msgid "Topic Title (Maximum Length: %d):"
+msgstr "Ämnestitel (Max antal tecken: %d):"
+
+#: includes/admin/tools.php:1142 includes/forums/template.php:50
+msgid "All Forums"
+msgstr "Alla forum"
+
+#: includes/forums/template.php:1255 includes/topics/template.php:2120
+msgid " (+ %d hidden)"
+msgstr " (+ %d dolda)"
+
+#: includes/topics/template.php:3377
+msgid "View Topic Tag"
+msgstr "Visa ämnestagg"
+
+#: templates/default/bbpress/form-forum.php:55
+#: templates/default/bbpress/form-reply.php:44
+#: templates/default/bbpress/form-topic.php:61
+msgid "Your account has the ability to post unrestricted HTML content."
+msgstr "Ditt konto har behörighet att posta ofiltrerad HTML-kod."
+
+#: includes/forums/template.php:2006
+msgid "This category contains %1$s and %2$s."
+msgstr "Denna kategori innehåller %1$s och %2$s."
+
+#: includes/admin/settings.php:1687
+msgid "Pages"
+msgstr "Sidor"
+
+#: includes/common/template.php:2227
+msgid "&lsaquo;"
+msgstr "&rsaquo;"
+
+#: includes/admin/replies.php:780 includes/admin/topics.php:850
+msgid "Empty Spam"
+msgstr "Tomt skräpfilter"
+
+#: includes/admin/settings.php:1690
+msgid "Menus"
+msgstr "Menyer"
+
+#: includes/admin/settings.php:134 includes/admin/settings.php:1688
+msgid "Revisions"
+msgstr "Versioner"
+
+#: includes/admin/replies.php:652 includes/admin/replies.php:667
+#: includes/admin/topics.php:688
+msgid "No Forum"
+msgstr "Inget forum"
+
+#: includes/extend/akismet.php:467 includes/extend/akismet.php:482
+msgid "Post status was changed to %s"
+msgstr "Inläggsstatusen ändrades till %s"
+
+#: includes/common/template.php:2132
+msgid "Home"
+msgstr "Hem"
+
+#: includes/admin/settings.php:1701
+msgid "Forums base"
+msgstr "Forumbas"
+
+#: includes/admin/settings.php:1704
+msgid "Topics base"
+msgstr "Ämnesbas"
+
+#: includes/extend/akismet.php:463
+msgid "Akismet caught this post as spam"
+msgstr "Akismet markerade detta inlägg som skräp"
+
+#: includes/common/template.php:2227
+msgid "&rsaquo;"
+msgstr "&rsaquo;"
+
+#: includes/extend/akismet.php:316
+msgid "%1$s reported this %2$s as not spam"
+msgstr "%1$s rapporterade detta %2$s som inte skräp"
+
+#: includes/admin/replies.php:658
+msgid "(Mismatch)"
+msgstr "(Matchar inte)"
+
+#: includes/admin/replies.php:626 includes/admin/replies.php:634
+msgid "No Topic"
+msgstr "Inget ämne"
+
+#: includes/extend/akismet.php:309
+msgid "%1$s reported this %2$s as spam"
+msgstr "%1$s rapporterade detta %2$s som skräp"
+
+#: includes/extend/akismet.php:489
+msgid ""
+"Akismet was unable to check this post (response: %s), will automatically "
+"retry again later."
+msgstr ""
+"Akismet kunde inte kontrollera detta inlägg (svar: %s), ett nytt försök "
+"kommer automatiskt ske igen."
+
+#: includes/admin/settings.php:1696
+msgid "Category base"
+msgstr "Kategoribas"
+
+#: includes/admin/settings.php:1693
+msgid "Tag base"
+msgstr "Taggbas"
+
+#: includes/common/functions.php:513 includes/common/functions.php:545
+msgid "Spammed: %s"
+msgstr "Skräppost: %s"
+
+#: includes/common/functions.php:512 includes/common/functions.php:544
+msgid "Private: %s"
+msgstr "Privat: %s"
+
+#: includes/admin/settings.php:1689
+msgid "Attachments"
+msgstr "Bilagor"
+
+#: includes/admin/topics.php:155
+msgid ""
+"Hovering over a row in the topics list will display action links that allow "
+"you to manage your topic. You can perform the following actions:"
+msgstr ""
+"När du för muspekaren över en rad i ämneslistan visas åtgärdslänkar som gör "
+"att du kan hantera ditt ämne. Du kan utföra följande åtgärder:"
+
+#: includes/admin/topics.php:218 includes/admin/topics.php:255
+msgid "Topic Attributes"
+msgstr "Ämnesattribut"
+
+#: includes/admin/topics.php:485
+msgid "The topic was not found!"
+msgstr "Ämnet kunde inte hittas!"
+
+#: includes/admin/topics.php:575
+msgid "There was a problem opening the topic \"%1$s\"."
+msgstr "Det uppstod ett problem med att öppna ämnet \"%1$s\"."
+
+#: includes/admin/topics.php:575
+msgid "Topic \"%1$s\" successfully opened."
+msgstr "Ämnet \"%1$s\" öppnades."
+
+#: includes/admin/topics.php:579
+msgid "There was a problem closing the topic \"%1$s\"."
+msgstr "Det uppstod ett problem med att stänga ämnet \"%1$s\"."
+
+#: includes/admin/topics.php:579
+msgid "Topic \"%1$s\" successfully closed."
+msgstr "Ämnet \"%1$s\" stängdes."
+
+#: includes/admin/topics.php:583
+msgid "There was a problem sticking the topic \"%1$s\" to front."
+msgstr "Det uppstod ett problem med att klistra ämnet \"%1$s\" på förstasidan."
+
+#: includes/admin/topics.php:583
+msgid "Topic \"%1$s\" successfully sticked to front."
+msgstr "Ämnet \"%1$s\" klistrades till förstasidan."
+
+#: includes/admin/topics.php:587
+msgid "There was a problem sticking the topic \"%1$s\"."
+msgstr "Det uppstod ett problem med att klistra ämnet \"%1$s\"."
+
+#: includes/admin/topics.php:587
+msgid "Topic \"%1$s\" successfully sticked."
+msgstr "Ämnet \"%1$s\" klistrades."
+
+#: includes/admin/topics.php:591
+msgid "There was a problem unsticking the topic \"%1$s\"."
+msgstr "Det uppstod ett problem när ämnet \"%1$s\" skulle avklistras."
+
+#: includes/admin/topics.php:591
+msgid "Topic \"%1$s\" successfully unsticked."
+msgstr "Ämnet \"%1$s\" avklistrades."
+
+#: includes/admin/topics.php:595
+msgid "There was a problem marking the topic \"%1$s\" as spam."
+msgstr "Det uppstod ett problem när ämnet \"%1$s\" skulle märkas som skräp."
+
+#: includes/admin/topics.php:595
+msgid "Topic \"%1$s\" successfully marked as spam."
+msgstr "Ämnet \"%1$s\" markerades som skräp."
+
+#: includes/admin/topics.php:599
+msgid "There was a problem unmarking the topic \"%1$s\" as spam."
+msgstr "Ett fel uppstod när ämnet \"%1$s\" skulle markeras som inte spam."
+
+#: includes/admin/topics.php:599
+msgid "Topic \"%1$s\" successfully unmarked as spam."
+msgstr "Ämnet \"%1$s\" avmarkerades som skräp."
+
+#: includes/admin/topics.php:787
+msgid "Close this topic"
+msgstr "Stäng ämne"
+
+#: includes/admin/topics.php:789
+msgid "Open this topic"
+msgstr "Öppna denna ämne"
+
+#: includes/admin/topics.php:798
+msgid "Unstick this topic"
+msgstr "Ta bort klistrat läge för detta ämne"
+
+#: includes/admin/topics.php:801
+msgid "Stick this topic to its forum"
+msgstr "Klistra detta ämne till dess forum"
+
+#: includes/admin/topics.php:801
+msgid "Stick this topic to front"
+msgstr "Klistra detta ämne till förstasidan"
+
+#: includes/admin/topics.php:808
+msgid "Mark the topic as not spam"
+msgstr "Ta bort skräppostmarkering för ämne"
+
+#: includes/admin/topics.php:810
+msgid "Mark this topic as spam"
+msgstr "Markera detta ämne som skräp"
+
+#: includes/admin/topics.php:920
+msgid "Topic updated. <a href=\"%s\">View topic</a>"
+msgstr "Ämne uppdaterat. <a href=\"%s\">Visa tråd</a>"
+
+#: includes/admin/topics.php:929
+msgid "Topic updated."
+msgstr "Ämne uppdaterat."
+
+#: includes/admin/topics.php:934
+msgid "Topic restored to revision from %s"
+msgstr "Ämnet återställt till versionen från %s"
+
+#: includes/admin/topics.php:938
+msgid "Topic created. <a href=\"%s\">View topic</a>"
+msgstr "Ämne skapad. <a href=\"%s\">Visa tråd</a>"
+
+#: includes/admin/topics.php:941
+msgid "Topic saved."
+msgstr "Ämne sparat."
+
+#: includes/admin/topics.php:944
+msgid "Topic submitted. <a target=\"_blank\" href=\"%s\">Preview topic</a>"
+msgstr "Ämne postat.<a target=\"_blank\" href=\"%s\">Förhandsgranska ämne</a>"
+
+#: includes/admin/topics.php:947
+msgid ""
+"Topic scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s"
+"\">Preview topic</a>"
+msgstr ""
+"Ämne tidsinställt till: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Förhandsgranska ämne</a>"
+
+#: includes/admin/topics.php:954
+msgid "Topic draft updated. <a target=\"_blank\" href=\"%s\">Preview topic</a>"
+msgstr ""
+"Utkast av ämne uppdaterat.<a target=\"_blank\" href=\"%s\">Förhandsgranska "
+"ämne</a>"
+
+#: includes/common/widgets.php:97
+#: templates/default/bbpress/form-user-login.php:22
+msgid "Password"
+msgstr "Lösenord"
+
+#: templates/default/bbpress/form-user-login.php:28
+msgid "Keep me signed in"
+msgstr "Håll mig inloggad"
+
+#: templates/default/bbpress/form-user-edit.php:130
+msgid "Type your new password again."
+msgstr "Ange ditt nya lösenord igen."
+
+#: templates/default/bbpress/form-user-edit.php:29
+msgid "Last Name"
+msgstr "Efternamn"
+
+#: templates/default/bbpress/form-user-edit.php:24
+msgid "First Name"
+msgstr "Förnamn"
+
+#: templates/default/bbpress/form-reply.php:114
+#: templates/default/bbpress/form-topic.php:184
+msgid "Keep a log of this edit:"
+msgstr "För en logg över denna redigering:"
+
+#: includes/admin/topics.php:801 includes/topics/template.php:2747
+msgid "Stick"
+msgstr "Klistra"
+
+#: templates/default/bbpress/form-topic-split.php:37
+msgid "Split Method"
+msgstr "Metod för delning"
+
+#: includes/common/widgets.php:92
+#: templates/default/bbpress/form-user-edit.php:98
+#: templates/default/bbpress/form-user-login.php:17
+#: templates/default/bbpress/form-user-register.php:23
+msgid "Username"
+msgstr "Användarnamn"
+
+#: templates/default/bbpress/form-topic-split.php:33
+msgid ""
+"If you use the existing topic option, replies within both topics will be "
+"merged chronologically. The order of the merged replies is based on the time "
+"and date they were posted."
+msgstr ""
+"Om du använder befintliga ämnesinställningar kommer svar inom båda ämnena "
+"att slås samman kronologiskt. Ordningen på de sammanslagna svaren utgår från "
+"den tid och datum då de publicerades."
+
+#: templates/default/bbpress/form-reply-move.php:41
+#: templates/default/bbpress/form-topic-split.php:41
+msgid "New topic in <strong>%s</strong> titled:"
+msgstr "Nytt ämne i <strong>%s</strong> med titeln:"
+
+#: templates/default/bbpress/form-topic-tag.php:95
+msgid "Any links to this tag will no longer function."
+msgstr "Inga länkar till denna tagg kommer längre att fungera."
+
+#: templates/default/bbpress/user-favorites.php:28
+msgid "This user has no favorite topics."
+msgstr "Denna användare har inga favoritämnen."
+
+#: templates/default/bbpress/user-favorites.php:15
+msgid "Favorite Forum Topics"
+msgstr "Favoritämnen"
+
+#: templates/default/bbpress/user-favorites.php:28
+msgid "You currently have no favorite topics."
+msgstr "Du har för närvarande inga favoritämnen."
+
+#: includes/replies/template.php:2360
+msgid "Viewing %1$s post"
+msgid_plural "Viewing %1$s posts"
+msgstr[0] "Visar %1$s inlägg"
+msgstr[1] "Visar %1$s inlägg"
+
+#: templates/default/bbpress/user-subscriptions.php:47
+msgid "This user is not currently subscribed to any topics."
+msgstr "Den här användaren prenumererar för närvarande inte på några ämnen."
+
+#: templates/default/bbpress/user-subscriptions.php:47
+msgid "You are not currently subscribed to any topics."
+msgstr "Du prenumererar för närvarande inte på några ämnen."
+
+#: templates/default/bbpress/form-reply.php:118
+#: templates/default/bbpress/form-topic.php:188
+msgid "Optional reason for editing:"
+msgstr "Skäl för redigering (valfritt):"
+
+#: includes/common/widgets.php:89 includes/common/widgets.php:110
+#: templates/default/bbpress/form-user-login.php:14
+#: templates/default/bbpress/form-user-login.php:35
+msgid "Log In"
+msgstr "Logga in"
+
+#: includes/common/widgets.php:185 includes/common/widgets.php:337
+#: includes/common/widgets.php:465 includes/common/widgets.php:634
+#: includes/common/widgets.php:876 includes/common/widgets.php:1030
+#: includes/common/widgets.php:1234
+msgid "Title:"
+msgstr "Titel:"
+
+#: templates/default/bbpress/form-forum.php:138
+#: templates/default/bbpress/form-reply-move.php:72
+#: templates/default/bbpress/form-reply.php:135
+#: templates/default/bbpress/form-topic-merge.php:93
+#: templates/default/bbpress/form-topic-split.php:97
+#: templates/default/bbpress/form-topic.php:203
+msgid "Submit"
+msgstr "Skicka"
+
+#: templates/default/bbpress/form-user-lost-pass.php:18
+msgid "Username or Email"
+msgstr "Användarnamn eller e-post"
+
+#: includes/common/widgets.php:128
+#: templates/default/bbpress/form-user-lost-pass.php:14
+msgid "Lost Password"
+msgstr "Glömt lösenord"
+
+#: templates/default/bbpress/form-reply.php:174
+msgid "You must be logged in to reply to this topic."
+msgstr "Du måste vara inloggad för att svara på detta ämne."
+
+#: includes/admin/metaboxes.php:497
+#: templates/default/bbpress/form-user-edit.php:14
+#: templates/default/bbpress/form-user-edit.php:19
+msgid "Name"
+msgstr "Namn"
+
+#: templates/default/bbpress/form-topic-tag.php:101
+msgid ""
+"Are you sure you want to delete the \"%s\" tag? This is permanent and cannot "
+"be undone."
+msgstr ""
+"Är du säker på att du vill radera taggen \"%s\"? Detta är permanent och går "
+"inte att ångra."
+
+#: templates/default/bbpress/form-topic-merge.php:64
+#: templates/default/bbpress/form-topic-split.php:68
+msgid "Topic Extras"
+msgstr "Ämnesalternativ"
+
+#: templates/default/bbpress/form-topic-split.php:42
+msgid "Split: %s"
+msgstr "Dela: %s"
+
+#: templates/default/bbpress/form-reply-move.php:49
+#: templates/default/bbpress/form-topic-split.php:49
+msgid "Use an existing topic in this forum:"
+msgstr "Använd en befintligt ämne i detta forum:"
+
+#: templates/default/bbpress/loop-single-topic.php:60
+msgid "Started by: %1$s"
+msgstr "Startat av: %1$s"
+
+#: includes/admin/topics.php:635 templates/default/bbpress/loop-topics.php:20
+msgid "Voices"
+msgstr "Deltagare"
+
+#: templates/default/bbpress/user-topics-created.php:28
+msgid "This user has not created any topics."
+msgstr "Den här användaren har inte skapat några ämnen."
+
+#: templates/default/bbpress/user-topics-created.php:28
+msgid "You have not created any topics."
+msgstr "Du har inte skapat några ämnen."
+
+#: includes/admin/metaboxes.php:508
+#: templates/default/bbpress/form-anonymous.php:32
+msgid "Website:"
+msgstr "Webbplats:"
+
+#: templates/default/bbpress/form-user-edit.php:115
+msgid ""
+"There is a pending email address change to <code>%1$s</code>. <a href=\"%2$s"
+"\">Cancel</a>"
+msgstr ""
+"Det finns en väntande e-postadressändring till <code>%1$s </code>. <a href="
+"\"%2$s\">Avbryt</a>"
+
+#: templates/default/bbpress/form-user-edit.php:127
+msgid ""
+"If you would like to change the password type a new one. Otherwise leave "
+"this blank."
+msgstr "Om du vill ändra lösenordet, ange ett nytt här. Lämna det tomt annars."
+
+#: templates/default/bbpress/form-user-edit.php:124
+msgid "New Password"
+msgstr "Nytt lösenord"
+
+#: templates/default/bbpress/form-user-edit.php:90
+#: templates/default/bbpress/form-user-edit.php:93
+msgid "Account"
+msgstr "Konto"
+
+#: templates/default/bbpress/form-user-edit.php:34
+msgid "Nickname"
+msgstr "Smeknamn"
+
+#: templates/default/bbpress/form-user-edit.php:49
+#: templates/default/bbpress/form-user-edit.php:52
+msgid "Contact Info"
+msgstr "Kontaktuppgifter"
+
+#: includes/admin/metaboxes.php:509
+#: templates/default/bbpress/form-user-edit.php:57
+msgid "Website"
+msgstr "Webbplats"
+
+#: templates/default/bbpress/form-user-edit.php:74
+#: templates/default/bbpress/form-user-edit.php:77
+msgid "About Yourself"
+msgstr "Om dig"
+
+#: templates/default/bbpress/form-user-edit.php:74
+#: templates/default/bbpress/form-user-edit.php:77
+msgid "About the user"
+msgstr "Om användaren"
+
+#: templates/default/bbpress/form-user-edit.php:82
+msgid "Biographical Info"
+msgstr "Biografi"
+
+#: includes/admin/replies.php:750 includes/admin/topics.php:820
+#: includes/replies/template.php:2047 includes/topics/template.php:2632
+msgid "Move this item to the Trash"
+msgstr "Flytta detta objekt till papperskorgen"
+
+#: includes/common/template.php:2202
+msgid "(Edit)"
+msgstr "(Redigera)"
+
+#: includes/common/functions.php:514 includes/common/functions.php:546
+msgid "Trashed: %s"
+msgstr "Kastade: %s"
+
+#: includes/common/functions.php:624
+msgid "<strong>ERROR</strong>: Invalid author name submitted!"
+msgstr "<strong>FEL</strong>: Ogiltigt författarnamn angivet!"
+
+#: includes/common/functions.php:628
+msgid "<strong>ERROR</strong>: Invalid email address submitted!"
+msgstr "<strong>FEL</strong>: Ogiltig e-postadress angiven!"
+
+#: includes/replies/template.php:1210 includes/topics/template.php:1481
+#: includes/users/template.php:1651
+msgid "View %s's profile"
+msgstr "Visa %s's profil"
+
+#: templates/default/bbpress/form-reply.php:97
+#: templates/default/bbpress/form-topic.php:168
+msgid "Notify me of follow-up replies via email"
+msgstr "Meddela mig via mail vid svar"
+
+#: templates/default/bbpress/form-reply.php:93
+#: templates/default/bbpress/form-topic.php:164
+msgid "Notify the author of follow-up replies via email"
+msgstr "Meddela författaren om uppföljningar via e-post"
+
+#: templates/default/bbpress/form-topic.php:133
+msgid "Topic Type:"
+msgstr "Ämnestyp:"
+
+#: templates/default/bbpress/form-topic.php:101
+msgid "Topic Tags:"
+msgstr "Ämnestaggar:"
+
+#: templates/default/bbpress/form-forum.php:82
+#: templates/default/bbpress/form-reply.php:64
+#: templates/default/bbpress/form-topic.php:90
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes:"
+msgstr ""
+"Du kan använda följande <abbr title=\"HyperText Markup Language\">HTML</"
+"abbr>-taggar och attribut:"
+
+#: templates/default/bbpress/form-topic.php:53
+msgid ""
+"This forum is marked as closed to new topics, however your posting "
+"capabilities still allow you to do so."
+msgstr ""
+"Detta forum är markerat som stängt för nya ämnen men din behörighetsnivå "
+"tillåter dig ändå att göra det."
+
+#: templates/default/bbpress/feedback-no-forums.php:13
+msgid "Oh bother! No forums were found here!"
+msgstr "Åh typiskt! Inga forum hittades här!"
+
+#: templates/default/bbpress/feedback-no-topics.php:13
+msgid "Oh bother! No topics were found here!"
+msgstr "Åh typiskt! Inga ämnen hittades här!"
+
+#: includes/admin/settings.php:1686
+#: templates/default/bbpress/loop-forums.php:21
+#: templates/default/bbpress/loop-replies.php:24
+#: templates/default/bbpress/loop-replies.php:66
+#: templates/default/bbpress/loop-topics.php:21
+msgid "Posts"
+msgstr "Inlägg"
+
+#: includes/admin/forums.php:414 includes/admin/topics.php:638
+#: templates/default/bbpress/loop-forums.php:22
+#: templates/default/bbpress/loop-topics.php:22
+msgid "Freshness"
+msgstr "Senast aktivt"
+
+#: includes/admin/replies.php:572 includes/admin/topics.php:636
+#: templates/default/bbpress/loop-replies.php:18
+#: templates/default/bbpress/loop-replies.php:60
+#: templates/default/bbpress/loop-search.php:18
+#: templates/default/bbpress/loop-search.php:40
+msgid "Author"
+msgstr "Författare"
+
+#: includes/common/widgets.php:896
+#: templates/default/extras/page-forum-statistics.php:34
+msgid "Popular Topics"
+msgstr "Populära ämnen"
+
+#: templates/default/bbpress/content-statistics.php:64
+msgid "Hidden Replies"
+msgstr "Dolda svar"
+
+#: templates/default/bbpress/content-statistics.php:53
+msgid "Hidden Topics"
+msgstr "Dolda ämnen"
+
+#: templates/default/bbpress/content-statistics.php:44
+msgid "Empty Topic Tags"
+msgstr "Tomma ämnestaggar"
+
+#: templates/default/bbpress/content-statistics.php:17
+msgid "Registered Users"
+msgstr "Registrerade användare"
+
+#: templates/default/extras/page-forum-statistics.php:22
+msgid "<p>Here are the statistics and popular topics of our forums.</p>"
+msgstr "<p>Här är statistiken och populära ämnen i forumet.</p>"
+
+#: bbpress.php:691
+msgid "Topics with no replies"
+msgstr "Ämnen utan svar"
+
+#: includes/topics/template.php:3376
+msgid "New Tag Name"
+msgstr "Nytt taggnamn"
+
+#: includes/topics/template.php:3375
+msgid "Add New Tag"
+msgstr "Lägg till ny tagg"
+
+#: includes/topics/template.php:3372
+msgid "All Tags"
+msgstr "Alla taggar"
+
+#: includes/topics/template.php:3373
+msgid "Edit Tag"
+msgstr "Redigera tagg"
+
+#: includes/topics/template.php:3370
+msgid "Search Tags"
+msgstr "Sök taggar"
+
+#: includes/topics/template.php:3374
+msgid "Update Tag"
+msgstr "Uppdatera tagg"
+
+#: includes/topics/template.php:3371
+msgid "Popular Tags"
+msgstr "Populära taggar"
+
+#: includes/admin/metaboxes.php:103 includes/admin/settings.php:309
+#: includes/topics/template.php:3369
+msgid "Topic Tag"
+msgid_plural "Topic Tags"
+msgstr[0] "Ämnestagg"
+msgstr[1] "Ämnestaggar"
+
+#: includes/topics/template.php:3368
+#: templates/default/bbpress/content-statistics.php:37
+msgid "Topic Tags"
+msgstr "Ämnestaggar"
+
+#: bbpress.php:608
+msgctxt "post"
+msgid "Hidden"
+msgstr "Dolt"
+
+#: bbpress.php:595
+msgctxt "post"
+msgid "Orphan"
+msgstr "Föräldralöst"
+
+#: bbpress.php:582
+msgctxt "post"
+msgid "Spam"
+msgstr "Skräppost"
+
+#: bbpress.php:571
+msgctxt "post"
+msgid "Closed"
+msgstr "Stängt"
+
+#: bbpress.php:536
+msgid "bbPress Replies"
+msgstr "bbPress Svar"
+
+#: includes/replies/template.php:60
+msgid "No replies found in Trash"
+msgstr "Inga svar funna i papperskorgen"
+
+#: includes/admin/metaboxes.php:457 includes/replies/template.php:61
+msgid "Topic:"
+msgstr "Ämne:"
+
+#: includes/replies/template.php:59
+msgid "No replies found"
+msgstr "Inga svar funna"
+
+#: includes/replies/template.php:58
+msgid "Search Replies"
+msgstr "Sök svar"
+
+#: includes/replies/template.php:56 includes/replies/template.php:57
+msgid "View Reply"
+msgstr "Visa svar"
+
+#: includes/replies/template.php:54
+msgid "Edit Reply"
+msgstr "Redigera svar"
+
+#: includes/admin/metaboxes.php:84 includes/admin/settings.php:325
+#: includes/replies/template.php:49 includes/replies/template.php:1619
+#: includes/topics/template.php:2923
+msgid "Reply"
+msgid_plural "Replies"
+msgstr[0] "Svar"
+msgstr[1] "Svar"
+
+#: includes/replies/template.php:51 includes/replies/template.php:55
+msgid "New Reply"
+msgstr "Nytt svar"
+
+#: includes/replies/template.php:52
+msgid "Create New Reply"
+msgstr "Skapa nytt svar"
+
+#: includes/admin/admin.php:235 includes/admin/admin.php:236
+#: includes/admin/admin.php:246 includes/admin/admin.php:247
+#: includes/admin/users.php:82 includes/common/widgets.php:662
+#: includes/extend/buddypress/loader.php:42
+#: includes/extend/buddypress/loader.php:175
+#: includes/extend/buddypress/loader.php:261
+#: includes/extend/buddypress/loader.php:312 includes/forums/template.php:47
+#: includes/forums/template.php:48
+#: templates/default/bbpress/content-statistics.php:22
+msgid "Forums"
+msgstr "Forum"
+
+#: includes/admin/forums.php:409 includes/admin/metaboxes.php:50
+#: includes/admin/metaboxes.php:380 includes/admin/metaboxes.php:434
+#: includes/admin/replies.php:570 includes/admin/settings.php:293
+#: includes/admin/topics.php:633 includes/extend/buddypress/groups.php:52
+#: includes/extend/buddypress/groups.php:53 includes/forums/template.php:49
+#: templates/default/bbpress/loop-forums.php:19
+msgid "Forum"
+msgstr "Forum"
+
+#: includes/forums/template.php:51 includes/forums/template.php:55
+msgid "New Forum"
+msgstr "Nytt forum"
+
+#: includes/forums/template.php:52 templates/default/bbpress/form-forum.php:37
+msgid "Create New Forum"
+msgstr "Skapa nytt forum"
+
+#: includes/common/template.php:2210 includes/forums/template.php:53
+#: includes/replies/template.php:53 includes/replies/template.php:1908
+#: includes/topics/template.php:53 includes/topics/template.php:2493
+#: templates/default/bbpress/user-details.php:65
+msgid "Edit"
+msgstr "Redigera"
+
+#: includes/forums/template.php:54
+msgid "Edit Forum"
+msgstr "Redigera forum"
+
+#: includes/forums/template.php:56 includes/forums/template.php:57
+msgid "View Forum"
+msgstr "Visa forum"
+
+#: includes/common/widgets.php:483 includes/forums/template.php:58
+msgid "Search Forums"
+msgstr "Sök forum"
+
+#: includes/forums/template.php:59
+msgid "No forums found"
+msgstr "Inga forum funna"
+
+#: includes/forums/template.php:60
+msgid "No forums found in Trash"
+msgstr "Inga forum funna i papperskorgen"
+
+#: includes/forums/template.php:61
+#: templates/default/bbpress/form-forum.php:118
+msgid "Parent Forum:"
+msgstr "Moderforum:"
+
+#: bbpress.php:486
+msgid "bbPress Forums"
+msgstr "bbPress Forum"
+
+#: includes/admin/forums.php:410 includes/admin/settings.php:222
+#: includes/admin/settings.php:243 includes/admin/topics.php:632
+#: includes/extend/buddypress/activity.php:354
+#: includes/forums/template.php:2602 includes/topics/template.php:47
+#: includes/topics/template.php:48
+#: templates/default/bbpress/content-statistics.php:27
+#: templates/default/bbpress/loop-forums.php:20
+msgid "Topics"
+msgstr "Ämnen"
+
+#: includes/admin/metaboxes.php:67 includes/admin/metaboxes.php:458
+#: includes/admin/replies.php:571 includes/admin/settings.php:301
+#: includes/topics/template.php:49
+#: templates/default/bbpress/content-single-topic-lead.php:22
+#: templates/default/bbpress/content-single-topic-lead.php:94
+#: templates/default/bbpress/loop-topics.php:19
+msgid "Topic"
+msgid_plural "Topics"
+msgstr[0] "Ämne"
+msgstr[1] "Ämnen"
+
+#: includes/topics/template.php:51 includes/topics/template.php:55
+msgid "New Topic"
+msgstr "Nytt ämne"
+
+#: includes/topics/template.php:52 templates/default/bbpress/form-topic.php:43
+msgid "Create New Topic"
+msgstr "Skapa nytt ämne"
+
+#: includes/topics/template.php:54
+msgid "Edit Topic"
+msgstr "Redigera ämne"
+
+#: includes/topics/template.php:56 includes/topics/template.php:57
+msgid "View Topic"
+msgstr "Visa ämne"
+
+#: includes/topics/template.php:58
+msgid "Search Topics"
+msgstr "Sök ämnen"
+
+#: includes/topics/template.php:59
+msgid "No topics found"
+msgstr "Inga ämnen hittades"
+
+#: includes/topics/template.php:60
+msgid "No topics found in Trash"
+msgstr "Inga ämnen funna i papperskorgen"
+
+#: includes/admin/metaboxes.php:379 includes/admin/metaboxes.php:433
+#: includes/extend/buddypress/groups.php:1038 includes/topics/template.php:61
+#: templates/default/bbpress/form-topic.php:114
+msgid "Forum:"
+msgstr "Forum:"
+
+#: bbpress.php:511
+msgid "bbPress Topics"
+msgstr "Ämnen i bbPress"
+
+#: includes/admin/forums.php:411 includes/admin/settings.php:230
+#: includes/admin/settings.php:251 includes/admin/topics.php:634
+#: includes/core/theme-compat.php:646
+#: includes/extend/buddypress/activity.php:355
+#: includes/forums/template.php:2666 includes/replies/template.php:47
+#: includes/replies/template.php:48
+#: templates/default/bbpress/content-statistics.php:32
+#: templates/default/bbpress/loop-forums.php:21
+#: templates/default/bbpress/loop-replies.php:32
+#: templates/default/bbpress/loop-replies.php:70
+#: templates/default/bbpress/loop-topics.php:21
+msgid "Replies"
+msgstr "Svar"
+
+#: templates/default/bbpress/form-topic-split.php:29
+msgid ""
+"When you split a topic, you are slicing it in half starting with the reply "
+"you just selected. Choose to use that reply as a new topic with a new title, "
+"or merge those replies into an existing topic."
+msgstr ""
+"När du delar ett ämne delas den i två delar med början vid det svar du just "
+"valde. Välj att använda detta svar som en nytt ämne med en ny titel, eller "
+"slå samman dessa svar till en befintligt ämne."
+
+#: templates/default/bbpress/form-topic-split.php:24
+msgid "Split topic \"%s\""
+msgstr "Dela ämne \"%s\""
+
+#: templates/default/bbpress/form-user-edit.php:178
+msgid "Update User"
+msgstr "Uppdatera användare"
+
+#: templates/default/bbpress/form-user-edit.php:156
+msgid "Grant this user super admin privileges for the Network."
+msgstr "Ge denna användare administratörsrättigheter för nätverket."
+
+#: includes/admin/settings.php:1265
+#: templates/default/bbpress/form-user-edit.php:173
+msgid "Save Changes"
+msgstr "Spara ändringar"
+
+#: templates/default/bbpress/form-user-edit.php:178
+msgid "Update Profile"
+msgstr "Uppdatera profil"
+
+#: includes/admin/replies.php:739 includes/admin/topics.php:810
+#: includes/replies/template.php:2103 includes/topics/template.php:2874
+msgid "Spam"
+msgstr "Skräppost"
+
+#: includes/replies/template.php:2051 includes/topics/template.php:2636
+msgid "Are you sure you want to delete that permanently?"
+msgstr "Är du säker på att du vill radera det permanent?"
+
+#: includes/admin/replies.php:754 includes/admin/topics.php:824
+#: includes/replies/template.php:2051 includes/topics/template.php:2636
+msgid "Delete this item permanently"
+msgstr "Ta bort den här posten permanent"
+
+#: templates/default/bbpress/form-user-register.php:14
+msgid "Create an Account"
+msgstr "Skapa ett konto"
+
+#: templates/default/bbpress/form-user-register.php:17
+msgid "Your username must be unique, and cannot be changed later."
+msgstr "Ditt användarnamn måste vara unikt och kan inte ändras senare."
+
+#: templates/default/bbpress/form-user-register.php:18
+msgid ""
+"We use your email address to email you a secure password and verify your "
+"account."
+msgstr ""
+"Vi använder din e-postadress till att skicka dig ett säkert lösenord och "
+"bekräfta ditt konto."
+
+#: includes/common/widgets.php:122
+#: templates/default/bbpress/form-user-register.php:36
+msgid "Register"
+msgstr "Registrera"
+
+#: templates/default/extras/page-topic-tags.php:22
+msgid ""
+"<p>This is a collection of tags that are currently popular on our forums.</p>"
+msgstr ""
+"<p>Detta är en samling taggar som för närvarande är populära i vårat forum.</"
+"p>"
+
+#: includes/common/template.php:2206 includes/common/template.php:2320
+#: includes/common/template.php:2585 includes/core/theme-compat.php:739
+#: templates/default/extras/taxonomy-topic-tag-edit.php:17
+#: templates/default/extras/taxonomy-topic-tag.php:17
+msgid "Topic Tag: %s"
+msgstr "Ämnestagg: %s"
+
+#: includes/replies/template.php:2348
+msgid "Viewing %1$s reply"
+msgid_plural "Viewing %1$s replies"
+msgstr[0] "Visar %1$s svar"
+msgstr[1] "Visar %1$s svar"
+
+#: includes/replies/template.php:2235
+msgid "Split the topic from this reply"
+msgstr "Dela ämnet från detta svar"
+
+#: includes/replies/template.php:2234
+msgid "Split"
+msgstr "Dela"
+
+#: includes/replies/template.php:2104 includes/topics/template.php:2875
+msgid "Unspam"
+msgstr "Avmarkera som skräppost"
+
+#: includes/common/functions.php:1905
+msgid ""
+"Conditional query tags do not work before the query is run. Before then, "
+"they always return false."
+msgstr ""
+"Villkorsstyrda query-taggar fungerar inte innan queryn körs. Innan dess så "
+"kommer de alltid returnera false."
+
+#: includes/forums/template.php:840 includes/topics/template.php:1846
+#: includes/users/template.php:1058
+msgid "Subscribe"
+msgstr "Prenumerera"
+
+#: includes/forums/template.php:841 includes/topics/template.php:1847
+#: includes/users/template.php:1059
+msgid "Unsubscribe"
+msgstr "Avsluta prenumeration"
+
+#: templates/default/bbpress/feedback-no-access.php:13
+msgid "Private"
+msgstr "Privat"
+
+#: templates/default/bbpress/feedback-no-access.php:16
+msgid "You do not have permission to view this forum."
+msgstr "Du har inte behörighet att visa detta forum."
+
+#: templates/default/bbpress/form-topic-split.php:75
+msgid "Copy subscribers to the new topic"
+msgstr "Kopiera prenumeranter till det nya ämnet"
+
+#: templates/default/bbpress/form-topic-split.php:80
+msgid "Copy favoriters to the new topic"
+msgstr "Kopiera favoriter till det nya ämnet"
+
+#: templates/default/bbpress/form-topic-split.php:85
+msgid "Copy topic tags to the new topic"
+msgstr "Kopiera ämnestaggar till det nya ämnet"
+
+#: templates/default/bbpress/form-reply-move.php:68
+#: templates/default/bbpress/form-topic-merge.php:89
+#: templates/default/bbpress/form-topic-split.php:93
+msgid "<strong>WARNING:</strong> This process cannot be undone."
+msgstr "<strong>VARNING:</strong> Denna åtgärd kan inte ångras."
+
+#: templates/default/bbpress/form-topic-merge.php:106
+#: templates/default/bbpress/form-topic-split.php:110
+msgid "You do not have the permissions to edit this topic!"
+msgstr "Du har inte behörighet att redigera detta ämne!"
+
+#: templates/default/bbpress/form-topic-merge.php:106
+#: templates/default/bbpress/form-topic-split.php:110
+msgid "You cannot edit this topic."
+msgstr "Du kan inte redigera det här ämnet."
+
+#: templates/default/bbpress/form-topic-merge.php:24
+msgid "Merge topic \"%s\""
+msgstr "Sammanfoga ämne \"%s\""
+
+#: templates/default/bbpress/form-topic-merge.php:29
+msgid ""
+"Select the topic to merge this one into. The destination topic will remain "
+"the lead topic, and this one will change into a reply."
+msgstr ""
+"Välj ämne att slå samman detta med. Destinationsämnet kommer att förbli det "
+"ledande ämnet, och detta ämne kommer att ändras till ett svar."
+
+#: templates/default/bbpress/form-topic-merge.php:30
+msgid ""
+"To keep this topic as the lead, go to the other topic and use the merge tool "
+"from there instead."
+msgstr ""
+"För att hålla detta ämne som huvudtråd, gå till det andra ämnet och använd "
+"sammanslagningsverktyget därifrån istället."
+
+#: templates/default/bbpress/form-topic-merge.php:34
+msgid ""
+"All replies within both topics will be merged chronologically. The order of "
+"the merged replies is based on the time and date they were posted. If the "
+"destination topic was created after this one, it's post date will be updated "
+"to second earlier than this one."
+msgstr ""
+"Alla svar i båda ämnena kommer att slås samman kronologiskt. Ordningen på "
+"sammanslagna svaren bygger på tid och datum de publicerats. Om "
+"destinationsämnet skapades efter det här så kommer det inläggsdatumet att "
+"uppdateras för att visas som postat tidigare än detta."
+
+#: templates/default/bbpress/form-topic-merge.php:38
+msgid "Destination"
+msgstr "Destination"
+
+#: templates/default/bbpress/form-topic-merge.php:42
+msgid "Merge with this topic:"
+msgstr "Sammanfoga med detta ämne:"
+
+#: templates/default/bbpress/form-topic-merge.php:56
+msgid "There are no other topics in this forum to merge with."
+msgstr "Det finns inga andra ämnen i detta forum att slå samman med."
+
+#: templates/default/bbpress/form-topic-merge.php:71
+msgid "Merge topic subscribers"
+msgstr "Sammanfoga ämnesprenumeranter"
+
+#: templates/default/bbpress/form-topic-merge.php:76
+msgid "Merge topic favoriters"
+msgstr "Sammanfoga favoritämnen"
+
+#: templates/default/bbpress/form-topic-merge.php:81
+msgid "Merge topic tags"
+msgstr "Sammanfoga ämnestaggar"
+
+#: includes/admin/forums.php:412
+#: templates/default/bbpress/content-single-topic-lead.php:18
+#: templates/default/bbpress/content-single-topic-lead.php:90
+msgid "Creator"
+msgstr "Skapare"
+
+#: includes/topics/template.php:2297
+msgid "Tagged:"
+msgstr "Taggat:"
+
+#: includes/forums/template.php:1966 includes/topics/template.php:2104
+msgid "%s reply"
+msgid_plural "%s replies"
+msgstr[0] "%s svar"
+msgstr[1] "%s svar"
+
+#: includes/admin/topics.php:730 includes/topics/template.php:2064
+msgid "No Replies"
+msgstr "Inga svar"
+
+#: includes/common/widgets.php:1235
+msgid "Maximum replies to show:"
+msgstr "Maximalt antal svar att visa:"
+
+#: includes/common/widgets.php:889 includes/common/widgets.php:1236
+msgid "Show post date:"
+msgstr "Visa inläggsdatum:"
+
+#: includes/common/widgets.php:877
+msgid "Maximum topics to show:"
+msgstr "Maximalt antal ämnen att visa:"
+
+#: includes/common/widgets.php:692
+msgid "A list of recent topics, sorted by popularity or freshness."
+msgstr ""
+"En lista över aktuella ämnen, sorterade efter popularitet eller färskhet."
+
+#: includes/replies/template.php:1210 includes/topics/template.php:1481
+#: includes/users/template.php:1651
+msgid "Visit %s's website"
+msgstr "Besök %s's webbplats"
+
+#: includes/admin/replies.php:750 includes/admin/topics.php:820
+#: includes/replies/template.php:2032 includes/topics/template.php:2617
+msgid "Trash"
+msgstr "Papperskorg"
+
+#: includes/admin/replies.php:748 includes/admin/topics.php:818
+#: includes/replies/template.php:2033 includes/topics/template.php:2618
+msgid "Restore"
+msgstr "Återställ"
+
+#: includes/admin/replies.php:748 includes/admin/topics.php:818
+#: includes/replies/template.php:2045 includes/topics/template.php:2630
+msgid "Restore this item from the Trash"
+msgstr "Återställ det här objektet från papperskorgen"
+
+#: templates/default/bbpress/form-reply.php:174
+msgid "You cannot reply to this topic."
+msgstr "Du kan inte svara på detta ämne."
+
+#: templates/default/bbpress/form-reply.php:75
+msgid "Tags:"
+msgstr "Taggar:"
+
+#: templates/default/bbpress/form-reply.php:36
+msgid ""
+"This topic is marked as closed to new replies, however your posting "
+"capabilities still allow you to do so."
+msgstr ""
+"Det här ämnet är markerad som stängt för nya svar, din behörighet ger dig "
+"dock tillåtelse att posta i det i alla fall."
+
+#: templates/default/bbpress/form-topic.php:234
+msgid "You must be logged in to create new topics."
+msgstr "Du måste vara inloggad för att skapa nya ämnen."
+
+#: templates/default/bbpress/form-anonymous.php:27
+msgid "Mail (will not be published) (required):"
+msgstr "E-post (publiceras inte) (obligatoriskt):"
+
+#: templates/default/bbpress/form-anonymous.php:22
+msgid "Name (required):"
+msgstr "Namn (obligatoriskt):"
+
+#: templates/default/bbpress/form-anonymous.php:17
+msgid "Your information:"
+msgstr "Din information:"
+
+#: templates/default/bbpress/form-topic-tag.php:18
+msgid "Manage Tag: \"%s\""
+msgstr "Hantera tagg: \"%s\""
+
+#: templates/default/bbpress/form-protected.php:14
+msgid "Protected"
+msgstr "Skyddat"
+
+#: templates/default/bbpress/loop-single-topic.php:68
+msgid "in: <a href=\"%1$s\">%2$s</a>"
+msgstr "i: <a href=\"%1$s\">%2$s</a>"
+
+#: includes/admin/metaboxes.php:496
+#: templates/default/bbpress/form-topic-tag.php:35
+msgid "Name:"
+msgstr "Namn:"
+
+#: templates/default/bbpress/form-topic-tag.php:22
+msgid "Rename"
+msgstr "Byt namn"
+
+#: templates/default/bbpress/form-topic-tag.php:25
+msgid "Leave the slug empty to have one automatically generated."
+msgstr "Lämna fältet permalänk tomt för att automatiskt få en genererad."
+
+#: templates/default/bbpress/form-topic-tag.php:29
+msgid ""
+"Changing the slug affects its permalink. Any links to the old slug will stop "
+"working."
+msgstr ""
+"Ändring av permalänk påverkar dess befintlig permalänk. Eventuella länkar "
+"till den gamla permalänken kommer att sluta fungera."
+
+#: templates/default/bbpress/form-topic-tag.php:94
+msgid "Deleting a tag cannot be undone."
+msgstr "Radering av en tagg kan inte ångras."
+
+#: templates/default/bbpress/form-topic-tag.php:91
+msgid "This does not delete your topics. Only the tag itself is deleted."
+msgstr "Detta raderar inte dina ämnen. Bara själva taggen raderas."
+
+#: includes/replies/template.php:2034 includes/topics/template.php:2619
+#: templates/default/bbpress/form-topic-tag.php:88
+#: templates/default/bbpress/form-topic-tag.php:101
+msgid "Delete"
+msgstr "Radera"
+
+#: templates/default/bbpress/form-topic-tag.php:73
+msgid ""
+"Are you sure you want to merge the \"%s\" tag into the tag you specified?"
+msgstr ""
+"Är du säker på att du vill slå ihop taggen \"%s\" med taggen som du angav?"
+
+#: templates/default/bbpress/form-topic-tag.php:68
+msgid "Existing tag:"
+msgstr "Befintlig tagg:"
+
+#: templates/default/bbpress/form-topic-tag.php:62
+msgid "Merging tags together cannot be undone."
+msgstr "Sammanfogning av taggar går inte att ångra."
+
+#: includes/topics/template.php:2818
+#: templates/default/bbpress/form-topic-tag.php:59
+#: templates/default/bbpress/form-topic-tag.php:73
+msgid "Merge"
+msgstr "Sammanfoga"
+
+#: templates/default/bbpress/form-topic-tag.php:45
+msgid "Update"
+msgstr "Uppdatera"
+
+#: templates/default/bbpress/form-topic-tag.php:40
+msgid "Slug:"
+msgstr "Permalänk:"
+
+#: includes/admin/topics.php:798 includes/topics/template.php:2748
+msgid "Unstick"
+msgstr "Avklistra"
+
+#: includes/topics/template.php:2979
+msgid "Viewing %1$s topic"
+msgid_plural "Viewing %1$s topics"
+msgstr[0] "Visar %1$s ämne"
+msgstr[1] "Visar %1$s ämnen"
+
+#: includes/topics/template.php:3043
+msgid "This topic is marked as spam."
+msgstr "Detta ämne är markerad som skräp."
+
+#: includes/topics/template.php:3048
+msgid "This topic is in the trash."
+msgstr "Detta ämne ligger i papperskorgen."
+
+#: includes/topics/template.php:3308
+msgid "%s voice"
+msgid_plural "%s voices"
+msgstr[0] "%s deltagare"
+msgstr[1] "%s deltagare"
+
+#: includes/common/template.php:1451
+msgid "No topics available"
+msgstr "Inga ämnen tillgängliga"
+
+#: includes/common/template.php:1456
+msgid "No forums available"
+msgstr "Inga forum tillgängliga"
+
+#: includes/common/template.php:1461
+msgid "None available"
+msgstr "Inga tillgängliga"
+
+#: includes/replies/functions.php:1298 includes/replies/template.php:571
+#: includes/topics/functions.php:1294 includes/topics/functions.php:1652
+#: templates/default/bbpress/form-reply.php:29
+msgid "Reply To: %s"
+msgstr "Svar till: %s"
+
+#: includes/common/template.php:2495
+msgid "Log Out"
+msgstr "Logga ut"
+
+#: includes/common/template.php:2619
+#: templates/default/bbpress/user-details.php:29
+msgid "%s's Profile"
+msgstr "%s's profil"
+
+#: includes/common/template.php:2627
+msgid "Edit Your Profile"
+msgstr "Redigera din profil"
+
+#: includes/common/template.php:2632
+#: templates/default/bbpress/user-details.php:65
+msgid "Edit %s's Profile"
+msgstr "Redigera %s's profil"
+
+#: includes/common/template.php:2571
+msgid "Forum: %s"
+msgstr "Forum: %s"
+
+#: includes/common/template.php:2576
+msgid "Topic: %s"
+msgstr "Ämne: %s"
+
+#: includes/common/template.php:2640
+msgid "View: %s"
+msgstr "Visa: %s"
+
+#: includes/replies/functions.php:142
+msgid "<strong>ERROR</strong>: You do not have permission to reply."
+msgstr "<strong>FEL</strong>: Du har inte behörighet att svara."
+
+#: includes/replies/functions.php:154
+msgid "<strong>ERROR</strong>: Topic ID is missing."
+msgstr "<strong>FEL</strong>: Ämnes-ID saknas."
+
+#: includes/replies/functions.php:191 includes/replies/functions.php:205
+#: includes/topics/functions.php:196 includes/topics/functions.php:210
+#: includes/topics/functions.php:535
+msgid "<strong>ERROR</strong>: Forum ID is missing."
+msgstr "<strong>FEL</strong>: Forum-ID saknas."
+
+#: includes/replies/functions.php:288 includes/replies/functions.php:617
+msgid "<strong>ERROR</strong>: Your reply cannot be empty."
+msgstr "<strong>FEL</strong>: Ditt svar kan inte vara tomt."
+
+#: includes/forums/functions.php:210 includes/replies/functions.php:293
+#: includes/topics/functions.php:260
+msgid "<strong>ERROR</strong>: Slow down; you move too fast."
+msgstr "<strong>FEL</strong>: Sakta ner, du går för fort fram."
+
+#: includes/replies/functions.php:298
+msgid ""
+"<strong>ERROR</strong>: Duplicate reply detected; it looks as though "
+"you&#8217;ve already said that!"
+msgstr ""
+"<strong>FEL</strong>: Duplicerat svar upptäcktes; det verkar som om du redan "
+"hade sagt det!"
+
+#: includes/replies/functions.php:507
+msgid "<strong>ERROR</strong>: Reply ID not found."
+msgstr "<strong>FEL</strong>: Svars-ID hittades inte."
+
+#: includes/replies/functions.php:524
+msgid "<strong>ERROR</strong>: The reply you want to edit was not found."
+msgstr "<strong>FEL</strong>: Svaret du vill redigera hittades inte."
+
+#: includes/replies/functions.php:535
+msgid "<strong>ERROR</strong>: You do not have permission to edit that reply."
+msgstr "<strong>FEL</strong>: Du har inte behörighet att redigera detta svar."
+
+#: includes/replies/functions.php:240 includes/replies/functions.php:587
+msgid ""
+"<strong>ERROR</strong>: This forum is private and you do not have the "
+"capability to read or create new replies in it."
+msgstr ""
+"<strong>FEL</strong>: Detta forum är privat och du har inte behörighet att "
+"läsa eller skapa nya svar i det."
+
+#: includes/replies/functions.php:246 includes/replies/functions.php:593
+msgid ""
+"<strong>ERROR</strong>: This forum is hidden and you do not have the "
+"capability to read or create new replies in it."
+msgstr ""
+"<strong>FEL</strong>: Detta forum är dolt och du har inte behörighet att "
+"läsa eller skapa nya svar i det."
+
+#: includes/replies/functions.php:1530
+msgid "<strong>ERROR:</strong> You do not have the permission to do that!"
+msgstr "<strong>FEL:</strong> Du har inte behörighet att göra detta!"
+
+#: includes/replies/functions.php:1543
+msgid ""
+"<strong>ERROR</strong>: There was a problem unmarking the reply as spam!"
+msgstr ""
+"<strong>FEL</strong>: Det uppstod ett problem med att avmarkera svaret som "
+"skräppost!"
+
+#: includes/replies/functions.php:1543
+msgid "<strong>ERROR</strong>: There was a problem marking the reply as spam!"
+msgstr ""
+"<strong>FEL</strong>: Det uppstod ett problem med att märka svaret som "
+"skräppost!"
+
+#: includes/replies/functions.php:1562
+msgid "<strong>ERROR</strong>: There was a problem trashing the reply!"
+msgstr "<strong>FEL</strong>: Det uppstod ett problem med att ta bort svaret!"
+
+#: includes/replies/functions.php:1570
+msgid "<strong>ERROR</strong>: There was a problem untrashing the reply!"
+msgstr ""
+"<strong>FEL</strong>: Det uppstod ett problem med att återskapa svaret!"
+
+#: includes/replies/functions.php:1578
+msgid "<strong>ERROR</strong>: There was a problem deleting the reply!"
+msgstr "<strong>FEL</strong>: Det var ett problem med att radera svaret!"
+
+#: includes/replies/functions.php:1992
+msgid "All Posts"
+msgstr "Alla inlägg"
+
+#: includes/admin/tools.php:1144 includes/replies/functions.php:1994
+#: includes/replies/template.php:50
+msgid "All Replies"
+msgstr "Alla svar"
+
+#: includes/replies/functions.php:2034 includes/topics/functions.php:3465
+msgid "Replies: %s"
+msgstr "Svar: %s"
+
+#: includes/replies/template.php:1098 includes/topics/template.php:1368
+#: includes/users/template.php:184
+msgid "Anonymous"
+msgstr "Anonym"
+
+#: includes/users/template.php:557
+msgid "Admin"
+msgstr "Admin"
+
+#: includes/users/template.php:1163
+msgid "User updated."
+msgstr "Användaren uppdaterad."
+
+#: includes/users/template.php:1188
+msgid "You have super admin privileges."
+msgstr "Du har superadministratörsbehörighet."
+
+#: includes/users/template.php:1188
+msgid "This user has super admin privileges."
+msgstr "Denna användare har superadministratörsbehörighet."
+
+#: includes/users/template.php:1255
+msgid "&mdash; No role for this site &mdash;"
+msgstr "&mdash; Ingen roll för den här webbplatsen &mdash;"
+
+#: includes/users/template.php:1453
+msgid "You are now logged out."
+msgstr "Du är nu utloggad."
+
+#: includes/users/template.php:1457
+msgid "New user registration is currently not allowed."
+msgstr "Registrering av nya användare är för närvarande inte tillåtet."
+
+#: includes/users/template.php:1466
+msgid "Check your e-mail for the confirmation link."
+msgstr "Kolla din e-post för bekräftelselänken."
+
+#: includes/users/template.php:1471
+msgid "Check your e-mail for your new password."
+msgstr "Kontrollera din e-post för ditt nya lösenord."
+
+#: includes/users/template.php:1476
+msgid "Registration complete. Please check your e-mail."
+msgstr "Registrering klar. Kontrollera din e-post."
+
+#: includes/users/functions.php:463 includes/users/functions.php:1178
+#: includes/users/functions.php:1284
+msgid ""
+"<strong>ERROR</strong>: You don't have the permission to edit favorites of "
+"that user!"
+msgstr ""
+"<strong>FEL</strong>: Du har inte behörighet att redigera favoriter för "
+"denna användar!"
+
+#: includes/users/functions.php:455
+msgid ""
+"<strong>ERROR</strong>: No topic was found! Which topic are you marking/"
+"unmarking as favorite?"
+msgstr ""
+"<strong>FEL</strong>: Inget ämne hittades! Vilket ämne är det du markerar/"
+"avmarkerar som favorit?"
+
+#: includes/users/functions.php:506
+msgid ""
+"<strong>ERROR</strong>: There was a problem removing that topic from "
+"favorites!"
+msgstr ""
+"<strong>FEL</strong>: Det uppstod ett problem med att ta bort ämnet från "
+"favoriter!"
+
+#: includes/users/functions.php:508
+msgid "<strong>ERROR</strong>: There was a problem favoriting that topic!"
+msgstr ""
+"<strong>FEL</strong>: Det uppstod ett problem med att favoritmarkera detta "
+"ämne!"
+
+#: includes/users/functions.php:1276
+msgid ""
+"<strong>ERROR</strong>: No topic was found! Which topic are you subscribing/"
+"unsubscribing to?"
+msgstr ""
+"<strong>FEL</strong>: Inget ämne hittades! Vilket ämne vill du prenumerera "
+"på/avsluta prenumerationen av?"
+
+#: includes/users/functions.php:1329
+msgid ""
+"<strong>ERROR</strong>: There was a problem unsubscribing from that topic!"
+msgstr ""
+"<strong>FEL</strong>: Det uppstod ett problem med att avsluta "
+"prenumerationen på detta ämne!"
+
+#: includes/users/functions.php:1331
+msgid "<strong>ERROR</strong>: There was a problem subscribing to that topic!"
+msgstr ""
+"<strong>FEL</strong>: Det uppstod ett problem med att prenumerera på detta "
+"ämne!"
+
+#: includes/topics/functions.php:150
+msgid ""
+"<strong>ERROR</strong>: You do not have permission to create new topics."
+msgstr "<strong>FEL</strong>: Du har inte behörighet att skapa nya ämnen."
+
+#: includes/topics/functions.php:175 includes/topics/functions.php:585
+msgid "<strong>ERROR</strong>: Your topic needs a title."
+msgstr "<strong>FEL</strong>: Ditt ämne behöver en titel."
+
+#: includes/topics/functions.php:187 includes/topics/functions.php:597
+msgid "<strong>ERROR</strong>: Your topic cannot be empty."
+msgstr "<strong>FEL</strong>: Ditt ämne kan inte vara tomt."
+
+#: includes/topics/functions.php:232
+msgid ""
+"<strong>ERROR</strong>: This forum is a category. No topics can be created "
+"in this forum."
+msgstr ""
+"<strong>FEL</strong>: Detta forum är en kategori. Inga ämnen kan skapas i "
+"detta forum."
+
+#: includes/topics/functions.php:239 includes/topics/functions.php:557
+msgid "<strong>ERROR</strong>: This forum has been closed to new topics."
+msgstr "<strong>FEL</strong>: Detta forum har stängts för nya ämnen."
+
+#: includes/topics/functions.php:245 includes/topics/functions.php:563
+msgid ""
+"<strong>ERROR</strong>: This forum is private and you do not have the "
+"capability to read or create new topics in it."
+msgstr ""
+"<strong>FEL</strong>: Detta forum är privat och du har inte behörighet att "
+"läsa eller skapa nya ämnen i det."
+
+#: includes/topics/functions.php:251 includes/topics/functions.php:569
+msgid ""
+"<strong>ERROR</strong>: This forum is hidden and you do not have the "
+"capability to read or create new topics in it."
+msgstr ""
+"<strong>FEL</strong>: Detta forum är dolt och du har inte behörighet att "
+"läsa eller skapa nya ämnen i det."
+
+#: includes/topics/functions.php:265
+msgid ""
+"<strong>ERROR</strong>: Duplicate topic detected; it looks as though "
+"you&#8217;ve already said that!"
+msgstr ""
+"<strong>FEL</strong>: Duplicerade ämnen upptäcktes; det verkar som om du "
+"redan hade sagt det!"
+
+#: includes/topics/functions.php:482 includes/topics/functions.php:1146
+msgid "<strong>ERROR</strong>: Topic ID not found."
+msgstr "<strong>FEL</strong>: Ämnes-ID hittades inte."
+
+#: includes/topics/functions.php:493
+msgid "<strong>ERROR</strong>: The topic you want to edit was not found."
+msgstr "<strong>FEL</strong>: Det ämne du vill redigera hittades inte."
+
+#: includes/topics/functions.php:504
+msgid "<strong>ERROR</strong>: You do not have permission to edit that topic."
+msgstr "<strong>FEL</strong>: Du har inte behörighet att redigera detta ämne."
+
+#: includes/topics/functions.php:550
+msgid ""
+"<strong>ERROR</strong>: This forum is a category. No topics can be created "
+"in it."
+msgstr ""
+"<strong>FEL</strong>: Detta forum är en kategori. Inga ämnen kan skapas i "
+"det."
+
+#: includes/topics/functions.php:1158
+msgid "<strong>ERROR</strong>: The topic you want to merge was not found."
+msgstr "<strong>FEL</strong>: Det ämne du vill slå samman med hittades inte."
+
+#: includes/replies/functions.php:1251 includes/topics/functions.php:1164
+#: includes/topics/functions.php:1462
+msgid ""
+"<strong>ERROR</strong>: You do not have the permissions to edit the source "
+"topic."
+msgstr "<strong>FEL</strong>: Du har inte behörighet att redigera källämnet."
+
+#: includes/topics/functions.php:1172
+msgid "<strong>ERROR</strong>: Destination topic ID not found."
+msgstr "<strong>FEL</strong>: Destinationens ämnes-ID hittades inte."
+
+#: includes/topics/functions.php:1178
+msgid "<strong>ERROR</strong>: The topic you want to merge to was not found."
+msgstr "<strong>FEL</strong>: Det ämne du vill sammanfoga med hittades inte."
+
+#: includes/topics/functions.php:1182
+msgid ""
+"<strong>ERROR</strong>: You do not have the permissions to edit the "
+"destination topic."
+msgstr ""
+"<strong>FEL</strong>: Du har inte behörighet att redigera destinationsämnet."
+
+#: includes/topics/functions.php:1435
+msgid "<strong>ERROR</strong>: Reply ID to split the topic from not found!"
+msgstr ""
+"<strong>FEL</strong>: Svars-ID att dela tråden i från kunde inte hittas!"
+
+#: includes/topics/functions.php:1443
+msgid "<strong>ERROR</strong>: The reply you want to split from was not found."
+msgstr "<strong>FEL</strong>: Svaret du vill dela hittades inte."
+
+#: includes/topics/functions.php:1452
+msgid "<strong>ERROR</strong>: The topic you want to split was not found."
+msgstr "<strong>FEL</strong>: Det ämne du vill dela hittades inte."
+
+#: includes/topics/functions.php:1470
+msgid "<strong>ERROR</strong>: You need to choose a valid split option."
+msgstr "<strong>FEL</strong>: Du måste välja en giltig delningsmetod."
+
+#: includes/replies/functions.php:1274 includes/topics/functions.php:1483
+msgid "<strong>ERROR</strong>: Destination topic ID not found!"
+msgstr "<strong>FEL</strong>: Destinationsämnets ID hittades inte!"
+
+#: includes/topics/functions.php:1492
+msgid "<strong>ERROR</strong>: The topic you want to split to was not found!"
+msgstr "<strong>FEL</strong>: Det ämne du vill dela till kunde inte hittas!"
+
+#: includes/replies/functions.php:1289 includes/topics/functions.php:1496
+msgid ""
+"<strong>ERROR</strong>: You do not have the permissions to edit the "
+"destination topic!"
+msgstr ""
+"<strong>FEL</strong>: Du har inte behörighet att redigera destinationsämnet!"
+
+#: includes/replies/functions.php:1343 includes/topics/functions.php:1533
+msgid ""
+"<strong>ERROR</strong>: There was a problem converting the reply into the "
+"topic. Please try again."
+msgstr ""
+"<strong>FEL</strong>: Det uppstod ett problem vid konvertering av svaret "
+"till ämnet. Var god försök igen."
+
+#: includes/replies/functions.php:1348 includes/topics/functions.php:1538
+msgid ""
+"<strong>ERROR</strong>: You do not have the permissions to create new "
+"topics. The reply could not be converted into a topic."
+msgstr ""
+"<strong>FEL</strong>: Du har inte behörighet att skapa nya ämnen. Svaret "
+"kunde inte omvandlas till ett ämne."
+
+#: includes/topics/functions.php:1808
+msgid ""
+"<strong>ERROR</strong>: The following problem(s) have been found while "
+"getting the tag: %s"
+msgstr ""
+"<strong>FEL</strong>: Följande problem uppstod vid hämtning av taggen:%s"
+
+#: includes/topics/functions.php:1826 includes/topics/functions.php:1865
+msgid ""
+"<strong>ERROR</strong>: You do not have the permissions to edit the topic "
+"tags."
+msgstr ""
+"<strong>FEL</strong>: Du har inte behörighet att redigera ämnets taggar."
+
+#: includes/topics/functions.php:1832 includes/topics/functions.php:1871
+msgid "<strong>ERROR</strong>: You need to enter a tag name."
+msgstr "<strong>FEL</strong>: Du måste ange ett taggnamn."
+
+#: includes/topics/functions.php:1842
+msgid ""
+"<strong>ERROR</strong>: The following problem(s) have been found while "
+"updating the tag: %s"
+msgstr ""
+"<strong>FEL</strong>: Följande problem uppstod vid uppdatering av taggen:%s"
+
+#: includes/topics/functions.php:1881 includes/topics/functions.php:1899
+msgid ""
+"<strong>ERROR</strong>: The following problem(s) have been found while "
+"merging the tags: %s"
+msgstr ""
+"<strong>FEL</strong>: Följande problem uppstod vid sammanslagning av "
+"taggarna: %s"
+
+#: includes/topics/functions.php:1890
+msgid ""
+"<strong>ERROR</strong>: The tags which are being merged can not be the same."
+msgstr ""
+"<strong>FEL</strong>: Taggarna du vill slå ihop får inte vara identiska."
+
+#: includes/topics/functions.php:1922
+msgid ""
+"<strong>ERROR</strong>: You do not have the permissions to delete the topic "
+"tags."
+msgstr "<strong>FEL</strong>: Du har inte behörighet att ta bort taggar."
+
+#: includes/topics/functions.php:1931
+msgid ""
+"<strong>ERROR</strong>: The following problem(s) have been found while "
+"deleting the tag: %s"
+msgstr "<strong>FEL</strong>: Följande problem uppstod vid radering taggen: %s"
+
+#: includes/topics/functions.php:2090
+msgid "<strong>ERROR:</strong> You do not have the permission to do that."
+msgstr "<strong>FEL:</strong> Du har inte behörighet att göra detta."
+
+#: includes/topics/functions.php:2103
+msgid "<strong>ERROR</strong>: There was a problem closing the topic."
+msgstr "<strong>FEL</strong>: Det uppstod ett problem att stänga ämnet."
+
+#: includes/topics/functions.php:2103
+msgid "<strong>ERROR</strong>: There was a problem opening the topic."
+msgstr "<strong>FEL</strong>: Det uppstod ett problem med att öppna ämnet."
+
+#: includes/topics/functions.php:2114
+msgid "<strong>ERROR</strong>: There was a problem unsticking the topic."
+msgstr ""
+"<strong>FEL</strong>: Det uppstod ett problem vid avklistring av ämnet."
+
+#: includes/topics/functions.php:2114
+msgid "<strong>ERROR</strong>: There was a problem sticking the topic."
+msgstr "<strong>FEL</strong>: Det uppstod ett problem med att klistra ämnet."
+
+#: includes/topics/functions.php:2124
+msgid ""
+"<strong>ERROR</strong>: There was a problem unmarking the topic as spam."
+msgstr ""
+"<strong>FEL</strong>: Det uppstod ett fel när ämnet skulle avmarkeras som "
+"skräp."
+
+#: includes/topics/functions.php:2124
+msgid "<strong>ERROR</strong>: There was a problem marking the topic as spam."
+msgstr ""
+"<strong>FEL</strong>: Det uppstod ett fel när ämnet skulle markeras som "
+"skräp."
+
+#: includes/topics/functions.php:2143
+msgid "<strong>ERROR</strong>: There was a problem trashing the topic."
+msgstr ""
+"<strong>FEL</strong>: Det uppstod ett problem när ämnet skulle kastas i "
+"papperskorgen."
+
+#: includes/topics/functions.php:2151
+msgid "<strong>ERROR</strong>: There was a problem untrashing the topic."
+msgstr ""
+"<strong>FEL</strong>: Det uppstod ett problem med att återställa ämnet från "
+"papperskorgen."
+
+#: includes/topics/functions.php:2159
+msgid "<strong>ERROR</strong>: There was a problem deleting the topic."
+msgstr "<strong>FEL</strong>: Det uppstod ett problem med att radera ämnet."
+
+#: includes/admin/tools.php:1143 includes/topics/functions.php:3440
+#: includes/topics/template.php:50
+msgid "All Topics"
+msgstr "Alla ämnen"
+
+#: includes/admin/forums.php:463 includes/forums/template.php:601
+msgid "No Topics"
+msgstr "Inga ämnen"
+
+#: includes/forums/template.php:1239 includes/forums/template.php:1977
+msgid "%s topic"
+msgid_plural "%s topics"
+msgstr[0] "%s ämne"
+msgstr[1] "%s ämnen"
+
+#: includes/admin/metaboxes.php:42
+msgid "Discussion"
+msgstr "Diskussion"
+
+#: includes/admin/metaboxes.php:135
+msgid "User"
+msgid_plural "Users"
+msgstr[0] "Användare"
+msgstr[1] "Användare"
+
+#: includes/admin/metaboxes.php:154
+msgid "Hidden Topic"
+msgid_plural "Hidden Topics"
+msgstr[0] "Dolt ämne"
+msgstr[1] "Dolda ämnen"
+
+#: includes/admin/metaboxes.php:176
+msgid "Hidden Reply"
+msgid_plural "Hidden Replies"
+msgstr[0] "Dolt svar"
+msgstr[1] "Dolda svar"
+
+#: includes/admin/metaboxes.php:198
+msgid "Empty Topic Tag"
+msgid_plural "Empty Topic Tags"
+msgstr[0] "Tom ämnestagg"
+msgstr[1] "Tomma ämnestaggar"
+
+#: includes/admin/metaboxes.php:222
+msgid "You are using <span class=\"b\">bbPress %s</span>."
+msgstr "Du använder <span class=\"b\">bbPress %s</span>."
+
+#: includes/admin/metaboxes.php:261 includes/admin/metaboxes.php:262
+#: includes/admin/metaboxes.php:355
+msgid "Type:"
+msgstr "Typ:"
+
+#: includes/admin/metaboxes.php:273 includes/admin/metaboxes.php:274
+#: includes/admin/metaboxes.php:367
+#: templates/default/bbpress/form-forum.php:100
+msgid "Status:"
+msgstr "Status:"
+
+#: includes/admin/metaboxes.php:285 includes/admin/metaboxes.php:286
+#: templates/default/bbpress/form-forum.php:109
+msgid "Visibility:"
+msgstr "Synlighet:"
+
+#: includes/admin/metaboxes.php:299
+msgid "Parent:"
+msgstr "Förälder:"
+
+#: includes/admin/metaboxes.php:300
+msgid "Forum Parent"
+msgstr "Forumförälder"
+
+#: templates/default/bbpress/form-forum.php:123
+msgid "(No Parent)"
+msgstr "(Ingen förälder)"
+
+#: includes/admin/metaboxes.php:321
+msgid "Order:"
+msgstr "Ordning:"
+
+#: includes/admin/metaboxes.php:322
+msgid "Forum Order"
+msgstr "Forumordning"
+
+#: includes/admin/topics.php:695 includes/extend/buddypress/groups.php:291
+#: templates/default/bbpress/form-topic.php:117
+msgid "(No Forum)"
+msgstr "(Inget forum)"
+
+#: includes/admin/metaboxes.php:503
+#: templates/default/bbpress/form-user-edit.php:103
+#: templates/default/bbpress/form-user-register.php:28
+msgid "Email"
+msgstr "E-post"
+
+#: includes/admin/metaboxes.php:525
+msgid "IP Address"
+msgstr "IP-adress"
+
+#: includes/admin/settings.php:1555
+msgid "Main Settings"
+msgstr "Huvudinställningar"
+
+#: includes/admin/settings.php:1575
+msgid "Per Page"
+msgstr "Per sida"
+
+#: includes/admin/settings.php:272
+msgid "Forum Prefix"
+msgstr "Forumprefix"
+
+#: includes/admin/settings.php:1707
+msgid "Forum slug"
+msgstr "Forumpermalänk"
+
+#: includes/admin/settings.php:1710
+msgid "Topic slug"
+msgstr "Ämnespermalänk"
+
+#: includes/admin/settings.php:1722
+msgid "Topic tag slug"
+msgstr "Ämnestaggspermalänk"
+
+#: includes/admin/settings.php:1713
+msgid "Reply slug"
+msgstr "Svarspermalänk"
+
+#: includes/admin/settings.php:1716
+msgid "User base"
+msgstr "Användarbas"
+
+#: includes/admin/settings.php:1719
+msgid "View base"
+msgstr "Visningsbas"
+
+#: includes/admin/admin.php:512
+msgid "Settings"
+msgstr "Inställningar"
+
+#: includes/admin/admin.php:532
+msgid "Right Now in Forums"
+msgstr "Just nu i forumet"
+
+#: includes/admin/admin.php:950 includes/admin/admin.php:1004
+msgid "Go Back"
+msgstr "Gå tillbaka"
+
+#: includes/admin/settings.php:467 includes/common/functions.php:123
+msgid "minutes"
+msgstr "minuter"
+
+#: includes/admin/settings.php:483 includes/common/functions.php:124
+msgid "seconds"
+msgstr "sekunder"
+
+#: includes/admin/settings.php:499
+msgid "Allow guest users without accounts to create topics and replies"
+msgstr "Tillåta gäster utan konton att skapa ämnen och svar"
+
+#: includes/admin/settings.php:777 includes/admin/settings.php:793
+#: includes/admin/settings.php:824 includes/admin/settings.php:840
+msgid "per page"
+msgstr "per sida"
+
+#: includes/admin/settings.php:1556
+msgid "In the Main Settings you have a number of options:"
+msgstr "I huvudinställningar har du ett antal alternativ:"
+
+#: includes/admin/settings.php:1559
+msgid ""
+"You can choose to lock a post after a certain number of minutes. \"Locking "
+"post editing\" will prevent the author from editing some amount of time "
+"after saving a post."
+msgstr ""
+"Du kan välja att låsa ett inlägg efter ett visst antal minuter. \"Låsa "
+"inläggsredigering\" kommer att hindra författaren från att redigera en viss "
+"tid efter att ett inlägg är sparats."
+
+#: includes/admin/settings.php:1560
+msgid ""
+"\"Throttle time\" is the amount of time required between posts from a single "
+"author. The higher the throttle time, the longer a user will need to wait "
+"between posting to the forum."
+msgstr ""
+"\"Tidsbegränsning för postning\" är den tid som krävs mellan inlägg från och "
+"samma författare. Ju högre begränsning, ju längre måste en användare vänta "
+"innan nya meddelanden kan postas i forumet."
+
+#: includes/admin/settings.php:1569
+msgid ""
+"You must click the Save Changes button at the bottom of the screen for new "
+"settings to take effect."
+msgstr ""
+"Du måste klicka på knappen Spara ändringar längst ned på sidan för att de "
+"nya inställningarna ska börja gälla."
+
+#: includes/admin/forums.php:133
+msgid ""
+"You can hide/display columns based on your needs and decide how many forums "
+"to list per screen using the Screen Options tab."
+msgstr ""
+"Du kan dölja/visa kolumner utifrån dina behov och bestämma hur många forum "
+"att lista per sida under fliken Panelinställningar."
+
+#: includes/admin/forums.php:134
+msgid ""
+"You can filter the list of forums by forum status using the text links in "
+"the upper left to show All, Published, or Trashed forums. The default view "
+"is to show all forums."
+msgstr ""
+"Du kan filtrera listan av forum efter status med hjälp av textlänkarna i "
+"övre vänstra delen av sidan för att visa Alla, Publicerad eller Kastade "
+"forum. Standard är att visa alla forum."
+
+#: includes/admin/forums.php:135
+msgid ""
+"You can refine the list to show only forums from a specific month by using "
+"the dropdown menus above the forums list. Click the Filter button after "
+"making your selection. You also can refine the list by clicking on the forum "
+"creator in the forums list."
+msgstr ""
+"Du kan sortera listan för att visa enbart forum från en specifik månad genom "
+"att använda rullgardinsmenyerna ovanför forumlistan. Klicka på knappen "
+"Filtrera efter att ha gjort ditt val. Du kan också sortera listan genom att "
+"klicka på forumskaparen i forumlistan."
+
+#: includes/admin/forums.php:144
+msgid ""
+"Hovering over a row in the forums list will display action links that allow "
+"you to manage your forum. You can perform the following actions:"
+msgstr ""
+"Att föra muspekaren över en rad i forumlistan visas åtgärdslänkar som gör "
+"att du kan hantera dina forum. Du kan utföra följande åtgärder:"
+
+#: includes/admin/forums.php:203 includes/admin/forums.php:243
+msgid "Forum Attributes"
+msgstr "Forumattribut"
+
+#: includes/admin/forums.php:413 includes/admin/replies.php:573
+#: includes/admin/topics.php:637
+msgid "Created"
+msgstr "Skapat"
+
+#: includes/common/functions.php:114
+msgid "%s ago"
+msgstr "%s sedan"
+
+#: includes/admin/forums.php:529
+msgid "Forum updated. <a href=\"%s\">View forum</a>"
+msgstr "Forum uppdaterat. <a href=\"%s\">Visa forum</a>"
+
+#: includes/admin/forums.php:532 includes/admin/replies.php:853
+#: includes/admin/topics.php:923
+msgid "Custom field updated."
+msgstr "Eget fält uppdaterat."
+
+#: includes/admin/forums.php:535 includes/admin/replies.php:856
+#: includes/admin/topics.php:926
+msgid "Custom field deleted."
+msgstr "Eget fält raderat."
+
+#: includes/admin/forums.php:538
+msgid "Forum updated."
+msgstr "Forum uppdaterat."
+
+#: includes/admin/forums.php:543
+msgid "Forum restored to revision from %s"
+msgstr "Forum återställs till versionen från %s"
+
+#: includes/admin/forums.php:547
+msgid "Forum created. <a href=\"%s\">View forum</a>"
+msgstr "Forum skapat. <a href=\"%s\">Visa forum</a>"
+
+#: includes/admin/forums.php:550
+msgid "Forum saved."
+msgstr "Forum sparat."
+
+#: includes/admin/forums.php:553
+msgid "Forum submitted. <a target=\"_blank\" href=\"%s\">Preview forum</a>"
+msgstr ""
+"Forum skapat. <a target=\"_blank\" href=\"%s\">Förhandsgranska forum</a>"
+
+#: includes/admin/forums.php:556
+msgid ""
+"Forum scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s"
+"\">Preview forum</a>"
+msgstr ""
+"Forum tidsinställt till: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Förhandsgranska forum</a>"
+
+#: includes/admin/forums.php:558 includes/admin/replies.php:879
+#: includes/admin/topics.php:949
+msgid "M j, Y @ G:i"
+msgstr "j M, Y @ H:i"
+
+#: includes/admin/forums.php:563
+msgid "Forum draft updated. <a target=\"_blank\" href=\"%s\">Preview forum</a>"
+msgstr ""
+"Utkast av forum uppdaterat. <a target=\"_blank\" href=\"%s\">Förhandsgranska "
+"forum</a>"
+
+#: includes/admin/replies.php:146
+msgid ""
+"You can view replies in a simple title list or with an excerpt. Choose the "
+"view you prefer by clicking on the icons at the top of the list on the right."
+msgstr ""
+"Du kan se svar i en enkel titellista eller med ett utdrag. Välj den vy du "
+"föredrar genom att klicka på ikonerna överst i listan till höger."
+
+#: includes/admin/replies.php:156
+msgid ""
+"Hovering over a row in the replies list will display action links that allow "
+"you to manage your reply. You can perform the following actions:"
+msgstr ""
+"När muspekaren förs över en rad i listan över svar visas länkar med åtgärder "
+"som gör att du kan hantera ditt svar. Du kan utföra följande åtgärder:"
+
+#: includes/admin/replies.php:217 includes/admin/replies.php:255
+msgid "Reply Attributes"
+msgstr "Svarsattribut"
+
+#: includes/admin/replies.php:347 includes/admin/topics.php:363
+#: templates/default/bbpress/form-anonymous.php:17
+msgid "Author Information"
+msgstr "Författarinformation"
+
+#: includes/admin/replies.php:461
+msgid "The reply was not found!"
+msgstr "Svaret kunde inte hittas!"
+
+#: includes/admin/replies.php:464 includes/admin/topics.php:488
+msgid "You do not have the permission to do that!"
+msgstr "Du har inte tillåtelse att göra det!"
+
+#: includes/admin/replies.php:532
+msgid "There was a problem marking the reply \"%1$s\" as spam."
+msgstr "Det uppstod ett problem med att märkning svaret \"%1$s\" som skräp."
+
+#: includes/admin/replies.php:532
+msgid "Reply \"%1$s\" successfully marked as spam."
+msgstr "Svaret \"%1$s\" har markerats som skräp."
+
+#: includes/admin/replies.php:536
+msgid "There was a problem unmarking the reply \"%1$s\" as spam."
+msgstr "Det uppstod ett problem med att avmarkera svaret \"%1$s\" som skräp."
+
+#: includes/admin/replies.php:536
+msgid "Reply \"%1$s\" successfully unmarked as spam."
+msgstr "Svaret \"%1$s\" har avmarkerats som skräp."
+
+#: includes/admin/replies.php:569
+msgid "Title"
+msgstr "Titel"
+
+#: includes/admin/replies.php:726 includes/admin/topics.php:777
+msgid "View"
+msgstr "Visa"
+
+#: includes/admin/replies.php:726 includes/admin/topics.php:777
+msgid "View &#8220;%s&#8221;"
+msgstr "Visa &#8220;%s&#8220;"
+
+#: includes/admin/replies.php:737
+msgid "Mark the reply as not spam"
+msgstr "Ta bort skräppostmarkering för svaret"
+
+#: includes/admin/replies.php:737 includes/admin/topics.php:808
+msgid "Not spam"
+msgstr "Inte skräp"
+
+#: includes/admin/replies.php:739
+msgid "Mark this reply as spam"
+msgstr "Markera detta svar som skräp"
+
+#: includes/admin/replies.php:754 includes/admin/topics.php:824
+msgid "Delete Permanently"
+msgstr "Radera permanent"
+
+#: includes/admin/replies.php:790 includes/admin/topics.php:860
+msgid "In all forums"
+msgstr "I alla forum"
+
+#: includes/admin/replies.php:850
+msgid "Reply updated. <a href=\"%s\">View topic</a>"
+msgstr "Svar uppdaterat. <a href=\"%s\">Visa ämne</a>"
+
+#: includes/admin/replies.php:859
+msgid "Reply updated."
+msgstr "Svar uppdaterat."
+
+#: includes/admin/replies.php:864
+msgid "Reply restored to revision from %s"
+msgstr "Svar återställdes till versionen från %s"
+
+#: includes/admin/replies.php:868
+msgid "Reply created. <a href=\"%s\">View topic</a>"
+msgstr "Svara skapat. <a href=\"%s\">Visa ämne</a>"
+
+#: includes/admin/replies.php:871
+msgid "Reply saved."
+msgstr "Svar sparat."
+
+#: includes/admin/replies.php:874
+msgid "Reply submitted. <a target=\"_blank\" href=\"%s\">Preview topic</a>"
+msgstr "Svar postat. <a target=\"_blank\" href=\"%s\">Förhandsgranska ämne</a>"
+
+#: includes/admin/replies.php:877
+msgid ""
+"Reply scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s"
+"\">Preview topic</a>"
+msgstr ""
+"Svar tidsinställt till: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Förhandsgranska ämne</a>"
+
+#: includes/admin/replies.php:884
+msgid "Reply draft updated. <a target=\"_blank\" href=\"%s\">Preview topic</a>"
+msgstr ""
+"Utkast av svar uppdaterat. <a target=\"_blank\" href=\"%s\">Förhandsgranska "
+"ämne</a>"
+
+#: includes/admin/tools.php:167
+msgid "Count topics in each forum"
+msgstr "Räkna antal ämnen i varje forum"
+
+#: includes/admin/tools.php:168
+msgid "Count replies in each forum"
+msgstr "Räkna antalet svar i varje forum"
+
+#: includes/admin/tools.php:169
+msgid "Count replies in each topic"
+msgstr "Räkna antal svar i varje ämne"
+
+#: includes/admin/tools.php:170
+msgid "Count voices in each topic"
+msgstr "Räkna antalet deltagare i varje ämne"
+
+#: includes/admin/tools.php:171
+msgid "Count spammed & trashed replies in each topic"
+msgstr "Räkna skräp & förkastade svar i varje ämne"
+
+#: includes/admin/tools.php:173
+msgid "Count replies for each user"
+msgstr "Räkna antal svar av varje användare"
+
+#: includes/admin/tools.php:174
+msgid "Remove trashed topics from user favorites"
+msgstr "Ta bort borttagna ämnen från användares favoriter"
+
+#: includes/admin/tools.php:175
+msgid "Remove trashed topics from user subscriptions"
+msgstr "Ta bort borttagna ämnen från användares prenumerationer"
+
+#: includes/admin/tools.php:164
+msgid "Recalculate last activity in each topic and forum"
+msgstr "Beräkna om senaste aktiviteten i varje ämne och forum"
+
+#: includes/admin/tools.php:197
+msgid "Counting the number of replies in each topic&hellip; %s"
+msgstr "Räknar antalet svar i varje ämne&hellip; %s"
+
+#: includes/admin/tools.php:198 includes/admin/tools.php:241
+#: includes/admin/tools.php:283 includes/admin/tools.php:328
+#: includes/admin/tools.php:445 includes/admin/tools.php:479
+#: includes/admin/tools.php:511 includes/admin/tools.php:556
+#: includes/admin/tools.php:601 includes/admin/tools.php:663
+#: includes/admin/tools.php:724 includes/admin/tools.php:792
+#: includes/admin/tools.php:840 includes/admin/tools.php:946
+#: includes/admin/tools.php:1006 includes/admin/tools.php:1027
+#: includes/admin/tools.php:1081
+msgid "Failed!"
+msgstr "Misslyckades!"
+
+#: includes/admin/tools.php:224 includes/admin/tools.php:267
+#: includes/admin/tools.php:293 includes/admin/tools.php:460
+#: includes/admin/tools.php:494 includes/admin/tools.php:539
+#: includes/admin/tools.php:584 includes/admin/tools.php:646
+#: includes/admin/tools.php:707 includes/admin/tools.php:768
+#: includes/admin/tools.php:930 includes/admin/tools.php:987
+#: includes/admin/tools.php:1010 includes/admin/tools.php:1065
+#: includes/admin/tools.php:1110
+msgid "Complete!"
+msgstr "Klart!"
+
+#: includes/admin/tools.php:240
+msgid "Counting the number of voices in each topic&hellip; %s"
+msgstr "Räknar antalet röster i varje ämne&hellip; %s"
+
+#: includes/admin/tools.php:282
+msgid ""
+"Counting the number of spammed and trashed replies in each topic&hellip; %s"
+msgstr "Räknar antalet skräpposter och borttagna svar i varje ämne&hellip; %s"
+
+#: includes/admin/tools.php:444
+msgid "Counting the number of topics in each forum&hellip; %s"
+msgstr "Räknar antalet ämnen i varje forum&hellip; %s"
+
+#: includes/admin/tools.php:478
+msgid "Counting the number of replies in each forum&hellip; %s"
+msgstr "Räknar antalet svar i varje forum&hellip; %s"
+
+#: includes/admin/tools.php:555
+msgid "Counting the number of topics to which each user has replied&hellip; %s"
+msgstr "Räknar antalet ämnen som varje användare har svarat&hellip; %s"
+
+#: includes/admin/tools.php:600
+msgid "Removing trashed topics from user favorites&hellip; %s"
+msgstr "Ta bort borttagna ämnen från användares favoriter&hellip; %s"
+
+#: includes/admin/tools.php:630 includes/admin/tools.php:691
+#: includes/admin/tools.php:752
+msgid "Nothing to remove!"
+msgstr "Det finns inget att ta bort!"
+
+#: includes/admin/tools.php:662
+msgid "Removing trashed topics from user subscriptions&hellip; %s"
+msgstr "Tar bort kastade ämnen i användares prenumerationer&hellip; %s"
+
+#: includes/admin/tools.php:839
+msgid "Recomputing latest post in every topic and forum&hellip; %s"
+msgstr "Omberäknar senaste inlägget i varje ämne och forum&hellip; %s"
+
+#: includes/admin/topics.php:144
+msgid ""
+"You can hide/display columns based on your needs and decide how many topics "
+"to list per screen using the Screen Options tab."
+msgstr ""
+"Du kan dölja/visa kolumner utifrån dina behov och bestämma hur många ämnen "
+"som ska visas per sida i listningen under fliken Panelinställningar."

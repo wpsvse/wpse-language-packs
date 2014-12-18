@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Administration package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2014-12-17 14:19+0100\n"
+"PO-Revision-Date: 2014-12-18 17:15+0100\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -69,7 +69,7 @@ msgstr "Twenty Fifteen har fulländat språkstöd, med hjälp av <a href=\"%s\">
 
 #: wp-admin/about.php:52
 msgid "Our newest default theme, Twenty Fifteen, is a blog-focused theme designed for clarity."
-msgstr "Vårt nyaste standardtema, Twenty Fifteen, är ett bloggfokuserat tema designat med tydlighet åtanke."
+msgstr "Vårt nya standardtema, Twenty Fifteen, är ett bloggfokuserat tema designat med tydlighet åtanke."
 
 #: wp-admin/about.php:149
 msgid "Continued improvements to inline code documentation have made the <a href=\"%s\">developer reference</a> more complete than ever."
@@ -412,7 +412,7 @@ msgstr "Du kan även radera individuella objekt och få tillgång till utökade 
 
 #: wp-admin/about.php:136
 msgid "Customizer API"
-msgstr "Customizer API"
+msgstr "API för anpassaren"
 
 #: wp-admin/plugin-install.php:78
 msgid "If you just want to get an idea of what&#8217;s available, you can browse Featured and Popular plugins by using the links in the upper left of the screen. These sections rotate regularly."

@@ -1,0 +1,402 @@
+# Translation of Twenty Ten in Swedish
+# This file is distributed under the same license as the Twenty Ten package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2010-06-22 14:52+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/0.1\n"
+"Project-Id-Version: Twenty Ten sv_SE\n"
+"POT-Creation-Date: \n"
+"Last-Translator: Mattias Tengblad <mst@eyesx.com>\n"
+"Language-Team: WordPress Sverige <info@wp-support.se>\n"
+"X-Poedit-Language: Swedish\n"
+"X-Poedit-Country: SWEDEN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: loop.php:145
+msgid "<span class=\"%1$s\">Posted in</span> %2$s"
+msgstr "<span class=\"%1$s\">Publicerat i</span> %2$s"
+
+#: functions.php:500
+msgid "<span class=\"%1$s\">Posted on</span> %2$s <span class=\"meta-sep\">by</span> %3$s"
+msgstr "<span class=\"%1$s\">Postat den</span> %2$s <span class=\"meta-sep\">av</span> %3$s"
+
+#: loop.php:154
+msgid "<span class=\"%1$s\">Tagged</span> %2$s"
+msgstr "<span class=\"%1$s\">Etiketter</span> %2$s"
+
+msgid "black, blue, white, two-columns, fixed-width, custom-header, custom-background, threaded-comments, sticky-post, translation-ready, microformats, rtl-language-support, editor-style"
+msgstr "svart, blå, vit, två kolumner, med fast bredd, anpassa bild för sidhuvud, anpassa bakgrund, nästlade kommentarer, klistrade inlägg, översättningsklart, mikroformat, RTL-språkstöd, redaktörsstil"
+
+#: functions.php:530
+msgid "Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Bokmärk <a href=\"%3$s\" title=\"Permalänk till %4$s\" rel=\"bookmark\">permalänk</a>."
+
+#: single.php:44
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Visa alla inlägg av %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:41
+#: comments.php:60
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr "<span class=\"meta-nav\">&larr;</span> Äldre kommentarer"
+
+#: attachment.php:19
+msgid "<span class=\"meta-nav\">&larr;</span> %s"
+msgstr "<span class=\"meta-nav\">&larr;</span> %s"
+
+#: comments.php:42
+#: comments.php:61
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Nyare kommentarer <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:97
+msgid "Primary Navigation"
+msgstr "Primär navigation"
+
+#: loop.php:35
+msgid "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post."
+msgstr "Tyvärr så kunde inga resultat hittas för efterfrågat arkiv. Kanske kan en sökning hjälpa dig att hitta relaterande inlägg."
+
+#: functions.php:237
+msgid "Search results for %s"
+msgstr "Sökresultat för %s"
+
+#: functions.php:366
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">skriver:</span>"
+
+#: attachment.php:27
+msgid "<span class=\"%1$s\">By</span> %2$s"
+msgstr "<span class=\"%1$s\">Av</span> %2$s"
+
+#: attachment.php:38
+msgid "<span class=\"%1$s\">Published</span> %2$s"
+msgstr "<span class=\"%1$s\">Publicerat</span> %2$s"
+
+#: attachment.php:48
+msgid "Full size is %s pixels"
+msgstr "Full storlek är %s pixlar"
+
+#: attachment.php:51
+msgid "Link to full-size image"
+msgstr "Länk till bild i originalstorlek"
+
+#: author.php:27
+msgid "Author Archives: %s"
+msgstr "Författararkiv: %s"
+
+#: footer.php:35
+msgid "Proudly powered by %s."
+msgstr "Drivs stolt med %s."
+
+#: functions.php:393
+msgid "Pingback:"
+msgstr "Pingback: "
+
+#: functions.php:526
+msgid "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Det här inlägget postades i %1$s och har märkts med etiketterna %2$s. Bokmärk <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalänken</a>."
+
+#: functions.php:528
+msgid "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Det här inlägget postades i %1$s. Bokmärk <a href=\"%3$s\" title=\"Permalänk till %4$s\" rel=\"bookmark\">permalänken</a>. "
+
+#: comments.php:35
+msgid "One Response to %2$s"
+msgid_plural "%1$s Responses to %2$s"
+msgstr[0] "Ett svar till %2$s"
+msgstr[1] "%1$s svar till %2$s"
+
+#: loop.php:100
+msgctxt "asides category slug"
+msgid "asides"
+msgstr "noteringar"
+
+#: loop.php:60
+#: loop.php:91
+msgctxt "gallery category slug"
+msgid "gallery"
+msgstr "galleri"
+
+#: functions.php:445
+msgid "Second Footer Widget Area"
+msgstr "Andra widgetfält i sidfot"
+
+#: functions.php:434
+msgid "First Footer Widget Area"
+msgstr "Första widgetfält i sidfot"
+
+#: functions.php:412
+msgid "Primary Widget Area"
+msgstr "Primärt widgetfält"
+
+#: functions.php:423
+msgid "Secondary Widget Area"
+msgstr "Sekundärt widgetfält"
+
+#: functions.php:467
+msgid "Fourth Footer Widget Area"
+msgstr "Fjärde widgetfält i sidfot"
+
+#: functions.php:456
+msgid "Third Footer Widget Area"
+msgstr "Tredje widgetfält i sidfot"
+
+#: single.php:19
+#: single.php:59
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: single.php:18
+#: single.php:58
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: functions.php:376
+#: functions.php:393
+msgid "(Edit)"
+msgstr "(Redigera)"
+
+#: comments.php:72
+msgid "Comments are closed."
+msgstr "Kommentarer inaktiverade."
+
+#: loop.php:93
+#: loop.php:116
+#: loop.php:158
+msgid "% Comments"
+msgstr "% kommentar"
+
+#: sidebar.php:34
+msgid "Meta"
+msgstr "Meta"
+
+#: sidebar.php:27
+msgid "Archives"
+msgstr "Arkiv"
+
+#: functions.php:369
+msgid "Your comment is awaiting moderation."
+msgstr "Din kommentar inväntar granskning."
+
+#: functions.php:376
+msgid "%1$s at %2$s"
+msgstr "%1$s kl %2$s"
+
+#: functions.php:175
+msgid "Sunset"
+msgstr "Solnedgång"
+
+#: functions.php:169
+msgid "Path"
+msgstr "Allé"
+
+#: functions.php:163
+msgid "Inkwell"
+msgstr "Färgbrunn"
+
+#: functions.php:157
+msgid "Forest Floor"
+msgstr "Skogsmatta"
+
+#: functions.php:151
+msgid "Fern"
+msgstr "Ormbunke"
+
+#: functions.php:145
+msgid "Concave"
+msgstr "Konkav"
+
+#: functions.php:139
+msgid "Cherry Blossoms"
+msgstr "Körsbärsblom"
+
+#: functions.php:133
+msgid "Berries"
+msgstr "Bär"
+
+#: footer.php:34
+msgid "Semantic Personal Publishing Platform"
+msgstr "Semantisk personlig publiceringsplattform"
+
+#: functions.php:240
+#: functions.php:257
+msgid "Page %s"
+msgstr "Sida %s"
+
+#: loop.php:93
+#: loop.php:116
+#: loop.php:158
+msgid "1 Comment"
+msgstr "1 kommentar"
+
+#: loop.php:93
+#: loop.php:116
+#: loop.php:158
+msgid "Leave a comment"
+msgstr "Lämna en kommentar"
+
+#: loop.php:91
+msgid "More Galleries"
+msgstr "Fler gallerier"
+
+#: loop.php:91
+msgid "View posts in the Gallery category"
+msgstr "Visa inlägg i gallerikategorin"
+
+#: loop.php:81
+msgid "This gallery contains <a %1$s>%2$s photos</a>."
+msgstr "Det här galleriet innehåller <a %1$s>%2$s bilder</a>."
+
+#: loop.php:62
+#: loop.php:82
+#: loop.php:125
+msgid "Permalink to %s"
+msgstr "Permanent länk till %s"
+
+#: loop.php:26
+#: loop.php:173
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Nyare inlägg <span class=\"meta-nav\">&rarr;</span>"
+
+#: loop.php:25
+#: loop.php:172
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Äldre inlägg"
+
+#: header.php:71
+msgid "Skip to content"
+msgstr "Gå till innehåll"
+
+#: functions.php:469
+msgid "The fourth footer widget area"
+msgstr "Fjärde widgetfält i sidfot"
+
+#: functions.php:458
+msgid "The third footer widget area"
+msgstr "Tredje widgetfält i sidfot"
+
+#: functions.php:447
+msgid "The second footer widget area"
+msgstr "Andra widgetfält i sidfot"
+
+#: functions.php:436
+msgid "The first footer widget area"
+msgstr "Första widgetfält i sidfot"
+
+#: functions.php:425
+msgid "The secondary widget area"
+msgstr "Sekundärt widgetfält"
+
+#: functions.php:414
+msgid "The primary widget area"
+msgstr "Primärt widgetfält"
+
+#: comments.php:18
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Det här inlägget är lösenordsskyddat. Ange lösenordet för att se eventuella kommentarer."
+
+#: category.php:16
+msgid "Category Archives: %s"
+msgstr "Kategoriarkiv: %s"
+
+#: author.php:37
+#: single.php:40
+msgid "About %s"
+msgstr "Om %s"
+
+#: 404.php:16
+#: loop.php:33
+msgid "Not Found"
+msgstr "Kunde inte hittas"
+
+#: 404.php:18
+msgid "Apologies, but the page you requested could not be found. Perhaps searching will help."
+msgstr "Tyvärr så kunde inte sidan du efterfrågat hittas. Kanske kan en sökning hjälpa."
+
+#: archive.php:33
+msgid "Daily Archives: <span>%s</span>"
+msgstr "Dagsarkiv: <span>%s</span>"
+
+#: archive.php:35
+msgid "Monthly Archives: <span>%s</span>"
+msgstr "Månadsarkiv: <span>%s</span>"
+
+#: archive.php:37
+msgid "Yearly Archives: <span>%s</span>"
+msgstr "Årsarkiv: <span>%s</span>"
+
+#: archive.php:39
+msgid "Blog Archives"
+msgstr "Bloggarkiv"
+
+#: attachment.php:17
+msgid "Return to %s"
+msgstr "Tillbaka till %s"
+
+#: attachment.php:31
+#: functions.php:509
+msgid "View all posts by %s"
+msgstr "Visa alla inlägg av %s"
+
+#: attachment.php:58
+#: attachment.php:105
+#: loop.php:94
+#: loop.php:117
+#: loop.php:159
+#: onecolumn-page.php:27
+#: page.php:32
+#: single.php:53
+msgid "Edit"
+msgstr "Redigera"
+
+#: attachment.php:98
+#: functions.php:299
+#: loop.php:109
+#: loop.php:137
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Läs mer <span class=\"meta-nav\">&rarr;</span>"
+
+#: attachment.php:99
+#: loop.php:138
+#: onecolumn-page.php:26
+#: page.php:31
+#: single.php:31
+msgid "Pages:"
+msgstr "Sidor:"
+
+#: tag.php:16
+msgid "Tag Archives: %s"
+msgstr "Etikettarkiv: %s"
+
+msgid "Twenty Ten"
+msgstr "Twenty Ten"
+
+#: footer.php:33
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+msgid "The 2010 default theme for WordPress."
+msgstr "2010-års standardtema för WordPress."
+
+msgid "the WordPress team"
+msgstr "WordPressteamet"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Sökresultat för: %s"
+
+#: search.php:26
+msgid "Nothing Found"
+msgstr "Inget kunde hittas"
+
+#: search.php:28
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Ledsen, men inga matchande resultat kunde hittas baserat på dina kriterier. Var vänlig försök med andra sökord."
+

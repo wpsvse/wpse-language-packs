@@ -1,0 +1,707 @@
+# Rosetta POT file.
+# Copyright (C) 2008 WordPress
+# This file is distributed under the same license as the WordPress package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Rosetta Svenska\n"
+"Report-Msgid-Bugs-To: wp-polyglots@lists.automattic.com\n"
+"POT-Creation-Date: 2010-04-17 19:08+0000\n"
+"PO-Revision-Date: 2010-05-07 09:53+0100\n"
+"Last-Translator: Mattias Tengblad <mst@eyesx.com>\n"
+"Language-Team: WP-Support Sverige <info@wp-support.se>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"X-Poedit-Language: Swedish\n"
+"X-Poedit-Country: SWEDEN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: mu-plugins/rosetta.php:77
+#: mu-plugins/rosetta/tmpl/translations.php:2
+#, php-format
+msgid "Translations for %s"
+msgstr "Översättningar för %s"
+
+#: mu-plugins/rosetta.php:79
+#: mu-plugins/rosetta/tmpl/deploy_queue.php:2
+#: mu-plugins/rosetta/tmpl/deploy_queue.php:23
+msgid "Deploy Requests"
+msgstr "Förfrågan för införande"
+
+#: mu-plugins/rosetta.php:80
+msgid "Main menu"
+msgstr "Huvudmeny"
+
+#: mu-plugins/rosetta.php:83
+#: mu-plugins/rosetta/tmpl/showcase.php:2
+#: themes/rosetta/index.php:52
+#: themes/rosetta/index.php:75
+msgid "Showcase"
+msgstr "Showcase"
+
+#: mu-plugins/rosetta.php:128
+msgid "Request added successfully."
+msgstr "Förfrågan lades till."
+
+#: mu-plugins/rosetta.php:130
+msgid "Couldn&#8217;t add the request!"
+msgstr "Kunde inte lägga till förfrågan"
+
+#: mu-plugins/rosetta.php:136
+msgid "Request canceled successfully."
+msgstr "Förfrågan avbruten."
+
+#: mu-plugins/rosetta.php:138
+msgid "Couldn&#8217;t cancel the request!"
+msgstr "Kunde inte avbryta förfrågan!"
+
+#: mu-plugins/rosetta.php:143
+msgid "Request updated successfully."
+msgstr "Förfrågan uppdaterad."
+
+#: mu-plugins/rosetta.php:145
+msgid "Couldn&#8217;t update the request!"
+msgstr "Kunde inte uppdatera förfrågan!"
+
+#: mu-plugins/rosetta.php:215
+#: mu-plugins/rosetta/tmpl/main_menu.php:11
+msgid "Home"
+msgstr "Hem"
+
+#: mu-plugins/rosetta.php:215
+msgid "Home page"
+msgstr "Startsidan"
+
+#: mu-plugins/rosetta.php:216
+#: mu-plugins/rosetta/tmpl/main_menu.php:40
+#: themes/rosetta/contact.php:153
+msgid "Contact"
+msgstr "Kontakt"
+
+#: mu-plugins/rosetta.php:216
+msgid "Contact the translators"
+msgstr "Kontakta översättare"
+
+#: mu-plugins/rosetta/builder.php:101
+msgid "Couldn't open version.php"
+msgstr "Kunde inte öppna version.php"
+
+#: mu-plugins/rosetta/builder.php:111
+msgid "Couldn't write version.php"
+msgstr "Kunde inte skriva till version.php"
+
+#: mu-plugins/rosetta/builder.php:118
+msgid "Couldn't open wp-config-sample.php"
+msgstr "Kunde inte öppna wp-config-sample.php"
+
+#: mu-plugins/rosetta/builder.php:125
+msgid "Couldn't write wp-config-sample.php"
+msgstr "Kunde inte skriva till wp-config-sample.php"
+
+#: mu-plugins/rosetta/builder.php:142
+msgid "No svn branch associated with this project."
+msgstr "Ingen svn-gren associerad med detta projekt."
+
+#: mu-plugins/rosetta/builder.php:187
+#, php-format
+msgid "Couldn&#8217;t retrieve the file from: %s"
+msgstr "Kunde inte hämta filen från: %s"
+
+#: mu-plugins/rosetta/builder.php:189
+#, php-format
+msgid "Couldn&#8217;t write downloaded file to %s"
+msgstr "Kunde inte skriva nedladdad fil till %s"
+
+#: mu-plugins/rosetta/builder.php:196
+#, php-format
+msgid "The locale %s doesn&#8217;t have associated locale in GlotPress."
+msgstr "Språket %s har inget projekt angivet i GlotPress."
+
+#: mu-plugins/rosetta/builder.php:228
+#, php-format
+msgid "The default key in dist/wp-config-sample.php does&#8217;t match $wp_default_secret_key in %1$s.php. The one in the sample config is:<p><code>%2$s</code></p><p>and the one in %1$s.php is:</p><p><code>%3$s</code></p>"
+msgstr "Standardnyckeln i dist/wp-config-sample.php matchar inte $wp_default_secret_key i %1$s.php. Nyckeln i sample config är:<p><code>%2$s</code></p><p>och den angiven i %1$s.php är:</p><p><code>%3$s</code></p>"
+
+#: mu-plugins/rosetta/builder.php:262
+msgid "Couldn&#8217;t create a temporary file!"
+msgstr "Kunde inte skapa temporär fil!"
+
+#: mu-plugins/rosetta/builder.php:266
+#, php-format
+msgid "Couldn&#8217;t delete temporary file %s!"
+msgstr "Kunde inte radera temporär fil %s!"
+
+#: mu-plugins/rosetta/builder.php:270
+#, php-format
+msgid "Couldn&#8217;t create temporary directory %s!"
+msgstr "Kunde inte skapa temporär mapp %s!"
+
+#: mu-plugins/rosetta/builder.php:301
+#, php-format
+msgid "Error in exporting theme/%s. Probably this branch/tag doesn&#8217;t exist."
+msgstr "Fel vid exportering av theme/%s. Troligen så finns inte grenen/märkningen."
+
+#: mu-plugins/rosetta/builder.php:314
+msgid "Error in exporting iis branch from locale repostory."
+msgstr "Ett fel uppstod vid exportering av iis-grenen från språkförrådet."
+
+#: mu-plugins/rosetta/builder.php:320
+msgid "Error moving iis files to build directory."
+msgstr "Kunde inte flytta iis-filer till byggmapp."
+
+#: mu-plugins/rosetta/builder.php:338
+#, php-format
+msgid "Couldn&#8217;t open directory %s for reading!"
+msgstr "Kunde inte öppna mappen %s för läsning!"
+
+#: mu-plugins/rosetta/builder.php:347
+#: mu-plugins/rosetta/rosetta.php:85
+#, php-format
+msgid "Couldn&#8217;t create directory %s!"
+msgstr "Kunde inte skapa mappen %s!"
+
+#: mu-plugins/rosetta/builder.php:356
+#: mu-plugins/rosetta/builder.php:388
+#, php-format
+msgid "Couldn&#8217;t copy %s to %s!"
+msgstr "Kunde inte kopiera %s till %s!"
+
+#: mu-plugins/rosetta/builder.php:374
+#, php-format
+msgid "Po file %s doesn&#8217;t exist!"
+msgstr "Po filen %s existerar inte!"
+
+#: mu-plugins/rosetta/builder.php:380
+#, php-format
+msgid "Couldn&#8217;t create mo file %s from po file %s!"
+msgstr "Kunde inte skapa mo-fil %s från po-filen %s!"
+
+#: mu-plugins/rosetta/rosetta.php:38
+#: mu-plugins/rosetta/rosetta.php:271
+#: mu-plugins/rosetta/rosetta.php:291
+#: mu-plugins/rosetta/rosetta.php:304
+#, php-format
+msgid "Invalid version %s."
+msgstr "Ogiltig version %s."
+
+#: mu-plugins/rosetta/rosetta.php:39
+#, php-format
+msgid "Invalid revision %s."
+msgstr "Ogiltig revision %s."
+
+#: mu-plugins/rosetta/rosetta.php:40
+#: mu-plugins/rosetta/rosetta.php:41
+#: mu-plugins/rosetta/rosetta.php:272
+#: mu-plugins/rosetta/rosetta.php:292
+#, php-format
+msgid "Invalid source %s."
+msgstr "Ogiltig källa %s."
+
+#: mu-plugins/rosetta/rosetta.php:112
+#, php-format
+msgid "Couldn&#8217;t move %s to %s."
+msgstr "Kunde inte flytta %s till %s."
+
+#: mu-plugins/rosetta/rosetta.php:281
+#, php-format
+msgid "Couldn&#8217;t copy %1$s to release dir %2$s"
+msgstr "Kunde inte kopiera %1$s till release-mapp %2$s"
+
+#: mu-plugins/rosetta/rosetta.php:297
+#, php-format
+msgid "Couldn&#8217;t delete build file %s"
+msgstr "Kunde inte radera byggfil %s"
+
+#: mu-plugins/rosetta/rosetta.php:309
+#, php-format
+msgid "Couldn&#8217;t delete release file %s"
+msgstr "Kunde inte radera release-filer %s"
+
+#: mu-plugins/rosetta/tmpl/deploy_queue.php:16
+msgid "Note to deployer (optional):"
+msgstr "Notering till införare (valfritt):"
+
+#: mu-plugins/rosetta/tmpl/deploy_queue.php:18
+msgid "Request deploy &raquo;"
+msgstr "Förfråga införande av uppdatering &raquo;"
+
+#: mu-plugins/rosetta/tmpl/deploy_queue.php:27
+msgid "Requested On"
+msgstr "Förfrågad den"
+
+#: mu-plugins/rosetta/tmpl/deploy_queue.php:28
+msgid "Status"
+msgstr "Status"
+
+#: mu-plugins/rosetta/tmpl/deploy_queue.php:29
+#: mu-plugins/rosetta/tmpl/translations.php:16
+#: mu-plugins/rosetta/tmpl/translations.php:66
+msgid "Action"
+msgstr "Handling"
+
+#: mu-plugins/rosetta/tmpl/deploy_queue.php:41
+#, php-format
+msgid "Deployed on %s"
+msgstr "Införd %s"
+
+#: mu-plugins/rosetta/tmpl/deploy_queue.php:41
+msgid "Waiting&hellip;"
+msgstr "Väntar&hellip;"
+
+#: mu-plugins/rosetta/tmpl/deploy_queue.php:42
+msgid "Cancel"
+msgstr "Avbryt"
+
+#: mu-plugins/rosetta/tmpl/deploy_queue.php:45
+msgid "Deploy"
+msgstr "Inför"
+
+#: mu-plugins/rosetta/tmpl/deploy_queue.php:52
+msgid "Request a deploy &raquo;"
+msgstr "Förfråga införande av uppdatering &raquo;"
+
+#: mu-plugins/rosetta/tmpl/main_menu.php:2
+msgid "Main Menu"
+msgstr "Huvudmeny"
+
+#: mu-plugins/rosetta/tmpl/translations.php:8
+msgid "Builds"
+msgstr "Delversioner"
+
+#: mu-plugins/rosetta/tmpl/translations.php:12
+#: mu-plugins/rosetta/tmpl/translations.php:63
+msgid "Version"
+msgstr "Version"
+
+#: mu-plugins/rosetta/tmpl/translations.php:13
+#: mu-plugins/rosetta/tmpl/translations.php:64
+msgid "Links"
+msgstr "Länkar"
+
+#: mu-plugins/rosetta/tmpl/translations.php:14
+msgid "Built On"
+msgstr "Byggt den"
+
+#: mu-plugins/rosetta/tmpl/translations.php:15
+msgid "Locale Branch"
+msgstr "Språkgren"
+
+#: mu-plugins/rosetta/tmpl/translations.php:36
+msgid "Release"
+msgstr "Release"
+
+#: mu-plugins/rosetta/tmpl/translations.php:41
+#: mu-plugins/rosetta/tmpl/translations.php:98
+msgid "Delete"
+msgstr "Radera"
+
+#: mu-plugins/rosetta/tmpl/translations.php:46
+msgid "Go and build a localized version &raquo;"
+msgstr "Gå och skapa en lokaliserad version &raquo;"
+
+#: mu-plugins/rosetta/tmpl/translations.php:52
+msgid "<strong>Hint:</strong> You can all delete all the old builds you don&#8217;t need."
+msgstr "<strong>Tips:</strong> Du kan radera alla gamla paket som inte behövs."
+
+#: mu-plugins/rosetta/tmpl/translations.php:59
+msgid "Releases"
+msgstr "Releaser"
+
+#: mu-plugins/rosetta/tmpl/translations.php:65
+msgid "Released On"
+msgstr "Släppt den"
+
+#: mu-plugins/rosetta/tmpl/translations.php:84
+msgid "Toggle the rest of the releases"
+msgstr "Visa/göm resterande releaser"
+
+#: mu-plugins/rosetta/tmpl/translations.php:103
+msgid "No Releases"
+msgstr "Inga releaser"
+
+#: mu-plugins/rosetta/tmpl/translations.php:108
+msgid "Build New Package"
+msgstr "Bygg nytt paket"
+
+#: mu-plugins/rosetta/tmpl/translations.php:113
+msgid "Where should we get your translations from:"
+msgstr "Varifrån ska vi hämta era översättningar:"
+
+#: mu-plugins/rosetta/tmpl/translations.php:116
+msgid "Subversion"
+msgstr "Subversion"
+
+#: mu-plugins/rosetta/tmpl/translations.php:120
+msgid "(<code>dist/</code> files will still be taken from Subversion)"
+msgstr "(<code>dist/</code>-filer kommer fortfarande att hämtas från Subversionen)"
+
+#: mu-plugins/rosetta/tmpl/translations.php:122
+msgid "Locale branch:"
+msgstr "Språkgren:"
+
+#: mu-plugins/rosetta/tmpl/translations.php:123
+msgid "Locale branch for dist files:"
+msgstr "Språkgren för dist-filer:"
+
+#: mu-plugins/rosetta/tmpl/translations.php:128
+msgid "The directory from your repository, from which the package will be built."
+msgstr "Katalogen från erat förråd (repository), från vilken paketet kommer att skapas."
+
+#: mu-plugins/rosetta/tmpl/translations.php:129
+msgid "The directory from your repository, from which the dist files will be taken."
+msgstr "Katalogen från erat förråd (repository), från vilken dist-filerna kommer att hämtas."
+
+#: mu-plugins/rosetta/tmpl/translations.php:131
+msgid "Project:"
+msgstr "Projekt:"
+
+#: mu-plugins/rosetta/tmpl/translations.php:136
+msgid "Project name at translate.wordpress.org"
+msgstr "Projektnamn på translate.wordpress.org"
+
+#: mu-plugins/rosetta/tmpl/translations.php:138
+msgid "WordPress branch:"
+msgstr "WordPress-gren:"
+
+#: mu-plugins/rosetta/tmpl/translations.php:143
+msgid "The directory from the WordPress repository, from which the package will be built."
+msgstr "Katalogen från WordPress förrådet (repository), från vilken paketet kommer att skapas."
+
+#: mu-plugins/rosetta/tmpl/translations.php:145
+msgid "WordPress revision:"
+msgstr "WordPress-revision:"
+
+#: mu-plugins/rosetta/tmpl/translations.php:148
+msgid "If the WordPress version you want to use isn&#8217;t tagged enter the version file bump revision here to get the right files."
+msgstr "Om WordPress-versionen du vill använda inte är märkt, ange versionens revisionnummer här för att få rätt filer."
+
+#: mu-plugins/rosetta/tmpl/translations.php:150
+msgid "WordPress Version:"
+msgstr "WordPress-version:"
+
+#: mu-plugins/rosetta/tmpl/translations.php:153
+msgid "This number will appear in the filename of your release."
+msgstr "Detta nummer kommer att synas i filnamnet av er release."
+
+#: mu-plugins/rosetta/tmpl/translations.php:155
+msgid "Translation of default theme:"
+msgstr "Översättning av standardtema:"
+
+#: mu-plugins/rosetta/tmpl/translations.php:156
+msgid "Default theme translation will be taken from <code>messages/theme-name/theme-name.po</code> in your locale branch."
+msgstr "Översättningar av standardtema kommer att hämtas från <code>messages/tema-namn/tema-namn.po</code> i er språkgren."
+
+#: mu-plugins/rosetta/tmpl/translations.php:157
+msgid "Theme translation will be taken from the <code>Twenty Ten</code> project inside the translate.wordpress.org project you chose."
+msgstr "Temaöversättningar kommer att hämtas från projektet <code>Twenty Ten</code> på translate.wordpress.org för det projekt du väljer."
+
+#: mu-plugins/rosetta/tmpl/translations.php:158
+msgid "Build &raquo;"
+msgstr "Skapa &raquo;"
+
+#: themes/rosetta/archive.php:5
+#: themes/rosetta/index.php:97
+#: themes/rosetta/single.php:5
+msgid "Blog"
+msgstr "Blogg"
+
+#: themes/rosetta/archive.php:12
+#, php-format
+msgid "Archives for %s"
+msgstr "Arkiv för %s"
+
+#: themes/rosetta/archive.php:12
+msgid "F, Y"
+msgstr "F, Y"
+
+#: themes/rosetta/archive.php:13
+msgid "&laquo; Back to blog"
+msgstr "&laquo; Tillbaka till bloggen"
+
+#: themes/rosetta/archive.php:21
+#: themes/rosetta/index.php:104
+#: themes/rosetta/single.php:15
+msgid "F j, Y"
+msgstr "j F, Y"
+
+#: themes/rosetta/archive.php:23
+#: themes/rosetta/single.php:17
+msgid "Read the rest of this entry &raquo;"
+msgstr "Läs mer &raquo;"
+
+#: themes/rosetta/archive.php:27
+msgid "&larr; Older Posts"
+msgstr "&larr; Äldre inlägg"
+
+#: themes/rosetta/archive.php:28
+msgid "Newer Posts &rarr;"
+msgstr "Nyare inlägg  &rarr;"
+
+#: themes/rosetta/comments.php:2
+msgid "Comments"
+msgstr "Kommentarer"
+
+#: themes/rosetta/comments.php:8
+msgid "F j, Y"
+msgstr "j F, Y"
+
+#: themes/rosetta/comments.php:8
+msgid "g:i a"
+msgstr "g:i"
+
+#: themes/rosetta/comments.php:9
+msgid "Permanent link to this comment"
+msgstr "Permanent länk till denna kommentar"
+
+#: themes/rosetta/comments.php:10
+msgid "Edit&nbsp;This"
+msgstr "Redigera"
+
+#: themes/rosetta/comments.php:23
+msgid "Add a Comment"
+msgstr "Lämna en kommentar"
+
+#: themes/rosetta/comments.php:27
+#, php-format
+msgid "Logged in as %s."
+msgstr "Inloggad som %s."
+
+#: themes/rosetta/comments.php:27
+msgid "Log out of this account."
+msgstr "Logg ut från detta konto"
+
+#: themes/rosetta/comments.php:27
+msgid "Logout &raquo;"
+msgstr "Logga ut  &raquo;"
+
+#: themes/rosetta/comments.php:33
+msgid "Name <em>(required)</em>"
+msgstr "Namn <em>(obligatoriskt)</em>"
+
+#: themes/rosetta/comments.php:36
+msgid "Email <em>(required)</em>"
+msgstr "E-post <em>(obligatoriskt)</em>"
+
+#: themes/rosetta/comments.php:39
+msgid "Web Site"
+msgstr "Hemsida"
+
+#: themes/rosetta/comments.php:46
+msgid "Post Comment &raquo;"
+msgstr "Skicka kommentar &raquo;"
+
+#: themes/rosetta/contact.php:44
+msgid "Error"
+msgstr "Fel"
+
+#: themes/rosetta/contact.php:45
+msgid "There seems to have been a problem with the information you entered. Please fix the field indicated and resubmit."
+msgstr "En eller fler fält verkar sakna riktig information. Kolla igenom formuläret och försök igen."
+
+#: themes/rosetta/contact.php:50
+#: themes/rosetta/contact.php:56
+#: themes/rosetta/contact.php:159
+msgid "Your Name:"
+msgstr "Ditt namn:"
+
+#: themes/rosetta/contact.php:52
+msgid "Let us know your name."
+msgstr "Du måste ange ett namn."
+
+#: themes/rosetta/contact.php:63
+#: themes/rosetta/contact.php:69
+#: themes/rosetta/contact.php:163
+msgid "Your Email:"
+msgstr "Din e-post:"
+
+#: themes/rosetta/contact.php:65
+msgid "Your email address did not appear to be valid. Please check it."
+msgstr "Din e-post verkade inte vara korrekt. Vänligen kontrollera adressen."
+
+#: themes/rosetta/contact.php:75
+#: themes/rosetta/contact.php:167
+msgid "URI of your blog:"
+msgstr "URL för din webbplats:"
+
+#: themes/rosetta/contact.php:80
+#: themes/rosetta/contact.php:85
+#: themes/rosetta/contact.php:171
+msgid "What&rsquo;s this about?"
+msgstr "Vad gäller det?"
+
+#: themes/rosetta/contact.php:81
+msgid "Write something!"
+msgstr "Skriv något!"
+
+#: themes/rosetta/contact.php:92
+#: themes/rosetta/contact.php:98
+msgid "Your Message:"
+msgstr "Ditt meddelande:"
+
+#: themes/rosetta/contact.php:94
+msgid "Say something!"
+msgstr "Skriv något!"
+
+#: themes/rosetta/contact.php:104
+msgid "Submit Form Again"
+msgstr "Skicka meddelande igen"
+
+#: themes/rosetta/contact.php:147
+msgid "Submitted!"
+msgstr "Skickat!"
+
+#: themes/rosetta/contact.php:148
+msgid "Thank you!"
+msgstr "Tack!"
+
+#: themes/rosetta/contact.php:154
+msgid "You can contact translators and this site administrators via this form:"
+msgstr "Du kan kontakta översättare och ansvariga för de svenska versionerna av WordPress via detta formulär. Detta forumlär ska <strong>endast</strong> användas för att kontakta oss angående frågor som direkt berör deltagande eller allvarliga fel i de svenska språkfilerna/paketen."
+
+#. translators: feel free to add links to places, where one can get support in your language.
+#: themes/rosetta/contact.php:155
+msgid "<strong>Please, do not post support requests here!</strong> They will probably be ignored."
+msgstr "(<strong>NOTERA</strong>: Vi har inte möjlighet att ge support via mail. Allmänna supportfrågor för WordPress som verktyg <strong>måste</strong> tas via WP-Support Sveriges <a href=\"http://wp-support.se/forum/\">forum</a>. <strong>Supportfrågor som kommer in via detta formulär kommer av denna anledning inte att besvaras</strong>. WordPress Sverige driver inte bloggtjänsten på WordPress<strong>.com</strong>, för driftproblem eller abuseanmälningar så måste ansvariga hos Automattic <a href=\"http://support.wordpress.com/contact/\">kontaktas</a>.)"
+
+#: themes/rosetta/contact.php:159
+#: themes/rosetta/contact.php:163
+#: themes/rosetta/contact.php:171
+#: themes/rosetta/contact.php:175
+msgid "(required)"
+msgstr "(obligatoriskt)"
+
+#: themes/rosetta/contact.php:175
+msgid "Tell us something:"
+msgstr "Meddelande:"
+
+#: themes/rosetta/contact.php:180
+msgid "Submit Contact Form"
+msgstr "Skicka meddelande"
+
+#: themes/rosetta/download-sidebar.php:7
+#, php-format
+msgid "Download WordPress %s"
+msgstr "Ladda ner WordPress %s"
+
+#: themes/rosetta/download-sidebar.php:9
+#, php-format
+msgid ".zip &mdash; %s MB"
+msgstr ".zip &mdash; %s MB"
+
+#: themes/rosetta/download-sidebar.php:11
+#, php-format
+msgid "Download .tar.gz &mdash; %s MB"
+msgstr "Ladda ner .tar.gz &mdash; %s MB"
+
+#: themes/rosetta/download-sidebar.php:13
+msgid "More download options"
+msgstr "Fler nedladdningsalternativ"
+
+#: themes/rosetta/download-sidebar.php:15
+msgid "Other file formats"
+msgstr "Andra filformat"
+
+#: themes/rosetta/download-sidebar.php:16
+msgid "Older versions"
+msgstr "Äldre versioner"
+
+#: themes/rosetta/download-sidebar.php:17
+msgid "Beta &amp; RC versions"
+msgstr "Beta &amp; RC versioner"
+
+#: themes/rosetta/download-sidebar.php:22
+msgid "Resources"
+msgstr "Resurser"
+
+#: themes/rosetta/download-sidebar.php:24
+msgid "For help with installing or using WordPress, consult our documentation in your language."
+msgstr "För hjälp med installation och användning av WordPress, se vår dokumentation på ditt språk."
+
+#: themes/rosetta/download.php:16
+msgid "Latest release"
+msgstr "Senaste versionen"
+
+#: themes/rosetta/download.php:29
+#, php-format
+msgid "%s Branch"
+msgstr "%s grenen"
+
+#: themes/rosetta/download.php:44
+msgid "Beta &amp; RC releases"
+msgstr "Beta &amp; RC releaser"
+
+#: themes/rosetta/download.php:60
+msgid "There are no releases"
+msgstr "Det finns inga releaser"
+
+#: themes/rosetta/footer.php:3
+msgid "Code is Poetry."
+msgstr "Kod är poesi."
+
+#: themes/rosetta/functions.php:24
+msgid "Y-M-d"
+msgstr "Y-M-d"
+
+#: themes/rosetta/index.php:63
+msgid "Visit the site &rarr;"
+msgstr "Besök sidan &rarr;"
+
+#: themes/rosetta/index.php:103
+#, php-format
+msgid "Permanent Link to %s"
+msgstr "Permanent länk till %s"
+
+#: themes/rosetta/index.php:113
+msgid "Blog Archives"
+msgstr "Bloggarkiv"
+
+#~ msgid "Invalid version %s! Should conform to the %s regular expression"
+#~ msgstr "Ogiltig version %s! Bör överensstämma med %s reguljära uttryck"
+
+#~ msgid "Invalid source %s! Should conform to the %s regular expression"
+#~ msgstr "Ogiltig källa %s! Bör överensstämma med %s reguljära uttryck"
+
+#~ msgid "Invalid version! Should conform to:"
+#~ msgstr "Ogiltig version! Bör överensstämma med:"
+
+#~ msgid "Invalid WordPress source! Should conform to:"
+#~ msgstr "Felaktig WordPress källa! Bör överensstämma med:"
+
+#~ msgid "Invalid locale source! Should conform to:"
+#~ msgstr "Felaktig språkkälla! Bör överensstämma med:"
+
+#~ msgid "Invalid WordPress revision! Should conform to:"
+#~ msgstr "Felaktig WordPress revision! Bör överenstämma med:"
+
+#~ msgid "Default theme handling:"
+#~ msgstr "Hantering av standardtema:"
+
+#~ msgid "Leave untranslated"
+#~ msgstr "Lämna oöversatt"
+
+#~ msgid ""
+#~ "Use the translated version from the <code>theme/default</code> folder of "
+#~ "my repository"
+#~ msgstr ""
+#~ "Använd den översatt versionen från <code>theme/default</code> mappen i "
+#~ "vårat förråd (repository)"
+
+#~ msgid ""
+#~ "Use the i18n-ed version of the theme and add my po/mo files from the "
+#~ "<code>messages/kubrick</code> folder of my repository"
+#~ msgstr ""
+#~ "Använd i18n versionen av temat och lägg till mina po/mo filer från "
+#~ "<code>messages/kubrick</code> mapparna i förrådet (repository)"
+
+#~ msgid ""
+#~ "Include the original, untranslated default theme as another theme named "
+#~ "<code>default-en</code>"
+#~ msgstr ""
+#~ "Inkludera original, oöversatta standardtemat som ett annat tema namngivet "
+#~ "<code>default-en</code>"
+
+#~ msgid "Comments are closed."
+#~ msgstr "Kommentering avstängd"

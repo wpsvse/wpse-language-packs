@@ -1,0 +1,4246 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GD bbPress Toolbox Pro sv_SE\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Mattias Tengblad <mst@eyesx.com>\n"
+"Language-Team: WordPress Sverige <info@wpsv.se>\n"
+"Language: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: forms/meta/dashboard.online.php:4 theme/gdbbx-widget-onlineusers.php:4
+msgid "There is <strong>%s</strong> user online"
+msgid_plural "There are <strong>%s</strong> users online"
+msgstr[0] "Det är <strong>%s</strong> användare online"
+msgstr[1] "Det är <strong>%s</strong> användare online"
+
+#: theme/gdbbx-thanks-list.php:8
+msgid "%s user thanked author for this post."
+msgid_plural "%s users thanked author for this post."
+msgstr[0] "%s användare tackade författaren för det här inlägget."
+msgstr[1] "%s användare tackade författaren för det här inlägget."
+
+#: theme/gdbbx-widget-onlineusers.php:5 forms/meta/dashboard.online.php:5
+msgid "<strong>%s</strong> registered"
+msgid_plural "<strong>%s</strong> registered"
+msgstr[0] "<strong>%s</strong> registrerad"
+msgstr[1] "<strong>%s</strong> registrerade"
+
+#: theme/gdbbx-widget-onlineusers.php:6 forms/meta/dashboard.online.php:6
+msgid "<strong>%s</strong> guest"
+msgid_plural "<strong>%s</strong> guests"
+msgstr[0] "<strong>%s</strong> gäst"
+msgstr[1] "<strong>%s</strong> gäster"
+
+#: modules/attachments/front.php:585 modules/attachments/front.php:583
+msgid "attachment"
+msgid_plural "attachments"
+msgstr[0] "bilaga"
+msgstr[1] "bilagor"
+
+#: forms/panels/db.php:38
+msgid "%s forum"
+msgid_plural "%s forums"
+msgstr[0] "%s forum"
+msgstr[1] "%s forum"
+
+#: core/admin.php:75
+msgid "GD bbPress Toolbox is activated and it needs to finish installation."
+msgstr "GD bbPress Toolbox har aktiverats och behöver slutföra installationen."
+
+#: core/admin.php:67
+msgid "click here"
+msgstr "klicka här"
+
+#: core/admin.php:99 core/admin.php:109 core/admin.php:119
+msgid "Rows"
+msgstr "Rader"
+
+#: core/admin.php:67
+msgid "You can"
+msgstr "Du kan"
+
+#: core/admin.php:76
+msgid "Click Here"
+msgstr "Klicka här"
+
+#: core/bbcodes.php:22 modules/bbcodes/load.php:211
+#: modules/bbcodes/toolbar.php:111
+msgid "Font Color"
+msgstr "Textfärg"
+
+#: core/bbcodes.php:20 modules/bbcodes/load.php:158
+#: modules/bbcodes/toolbar.php:136
+msgid "Reverse"
+msgstr "Omvänd ordning"
+
+#: core/bbcodes.php:21 modules/bbcodes/load.php:207
+#: modules/bbcodes/toolbar.php:110
+msgid "Font Size"
+msgstr "Textstorlek"
+
+#: core/admin.php:67
+msgid "to disabled them automatically"
+msgstr "för att inaktivera dom automatiskt"
+
+#: core/bbcodes.php:6 modules/bbcodes/load.php:199
+#: modules/bbcodes/toolbar.php:109
+msgid "Horizontal Line"
+msgstr "Horisontell linje"
+
+#: core/admin.php:65
+msgid ""
+"GD bbPress Toolbox Pro detected that following plugins are still active: %s. "
+"They need to be disabled before you can use GD bbPress Toolbox."
+msgstr ""
+"GD bbPress Toolbox Pro upptäckte att följande tillägg fortfarande är aktiva: "
+"%s. De måste inaktiveras innan du kan använda GD bbPress Toolbox."
+
+#: core/admin.php:135 forms/settings.php:85 modules/toolbar.php:244
+#: modules/toolbar.php:181
+msgid "Settings"
+msgstr "Alternativ"
+
+#: core/admin.php:133 forms/meta/forum.php:22 forms/settings.php:43
+#: modules/attachments/admin.php:37 modules/attachments/admin.php:39
+#: modules/attachments/front.php:383 modules/toolbar.php:232
+#: theme/gdbbx-form-attachment.php:2
+msgid "Attachments"
+msgstr "Bilagor"
+
+#: core/bbcodes.php:5 modules/bbcodes/load.php:195
+#: modules/bbcodes/toolbar.php:108
+msgid "Line Break"
+msgstr "Radbrytning"
+
+#: core/admin.php:129
+msgid "Overview"
+msgstr "Översikt"
+
+#: core/admin.php:136 forms/tools.php:35 modules/toolbar.php:250
+msgid "Tools"
+msgstr "Verktyg"
+
+#: core/admin.php:67
+msgid "or"
+msgstr "eller"
+
+#: core/admin.php:67
+msgid "open plugins page"
+msgstr "öppna tilläggssidan"
+
+#: core/admin.php:67
+msgid "to disable them manually"
+msgstr "för att inaktivera dom manuellt"
+
+#: core/admin.php:134 modules/toolbar.php:238
+msgid "Errors Log"
+msgstr "Fellogg"
+
+#: core/bbcodes.php:16 modules/bbcodes/toolbar.php:104
+msgid "Align: Left"
+msgstr "Vänsterjustera"
+
+#: core/bbcodes.php:14 modules/bbcodes/toolbar.php:102
+msgid "Align: Center"
+msgstr "Centrera"
+
+#: core/bbcodes.php:15 modules/bbcodes/toolbar.php:103
+msgid "Align: Right"
+msgstr "Högerjustera"
+
+#: core/bbcodes.php:7 modules/bbcodes/toolbar.php:98
+#: modules/bbcodes/load.php:105
+msgid "Bold"
+msgstr "Fetstil"
+
+#: core/bbcodes.php:8 modules/bbcodes/toolbar.php:99
+#: modules/bbcodes/load.php:109
+msgid "Italic"
+msgstr "Kursiv"
+
+#: core/internal.php:93 core/internal.php:103 core/internal.php:388
+msgid "Reply Form"
+msgstr "Svarsformulär"
+
+#: core/internal.php:91 core/internal.php:306 core/internal.php:386
+msgid "Form Position"
+msgstr "Position för formulär"
+
+#: core/internal.php:92 core/internal.php:97 core/internal.php:387
+msgid "Topic Form"
+msgstr "Ämnesformulär"
+
+#: core/bbcodes.php:12
+msgid "No BBCodes"
+msgstr "Inga BBkoder"
+
+#: core/bbcodes.php:13
+msgid "Highlight"
+msgstr "Markera"
+
+#: core/bbcodes.php:9 modules/bbcodes/toolbar.php:100
+#: modules/bbcodes/load.php:113
+msgid "Underline"
+msgstr "Understreck"
+
+#: core/bbcodes.php:27 modules/bbcodes/load.php:183
+#: modules/bbcodes/toolbar.php:139
+msgid "Area"
+msgstr "Yta"
+
+#: core/bbcodes.php:25 modules/bbcodes/load.php:179
+#: modules/bbcodes/toolbar.php:114
+msgid "Blockquote"
+msgstr "Citat"
+
+#: core/bbcodes.php:26 modules/bbcodes/load.php:187
+#: modules/bbcodes/toolbar.php:138
+msgid "Border"
+msgstr "Ram"
+
+#: core/bbcodes.php:18 modules/bbcodes/load.php:142
+#: modules/bbcodes/toolbar.php:106
+msgid "Subscript"
+msgstr "Nedsänkt text"
+
+#: core/bbcodes.php:19 modules/bbcodes/load.php:146
+#: modules/bbcodes/toolbar.php:107
+msgid "Superscript"
+msgstr "Upphöjd text"
+
+#: core/bbcodes.php:10 modules/bbcodes/load.php:118
+#: modules/bbcodes/toolbar.php:101
+msgid "Strikethrough"
+msgstr "Genomstruken"
+
+#: core/bbcodes.php:11
+msgid "Heading"
+msgstr "Rubrik"
+
+#: core/bbcodes.php:17 modules/bbcodes/toolbar.php:105
+msgid "Align: Justify"
+msgstr "Fulljustera"
+
+#: core/bbcodes.php:23 modules/bbcodes/load.php:150
+#: modules/bbcodes/toolbar.php:113
+msgid "Preformatted"
+msgstr "Förformaterad"
+
+#: core/bbcodes.php:24 modules/bbcodes/load.php:154
+#: modules/bbcodes/toolbar.php:112
+msgid "Source Code"
+msgstr "Källkod"
+
+#: core/bbcodes.php:35 modules/bbcodes/load.php:219
+#: modules/bbcodes/toolbar.php:121
+msgid "Hide"
+msgstr "Dölj"
+
+#: core/bbcodes.php:33 modules/quote.php:57 modules/bbcodes/load.php:215
+#: modules/bbcodes/toolbar.php:141 modules/quote.php:59
+msgid "Quote"
+msgstr "Svara med citat"
+
+#: core/bbcodes.php:37 core/internal.php:126 modules/bbcodes/toolbar.php:123
+#: modules/toolbar.php:144
+msgid "Reply"
+msgstr "Svar"
+
+#: core/bbcodes.php:29 modules/bbcodes/load.php:167
+#: modules/bbcodes/toolbar.php:115
+msgid "List: Ordered"
+msgstr "Ordnad lista"
+
+#: core/bbcodes.php:36 core/internal.php:117 modules/bbcodes/toolbar.php:122
+#: modules/toolbar.php:138
+msgid "Topic"
+msgstr "Ämne"
+
+#: core/internal.php:41
+msgid "Icons"
+msgstr "Ikoner"
+
+#: core/internal.php:39
+msgid "FontAwesome"
+msgstr "FontAwesome"
+
+#: core/internal.php:39
+msgid "FontAwesome 4.2 is needed for BBCodes Toolbar."
+msgstr "FontAwesome 4.2 krävs för verktygsraden med BBkoder."
+
+#: core/bbcodes.php:34 modules/bbcodes/load.php:223
+#: modules/bbcodes/toolbar.php:120
+msgid "Spoiler"
+msgstr "Spoiler"
+
+#: core/bbcodes.php:49 modules/bbcodes/toolbar.php:153
+msgid "Hidden Note"
+msgstr "Gömd notis"
+
+#: core/bbcodes.php:28 modules/bbcodes/load.php:163
+#: modules/bbcodes/toolbar.php:140
+msgid "List"
+msgstr "Lista"
+
+#: core/bbcodes.php:46 modules/bbcodes/load.php:280
+#: modules/bbcodes/toolbar.php:132
+msgid "Vimeo Video"
+msgstr "Vimeo-video"
+
+#: core/bbcodes.php:44 modules/bbcodes/toolbar.php:147
+msgid "Embed using oEmbed"
+msgstr "Bädda in med oEmbed"
+
+#: core/bbcodes.php:48 modules/bbcodes/toolbar.php:152
+msgid "Iframe"
+msgstr "Iframe"
+
+#: core/bbcodes.php:40 modules/bbcodes/toolbar.php:119
+msgid "Email"
+msgstr "E-post"
+
+#: core/bbcodes.php:47 modules/bbcodes/toolbar.php:148
+msgid "Google Search URL"
+msgstr "Google sök-URL"
+
+#: core/bbcodes.php:32 modules/bbcodes/load.php:203
+#: modules/bbcodes/toolbar.php:137
+msgid "Anchor"
+msgstr "Ankare"
+
+#: core/bbcodes.php:30 modules/bbcodes/load.php:171
+#: modules/bbcodes/toolbar.php:116
+msgid "List: Unordered"
+msgstr "Oordnad lista"
+
+#: core/bbcodes.php:31 modules/bbcodes/load.php:175
+#: modules/bbcodes/toolbar.php:117
+msgid "List: Item"
+msgstr "Objektslista"
+
+#: core/bbcodes.php:45 modules/bbcodes/load.php:275
+#: modules/bbcodes/toolbar.php:131
+msgid "YouTube Video"
+msgstr "YouTube-video"
+
+#: core/bbcodes.php:38 modules/bbcodes/load.php:245
+#: modules/bbcodes/toolbar.php:142
+msgid "NFO"
+msgstr "NFO"
+
+#: core/internal.php:37
+msgid "Own JavaScript"
+msgstr "Egen JavaScript"
+
+#: core/internal.php:36
+msgid "Own Widgets CSS"
+msgstr "Egen widget-CSS"
+
+#: core/internal.php:36
+msgid ""
+"These are styles for the plugin widgets. It will be loaded everywhere, not "
+"only on bbPress pages, because widgets can be used on any WordPress page."
+msgstr ""
+"Dessa är stilar för tilläggets widgets. Dom kommer att laddas överallt, inte "
+"bara på bbPress sidor eftersom grafiska komponenter kan användas på alla "
+"WordPress-sidor."
+
+#: core/duplicate.php:13
+msgid "Copy of"
+msgstr "Kopia av"
+
+#: core/export.php:27
+msgid "Only administrators can use export features."
+msgstr "Endast administratörer kan använda exportfunktioner."
+
+#: core/admin.php:132 modules/toolbar.php:226
+msgid "Users"
+msgstr "Användare"
+
+#: core/admin.php:130 forms/about.php:24
+msgid "About"
+msgstr "Om"
+
+#: core/admin.php:131 forms/bbcodes.php:24
+msgid "BBCodes List"
+msgstr "Lista över BBkoder"
+
+#: core/internal.php:35
+msgid "Own CSS"
+msgstr "Egen CSS"
+
+#: core/internal.php:35
+msgid "Load built in CSS file needed for plugin on the front end."
+msgstr "Ladda inkluderad CSS-fil som behövs för tillägget på framsidan."
+
+#: core/install.php:63
+msgid "Some columns are missing."
+msgstr "Vissa kolumner saknas."
+
+#: core/internal.php:45 core/internal.php:47 core/internal.php:48
+#: core/internal.php:46
+msgid "Disable Widget"
+msgstr "Inaktivera widget"
+
+#: core/internal.php:45
+msgid "Recent Topics"
+msgstr "Nya ämnen"
+
+#: core/internal.php:45 core/internal.php:46
+msgid ""
+"If you use this plugin 'New Posts List' widget, you can disable default one."
+msgstr ""
+"Om du använder det här tilläggets widget för 'Listning av nya inlägg' så kan "
+"du inaktivera standardwidgeten."
+
+#: core/internal.php:38
+msgid "jQuery"
+msgstr "jQuery"
+
+#: core/internal.php:38
+msgid "Load jQuery included with WordPress."
+msgstr "Ladda jQuery som kommer med WordPress."
+
+#: core/install.php:68
+msgid "Table missing."
+msgstr "Tabell saknas."
+
+#: core/internal.php:34
+msgid "Files Loading"
+msgstr "Laddning av filer"
+
+#: core/internal.php:37
+msgid "Load built in JavaScript file needed for plugin on the front end."
+msgstr "Ladda inkluderad JavaScript som behövs för tillägget på framsidan."
+
+#: core/internal.php:42
+msgid "For Icons Use"
+msgstr "För ikoner"
+
+#: core/internal.php:44
+msgid "Default bbPress Widgets"
+msgstr "bbPress standardwidgets"
+
+#: core/internal.php:89 core/internal.php:81 core/internal.php:657
+#: forms/meta/forum.php:4 forms/meta/forum.php:13
+msgid "Default"
+msgstr "Standard"
+
+#: core/internal.php:48
+msgid ""
+"If you use this plugin 'User Profile' widget, you can disable default one."
+msgstr ""
+"Om du använder det här tilläggets widget för 'Användarprofil' så kan du "
+"inaktivera standardwidgeten."
+
+#: core/internal.php:50
+msgid "Plugin Widgets"
+msgstr "Tilläggets widgets"
+
+#: core/internal.php:72
+msgid ""
+"Canned Replies box will auto close when you click to insert reply into "
+"editor."
+msgstr ""
+"Boxen för arkiverade svar kommer automatiskt att stängas när du klickar för "
+"att ange ett svar i redigeraren."
+
+#: core/internal.php:71
+msgid "Additional Options"
+msgstr "Ytterligare alternativ"
+
+#: core/internal.php:72
+msgid "Auto close on insert"
+msgstr "Stäng automatiskt vid infogning"
+
+#: core/internal.php:48 forms/meta/navmenu_extras.php:12
+msgid "Login"
+msgstr "Inloggning"
+
+#: core/internal.php:54 core/internal.php:53 core/internal.php:51
+#: core/internal.php:55 core/internal.php:52
+msgid "Enable Widget"
+msgstr "Aktivera widget"
+
+#: core/internal.php:46
+msgid "Recent Replies"
+msgstr "Senaste svaren"
+
+#: core/internal.php:53
+msgid "New posts List"
+msgstr "Lista med nya inlägg"
+
+#: core/internal.php:54
+msgid "Selectable list of topics views."
+msgstr "Valbar lista över ämnesvyer."
+
+#: core/internal.php:54 core/internal.php:47
+msgid "Topics Views List"
+msgstr "Lista med ämnesvyer"
+
+#: core/internal.php:47
+msgid ""
+"If you use this plugin 'Topics Views List' widget, you can disable default "
+"one."
+msgstr ""
+"Om du använder det här tilläggets widget för 'Lista med ämnesvyer' så kan du "
+"inaktivera standardwidgeten."
+
+#: core/internal.php:53
+msgid "List of new topics or topics with new replies."
+msgstr "Lista med nya ämnen eller ämnen med nya svar."
+
+#: core/internal.php:51 widgets/userprofile.php:33
+msgid "User Profile"
+msgstr "﻿Användarprofil"
+
+#: core/internal.php:65 core/internal.php:69
+msgid "Label Plural"
+msgstr "Etikett plural"
+
+#: core/internal.php:63
+msgid "Post Type"
+msgstr "Posttyp"
+
+#: core/internal.php:64 core/internal.php:68
+msgid "Label Singular"
+msgstr "Etikett enkel"
+
+#: core/internal.php:55 widgets/searchtopics.php:22
+msgid "Search Topics"
+msgstr "Sök i ämnen"
+
+#: core/internal.php:55
+msgid "Search through forum topics. Requires search topics view to be active."
+msgstr "Sök genom forumämnen. Kräver att vyn för ämnessök är aktiv."
+
+#: core/internal.php:493 core/internal.php:215 core/internal.php:227
+#: core/internal.php:244 core/internal.php:283 core/internal.php:253
+#: core/internal.php:394 core/internal.php:416 core/internal.php:478
+#: core/internal.php:488 core/internal.php:483 core/internal.php:498
+#: core/internal.php:503 core/internal.php:508 core/internal.php:513
+#: core/internal.php:518 core/internal.php:523 core/internal.php:543
+#: core/internal.php:528 core/internal.php:533 core/internal.php:538
+#: core/internal.php:550 core/internal.php:557 core/internal.php:569
+#: grids/users.php:57
+msgid "Active"
+msgstr "Aktivera"
+
+#: core/internal.php:494 core/internal.php:458 core/internal.php:479
+#: core/internal.php:484 core/internal.php:499 core/internal.php:489
+#: core/internal.php:509 core/internal.php:504 core/internal.php:514
+#: core/internal.php:519 core/internal.php:524 core/internal.php:529
+#: core/internal.php:534 core/internal.php:539 core/internal.php:544
+#: forms/widgets/shared-global.php:5
+msgid "Title"
+msgstr "Titel"
+
+#: core/internal.php:293
+msgid "Display Lead Topic"
+msgstr "Visa inledande inlägg"
+
+#: core/internal.php:61
+msgid "Use Categories"
+msgstr "Använd kategorier"
+
+#: core/internal.php:61
+msgid ""
+"If you plan to add many canned replies, it is goodd idea to keep them "
+"categories."
+msgstr ""
+"Om du planerar att arkivera många svar så kan det vara en bra idé att hålla "
+"de kategoriserade."
+
+#: core/internal.php:79
+msgid ""
+"If anonymous (visitor) creates private topic only administrators and "
+"moderators can read the topic."
+msgstr ""
+"Om en anonym (besökare) skapar ett privat ämne så kan endast administratörer "
+"och moderatorer läsa ämnet."
+
+#: core/internal.php:78 core/internal.php:86 core/internal.php:228
+#: core/internal.php:247 core/internal.php:254 core/internal.php:218
+#: core/internal.php:284 core/internal.php:304 core/internal.php:436
+#: core/internal.php:441 core/internal.php:168
+msgid "Available to super admin"
+msgstr "Tillgängliga för superadmin"
+
+#: core/internal.php:79 core/internal.php:87 core/internal.php:255
+#: core/internal.php:285 core/internal.php:169
+msgid "Available to visitors"
+msgstr "Tillgängligt för besökare"
+
+#: core/internal.php:59
+msgid "Activity"
+msgstr "Aktivitet"
+
+#: core/internal.php:60 core/internal.php:77 core/internal.php:85
+#: core/internal.php:98 core/internal.php:104 forms/panels/about.php:6
+#: widgets/topicinfo.php:126
+msgid "Status"
+msgstr "Status"
+
+#: core/internal.php:67
+msgid "Category"
+msgstr "Kategori"
+
+#: core/internal.php:76
+msgid "Private Topics"
+msgstr "Privata ämnen"
+
+#: core/internal.php:51
+msgid "Logged in user profile with useful links and stats."
+msgstr ""
+"Användarprofil för inloggade användare med användbara länkar och statistik."
+
+#: core/internal.php:84
+msgid "Private Replies"
+msgstr "Privata svar"
+
+#: core/internal.php:87
+msgid ""
+"If anonymous (visitor) creates private reply only administrators and "
+"moderators can read the reply."
+msgstr ""
+"Om en anonym (besökare) skapar ett privat svar så kan endast administratörer "
+"och moderatorer läsa svaret."
+
+#: core/internal.php:114 core/internal.php:120 core/internal.php:129
+msgid "Override Default"
+msgstr "Åsidosätt standard"
+
+#: core/internal.php:113 core/internal.php:119 core/internal.php:128
+#: core/internal.php:199 core/internal.php:200 core/internal.php:204
+#: core/internal.php:209 core/internal.php:210 core/internal.php:205
+msgid "You can use special tags that will be replaced with actual values"
+msgstr ""
+"Du kan använda speciella taggar som kommer att ersättas med verkliga värden"
+
+#: core/internal.php:114 core/internal.php:129 core/internal.php:120
+#: core/internal.php:739
+msgid "Excerpt"
+msgstr "Utdrag"
+
+#: core/internal.php:100 core/internal.php:106
+msgid "Allowed to roles"
+msgstr "Tillåtet för roller"
+
+#: core/internal.php:80 core/internal.php:88 core/internal.php:229
+#: core/internal.php:256 core/internal.php:286 core/internal.php:248
+#: core/internal.php:219 core/internal.php:305 core/internal.php:384
+#: core/internal.php:437 core/internal.php:170
+msgid "Available to roles"
+msgstr "Tillgängligt för rollerna"
+
+#: core/internal.php:98
+msgid ""
+"Topic form (edit or new) will be disabled. Only user roles listed bellow can "
+"create or edit topics."
+msgstr ""
+"Ämnesformulär (redigering eller nytt) kommer att inaktiveras. Endast "
+"användarroller som anges nedan kan skapa eller redigera ämnen."
+
+#: core/internal.php:99 core/internal.php:105
+msgid "Allowed to super admin"
+msgstr "Tillåtet som superadmin"
+
+#: core/internal.php:89
+msgid "This is related to new replies only, not edits."
+msgstr "Detta är endast relaterat till nya svar, inte redigeringar."
+
+#: core/internal.php:98
+msgid "Disable Topic Form"
+msgstr "Inaktivera ämnesformulär"
+
+#: core/internal.php:82
+msgid "Show icon in the forum or views topics list"
+msgstr "Visa en ikon i listan med forum- eller ämnesvyer"
+
+#: core/internal.php:81
+msgid "This is related to new topics only, not edits."
+msgstr "Detta är endast relaterat till nya ämnen, inte redigeringar."
+
+#: core/internal.php:82
+msgid "Icon"
+msgstr "Ikon"
+
+#: core/internal.php:107 core/internal.php:101
+msgid "If the form is locked, this message will be displayed instead."
+msgstr "Om formuläret är låst kommer detta meddelande att visas istället."
+
+#: core/internal.php:107 core/internal.php:101
+msgid "Lock message"
+msgstr "Låsningsmeddelande"
+
+#: core/internal.php:52 widgets/topicinfo.php:32
+msgid "Topic Information"
+msgstr "Ämnesinformation"
+
+#: core/internal.php:52
+msgid "Show information about the topic currently displayed."
+msgstr "Visar information om ämnet som visas för tillfället."
+
+#: core/internal.php:104
+msgid "Disable Reply Form"
+msgstr "Inaktivera svarsformulär"
+
+#: core/internal.php:118 core/internal.php:112 core/internal.php:127
+msgid "Meta Title"
+msgstr "Metatitel"
+
+#: core/internal.php:118 core/internal.php:112 core/internal.php:127
+#: core/internal.php:131 core/internal.php:122
+msgid "Replace with Custom Text"
+msgstr "Ersätt med anpassad text"
+
+#: core/internal.php:104
+msgid ""
+"Reply form (edit or new) will be disabled. Only user roles listed bellow can "
+"create or edit replies."
+msgstr ""
+"Svarsformulär (redigering eller nytt) kommer att inaktiveras. Endast "
+"användarroller som anges nedan kan skapa eller redigera svar."
+
+#: core/internal.php:111 grids/attachments.php:51 grids/errors.php:51
+#: modules/toolbar.php:132 widgets/topicinfo.php:96
+msgid "Forum"
+msgstr "Forum"
+
+#: core/internal.php:115 core/internal.php:124 core/internal.php:133
+msgid "Meta Description Tag"
+msgstr "Tagg för metabeskrivning"
+
+#: core/bbcodes.php:39 forms/panels/translations.php:6
+#: forms/panels/translations.php:28 forms/panels/translations.php:17
+#: modules/bbcodes/load.php:235 modules/bbcodes/toolbar.php:118
+msgid "URL"
+msgstr "URL"
+
+#: core/internal.php:123 core/internal.php:132
+msgid ""
+"Private topic content will be replaced with this text. You can use special "
+"tags that will be replaced with actual values"
+msgstr ""
+"Privat ämnesinnehåll kommer att ersättas med denna text. Du kan använda "
+"speciella taggar som kommer att ersättas med verkliga värden"
+
+#: core/internal.php:149 core/internal.php:158
+msgid "Media Buttons"
+msgstr "Media-knappar"
+
+#: core/internal.php:147 core/internal.php:156
+msgid "Full rich text editor."
+msgstr "Fullständig visuell redigerare"
+
+#: core/internal.php:151 core/internal.php:160
+msgid "Editor rows"
+msgstr "Antal rader i redigerare"
+
+#: core/internal.php:136 core/internal.php:137
+msgid "Robots Meta NoIndex"
+msgstr "Robots noindex-meta"
+
+#: core/internal.php:150 core/internal.php:159
+msgid "WPAutoP Filter"
+msgstr "Filter för WPAutoP"
+
+#: core/internal.php:135
+msgid "Private Topics and Replies"
+msgstr "Privata ämnen och svar"
+
+#: core/internal.php:136 modules/private.php:188 modules/private.php:186
+msgid "Private Topic"
+msgstr "Privat ämne"
+
+#: core/internal.php:121 core/internal.php:130
+msgid "Excerpt Length"
+msgstr "Längd på utdrag"
+
+#: core/internal.php:120 core/internal.php:129
+msgid ""
+"Use this only if you want to take private content into account or have extra "
+"control, or your SEO plugin has problems with getting proper excerpt."
+msgstr ""
+"Använd endast detta om du vill ta hänsyn till privat innehåll eller ha extra "
+"kontroll, alternativt om ditt ev. SEO-tillägg har problem med att hämta "
+"korrekt utdrag."
+
+#: core/internal.php:122
+msgid "Private Topics Excerpt"
+msgstr "Utdrag för privat ämne"
+
+#: core/internal.php:146 core/internal.php:155
+msgid "Enable Enahancements"
+msgstr "Aktivera förbättringar"
+
+#: core/internal.php:144
+msgid "Topic Editor"
+msgstr "Ämnesredigerare"
+
+#: core/internal.php:146 core/internal.php:155 core/internal.php:445
+msgid "bbPress Settings"
+msgstr "bbPress-inställningar"
+
+#: core/internal.php:146 core/internal.php:155
+msgid ""
+"For this to work, Fancy Editor must be enabled in bbPress settings. To "
+"enable it, enable settings under Post Formatting in the bbPress Forum "
+"settings:"
+msgstr ""
+"För att detta ska fungera, måste inläggsformatering aktiveras under "
+"inställningarna för bbPress. Aktivera under "
+
+#: core/internal.php:266
+msgid "Last activity column"
+msgstr "Kolumn för senast aktivitet"
+
+#: core/internal.php:265
+msgid "Topics/Replies columns"
+msgstr "Kolumner för ämnen/svar"
+
+#: core/internal.php:268
+msgid "Topics Panel"
+msgstr "Ämnespanel"
+
+#: core/internal.php:145 core/internal.php:154 core/internal.php:565
+#: core/internal.php:584
+msgid "KB"
+msgstr "Dokumentation"
+
+#: core/internal.php:266
+msgid "Column with the user last activity date and time."
+msgstr "Kolumn med användarens senaste aktivitetsdatum och klockslag."
+
+#: core/internal.php:137
+msgid "Private Reply"
+msgstr "Privat svar"
+
+#: core/internal.php:153
+msgid "Reply Editor"
+msgstr "Svarsredigerare"
+
+#: core/internal.php:148 core/internal.php:157
+msgid "Compact Editor Toolbar"
+msgstr "Kompakt verktygsrad för redigerare"
+
+#: core/internal.php:140
+msgid ""
+"This option will modify bbPress generated breadcrumbs to make them Google "
+"Rich Snippet compatible. This will work only if you have not modified "
+"bbPress breadcrumbs in some other way. Also, make sure breadcrumbs are "
+"enabled (this plugin has option to disable the breadcrumbs)."
+msgstr ""
+"Det här alternativet kommer att ändra brödsmulor genererade av bbPress för "
+"att göra dom kompatibla med Googles strukturerad data (Google Rich Snippet). "
+"Detta fungerar bara om du inte har ändrat bbPress brödsmulor på något annat "
+"sätt. Se också till att brödsmulor är aktiverade (detta tillägg har "
+"möjlighet att inaktivera brödsmulor)."
+
+#: core/internal.php:139
+msgid "Rich Snippets"
+msgstr "Strukturerad data"
+
+#: core/internal.php:140
+msgid "Breadcrumbs"
+msgstr "Brödsmulor"
+
+#: core/internal.php:147 core/internal.php:156
+msgid "TinyMCE Editor"
+msgstr "TinyMCE-redigerare"
+
+#: core/internal.php:164
+msgid "Topic and Reply Revisions"
+msgstr "Ämnes- och svarsversioner"
+
+#: core/internal.php:165
+msgid "Protection"
+msgstr "Skydd"
+
+#: core/internal.php:165 core/internal.php:302
+msgid ""
+"If this is enabled, only users and roles enabled here will be able to see "
+"revisions. Revisions will be hidden for everyone else."
+msgstr ""
+"Om detta aktiveras kommer endast användare och roller angivna här att kunna "
+"se versioner av inlägg. Inläggsversioner kommer att döljas för alla andra."
+
+#: core/internal.php:166
+msgid "Available to author"
+msgstr "Tillgängligt för författare"
+
+#: core/internal.php:199 core/internal.php:204 core/internal.php:209
+msgid "Notification content"
+msgstr "Notifikationsinnehåll"
+
+#: core/internal.php:197
+msgid "Topic Subscribe Notifications Email"
+msgstr "E-postmeddelande för ämnesprenumeration"
+
+#: core/internal.php:200 core/internal.php:210 core/internal.php:205
+msgid "Notification subject"
+msgstr "Ämne för notifikation"
+
+#: core/internal.php:181 core/internal.php:245 core/internal.php:310
+#: core/internal.php:314 core/internal.php:317
+msgid "Button Location"
+msgstr "Position för knapp"
+
+#: core/internal.php:175 forms/settings.php:19
+msgid "Say Thanks"
+msgstr "Säg tack"
+
+#: core/internal.php:177
+msgid "Controls"
+msgstr "Kontroller"
+
+#: core/internal.php:178
+msgid "Allow thanks removal"
+msgstr "Tillåt att tack tas bort"
+
+#: core/internal.php:179
+msgid "Available for Topics"
+msgstr "Tillgängligt för ämnen"
+
+#: core/internal.php:180
+msgid "Available for Replies"
+msgstr "Tillgängligt för svar"
+
+#: core/internal.php:167 core/internal.php:303
+msgid "Available to topic author"
+msgstr "Tillgängligt för ämnesförfattare"
+
+#: core/internal.php:192
+msgid "Notifications Sender"
+msgstr "Avsändare för notifikation"
+
+#: core/internal.php:190
+msgid "Notification on topic edit"
+msgstr "Notifikation för ämnesredigering"
+
+#: core/internal.php:194
+msgid "Sender name"
+msgstr "Avsändarnamn"
+
+#: core/internal.php:183
+msgid "Available for roles"
+msgstr "Tillgängligt för rollerna"
+
+#: core/internal.php:193
+msgid "Modify notification sender"
+msgstr "Modifiera avsändare för notifikation"
+
+#: core/internal.php:131
+msgid "Private Reply Excerpt"
+msgstr "Utdrag för privat svar"
+
+#: core/internal.php:190
+msgid ""
+"Every time topic is edited, notification email will be sent to topic "
+"subscribers"
+msgstr ""
+"Varje gång ämnet är redigeras, kommer ett e-postmeddelande att skickas till "
+"ämnesprenumeranter"
+
+#: core/internal.php:181
+msgid "Select where the thanks button will be displayed."
+msgstr "Välj var tack-knappen ska visas."
+
+#: core/internal.php:203 core/internal.php:198 core/internal.php:208
+msgid "Modify notification content"
+msgstr "Modifiera notifikationsinnehåll"
+
+#: core/internal.php:189
+msgid "Extra Notification settings"
+msgstr "Extra notifikationsinställningar"
+
+#: core/internal.php:184 core/internal.php:223
+msgid "Super admin"
+msgstr "Superadmin"
+
+#: core/internal.php:185 core/internal.php:224
+msgid "Roles"
+msgstr "Roller"
+
+#: core/internal.php:202
+msgid "Topic Edit Notify Subscribers"
+msgstr "E-postmeddelande för ämnesredigering"
+
+#: core/internal.php:195
+msgid "Sender email"
+msgstr "Avsändarens e-post"
+
+#: core/internal.php:265
+msgid ""
+"Two columns for topics and replies with counts and links to filter them by "
+"user."
+msgstr ""
+"Två kolumner för ämnen och svar med räknare och länkar för att filtrera dom "
+"efter användare."
+
+#: core/internal.php:214
+msgid "User Signatures"
+msgstr "Användarsignaturer"
+
+#: core/internal.php:239
+msgid "BuddyPress Profile Field Group"
+msgstr "BuddyPress profilfältsgrupp"
+
+#: core/internal.php:236
+msgid "Run standard WordPress AutoP function."
+msgstr "Använd WordPress standardfunktion AutoP"
+
+#: core/internal.php:243
+msgid "Quote Topics and Replies"
+msgstr "Citat för ämnen och svar"
+
+#: core/internal.php:239
+msgid "Select group where the signature editor will be displayed."
+msgstr "Välj fältgrupp där redigeraren för signaturer ska visas."
+
+#: core/internal.php:222 forms/panels/close.php:1 forms/panels/remove.php:1
+#: forms/panels/export.php:3 forms/panels/import.php:1
+msgid "Important"
+msgstr "Viktigt"
+
+#: core/internal.php:222
+msgid ""
+"You can limit ability to edit the signatures to selected roles. That way, "
+"signatures will be enabled, but only some users will be able to edit them. "
+"You can set only for admins to be able to set signatures for other users."
+msgstr ""
+"Du kan begränsa möjligheten att redigera signaturer till utvalda roller. På "
+"så sätt kommer signaturer aktiveras, men bara vissa användare kommer att "
+"kunna redigera dom. Du kan ange att bara administratörer ska kunna ange "
+"signaturer för andra användare."
+
+#: core/internal.php:226
+msgid "Enhanced Signatures"
+msgstr "Utökade signaturer"
+
+#: core/internal.php:207
+msgid "Forum Subscribe Notifications Email"
+msgstr "E-postmeddelande för forumsprenumeration"
+
+#: core/internal.php:216
+msgid "Limit Counter"
+msgstr "Gräns / räknare"
+
+#: core/internal.php:234
+msgid "Convert smilies characters into inline images."
+msgstr "Konvertera smilies-tecken till inbäddade bilder."
+
+#: core/internal.php:233
+msgid "Display Processing"
+msgstr "Visa bearbetning"
+
+#: core/internal.php:235
+msgid "Run standard WordPress unicode chars conversion and cleanup."
+msgstr "Kör WordPress standardkonvertering och rensning för unicode-tecken."
+
+#: core/internal.php:235
+msgid "Convert Chars"
+msgstr "Konvertera tecken"
+
+#: core/bbcodes.php:43 modules/bbcodes/load.php:270
+#: modules/bbcodes/toolbar.php:146
+msgid "Webshot"
+msgstr "Webshot"
+
+#: core/bbcodes.php:41 modules/bbcodes/load.php:260
+#: modules/bbcodes/toolbar.php:127
+msgid "Image"
+msgstr "Bild"
+
+#: core/bbcodes.php:42 modules/bbcodes/load.php:265
+msgid "Attachment"
+msgstr "Bilaga"
+
+#: core/internal.php:234
+msgid "Convert Smilies"
+msgstr "Konvertera smilies"
+
+#: core/internal.php:245
+msgid "Select where the quote button will be displayed."
+msgstr "Välj var länken för citat ska visas."
+
+#: core/internal.php:246
+msgid ""
+"If you want to use BBCode method, you need to enable BBCodes support also."
+msgstr ""
+"Om du vill använda metoden BBkod så måste du även aktivera stödet för "
+"detsamma."
+
+#: core/internal.php:238
+msgid "BuddyPress Integration"
+msgstr "Integration för BuddyPress"
+
+#: core/internal.php:246
+msgid "Quote Method"
+msgstr "Citatmetod"
+
+#: core/internal.php:231
+msgid "Editor Type"
+msgstr "Typ av redigerare"
+
+#: core/internal.php:230
+msgid "Allowed Content"
+msgstr "Tillåtet innehåll"
+
+#: core/internal.php:230
+msgid "If the editor type is set to TinyMCE, this option will be ignored."
+msgstr ""
+"Om redigerartyp angetts till TinyMCE kommer detta alternativ att ignoreras."
+
+#: core/internal.php:236
+msgid "Convert AutoP"
+msgstr "Konvertera AutoP"
+
+#: core/internal.php:217
+msgid "Maximum Length"
+msgstr "Maxlängd"
+
+#: core/internal.php:258
+msgid "Additional Settings"
+msgstr "Övriga inställningar"
+
+#: core/internal.php:259
+msgid "Menu Title"
+msgstr "Menytitel"
+
+#: core/internal.php:260
+msgid "Information Submenu"
+msgstr "Underval för information"
+
+#: core/internal.php:287
+msgid "Show online status"
+msgstr "Visa onlinestatus"
+
+#: core/internal.php:273 core/internal.php:269
+msgid "Attachments count column"
+msgstr "Kolumn för antal bilagor"
+
+#: core/internal.php:269 core/internal.php:273
+msgid "Column with number of attachments."
+msgstr "Kolumn med antalet bilagor."
+
+#: core/internal.php:270
+msgid "Private topic column"
+msgstr "Kolumn för privata ämnen"
+
+#: core/internal.php:270 core/internal.php:274
+msgid "Column with privacy status."
+msgstr "Kolumn med sekretess-status."
+
+#: core/internal.php:272
+msgid "Replies Panel"
+msgstr "Svarspanel"
+
+#: core/internal.php:252
+msgid "Toolbar Control"
+msgstr "Hantering av vektygsmeny"
+
+#: core/internal.php:264
+msgid "Users Panel"
+msgstr "Användarpanel"
+
+#: core/internal.php:278
+msgid "Right now in Forums widget"
+msgstr "Widget för just nu i forumet"
+
+#: core/internal.php:277
+msgid "This will add Online Users dashboard widget."
+msgstr "Detta kommer att lägga till panelwidgeten Användare online."
+
+#: core/internal.php:278
+msgid "Remove Widget"
+msgstr "Ta bort widget"
+
+#: core/internal.php:274
+msgid "Private reply column"
+msgstr "Kolumn för privata ämnen"
+
+#: core/internal.php:278
+msgid ""
+"This will remove bbPress default 'Right now in the forums' dashboard widget."
+msgstr "Detta tar bort bbPress panelwidget \"Just nu i forumen'."
+
+#: core/internal.php:216
+msgid ""
+"Use JavaScript to show signature length and limit. This will not work if the "
+"TinyMCE editor is used for signatures."
+msgstr ""
+"Använd JavaScript för att visa signaturlängd och gräns. Detta fungerar inte "
+"om TinyMCE-redigeraren används för signaturer."
+
+#: core/internal.php:221
+msgid "Signatures Editing"
+msgstr "Redigering av signaturer"
+
+#: core/internal.php:277
+msgid "Add Widget"
+msgstr "Lägg till widget"
+
+#: core/internal.php:289
+msgid "Show topics count"
+msgstr "Visa antal ämnen"
+
+#: core/internal.php:287
+msgid "Only if online status tracking is enabled."
+msgstr "Bara om spårning av onlinestatus är aktiverad."
+
+#: core/internal.php:292
+msgid "Topics Specific Settings"
+msgstr "Ämnesspecifika inställningar"
+
+#: core/internal.php:290 forms/widgets/topicinfo-content.php:31
+msgid "Show replies count"
+msgstr "Visa antal svar"
+
+#: core/internal.php:277
+msgid "Online Users widget"
+msgstr "Widget för användare online"
+
+#: core/internal.php:276
+msgid "Dashboard Widgets"
+msgstr "Panel-widgets"
+
+#: core/internal.php:288
+msgid "Show registration date"
+msgstr "Visa datum för registrering"
+
+#: core/internal.php:282
+msgid "Show User Statistics with each Topic and Reply"
+msgstr "Visa användarstatistik med varje ämne och svar"
+
+#: core/internal.php:294
+msgid "Reversed replies Order"
+msgstr "Omvänd ordning av svar"
+
+#: core/internal.php:296 core/internal.php:297 core/internal.php:326
+#: core/internal.php:327
+msgid "Link in Footer"
+msgstr "Länk i sidfot"
+
+#: core/internal.php:293 core/internal.php:334
+msgid "Show main thread topic on top separated from replies."
+msgstr "Visa inledande inlägg separerat från svar."
+
+#: core/internal.php:295
+msgid "Remove 'Merge' link from the list of topic action links."
+msgstr ""
+"Ta bort länken \"Sammanfoga\" från listan över åtgärdslänkar för ämnen."
+
+#: core/internal.php:294
+msgid ""
+"When displayling topic, replies will be reversed, and on top you will see "
+"latest reply. If the Lead topic is enabled, topic post will remain on the "
+"top, if not, topic post will be the last."
+msgstr ""
+"Vid visning av ämnen kommer svaren att visas i omvänd ordning och således "
+"visa det senaste svaret överst. Om inledande inlägg är aktiverat så kommer "
+"det inledande inlägget fortsatt att visas överst, om inte så komme inledande "
+"inlägg att visas sist."
+
+#: core/internal.php:296 core/internal.php:326
+msgid "Action Link: Edit"
+msgstr "Åtgärdslänk: Redigera"
+
+#: core/internal.php:295 core/internal.php:325
+msgid "Remove Link"
+msgstr "Ta bort länk"
+
+#: core/internal.php:297 core/internal.php:327
+msgid "Action Link: Reply"
+msgstr "Åtgärdslänk: Svara"
+
+#: core/internal.php:296 core/internal.php:326
+msgid "Move 'Edit' link into footer action links area."
+msgstr "Flytta länken 'Redigera' till det nedre åtgärdsområdet."
+
+#: core/internal.php:295
+msgid "Action Link: Merge"
+msgstr "Åtgärdslänk: Sammanfoga"
+
+#: core/internal.php:298 core/internal.php:328
+msgid "Disable Make Clickable filter"
+msgstr "Inaktivera klickbart filter"
+
+#: core/internal.php:302
+msgid "Show checkbox"
+msgstr "Visa kryssrutan"
+
+#: core/internal.php:299 core/internal.php:329
+msgid "Disable Mention filter"
+msgstr "Inaktivera omnämnandefilter"
+
+#: core/internal.php:297 core/internal.php:327
+msgid "Move 'Reply' link into footer action links area."
+msgstr "Flytta länken 'Svara' till det nedre åtgärdsområdet."
+
+#: core/internal.php:303 core/internal.php:167
+msgid ""
+"If the post is reply, this will take into account author of the topic too."
+msgstr ""
+"Om inlägget är ett svar kommer detta att tas i hänsyn för författare i ämnet "
+"också."
+
+#: core/internal.php:308
+msgid "Button for Topic Lock"
+msgstr "Knapp för låsning av ämne"
+
+#: core/internal.php:309
+msgid "Show Lock Button"
+msgstr "Visa Lås-knapp"
+
+#: core/internal.php:309
+msgid ""
+"This option will allow you to temporarily lock topics for new replies. Only "
+"keymasters and moderators can use this option."
+msgstr ""
+"Detta alternativ tillåter dig att tillfälligt låsa ämnen för nya svar. Bara "
+"forumledare och moderatorer kan använda denna funktion."
+
+#: core/internal.php:310
+msgid "Select where the lock button will be displayed."
+msgstr "Välj var låsknappen ska visas."
+
+#: core/internal.php:312
+msgid "Topic Duplication"
+msgstr "Ämneskopiering"
+
+#: core/internal.php:313
+msgid "Duplicate Topic Only"
+msgstr "Kopiera endast ämne"
+
+#: core/internal.php:313
+msgid "This will make a new topic with content of the old topic."
+msgstr ""
+"Detta kommer att skapa ett nytt ämne med innehållet från det gamla ämnet."
+
+#: core/internal.php:314 core/internal.php:317
+msgid "Select where the Duplicate Topic button will be displayed."
+msgstr "Välj var kopiera-knappen ska visas."
+
+#: core/internal.php:316
+msgid "Duplicate Topic Thread"
+msgstr "Kopiera ämnestråd"
+
+#: core/internal.php:316
+msgid ""
+"This will make a new topic with content of the old topic and old the replies "
+"for it duplicated."
+msgstr ""
+"Detta kommer att skapa en ny tråd med innehåll av det gammalt ämnet och "
+"gamla svaren kopierade."
+
+#: core/internal.php:319
+msgid "Topic List Icons/Marks"
+msgstr "Ikoner/märkning för ämneslistning"
+
+#: core/internal.php:320
+msgid "Reply Mark"
+msgstr "Svarsmarkering"
+
+#: core/internal.php:320
+msgid ""
+"In the topics list, mark topics where current user replies at least once."
+msgstr ""
+"I listan över ämnen, markera ämnen där aktuell användare har postat minst "
+"ett svar."
+
+#: core/internal.php:320
+msgid "Logged in user replied in topic"
+msgstr "Inloggad användare svarade i ämnet"
+
+#: core/internal.php:321
+msgid "Stick Mark"
+msgstr "Klistradmarkering"
+
+#: core/internal.php:321
+msgid "In the topics list, mark topics that are set as stick or front stick."
+msgstr ""
+"I ämneslistningen, markera ämnen som är klistrade eller markerade som "
+"notiser."
+
+#: core/internal.php:321
+msgid "Topic is sticked, or front sticked"
+msgstr "Ämnet är klistrat eller är en notis"
+
+#: core/internal.php:301
+msgid "Close topic checkbox in reply form"
+msgstr "Checkbox för att stänga ämne i svarsformulär"
+
+#: core/internal.php:324
+msgid "Reply Titles"
+msgstr "Svarstitlar"
+
+#: core/internal.php:323
+msgid "Replies Specific Settings"
+msgstr "Svarsspecifika inställningar"
+
+#: core/internal.php:325
+msgid "Remove 'Split' link from the list of topic action links."
+msgstr "Ta bort länken \"Dela\" från listan över åtgärdslänkar för ämnen."
+
+#: core/internal.php:324
+msgid ""
+"By default, replies don't have titles. But, with this option, reply editor "
+"will have an extra field to set the reply title."
+msgstr ""
+"Som standard används inte titlar för svar. Men med det här alternativet "
+"kommer svarsredigeraren ha ett extra fält för att ange svarstitel."
+
+#: core/internal.php:337 core/internal.php:344
+msgid "Set value to zero to ignore it."
+msgstr "Ange värdet till noll att ignorera detta."
+
+#: core/internal.php:325
+msgid "Action Link: Split"
+msgstr "Åtgärdslänk: Dela"
+
+#: core/internal.php:337 core/internal.php:344
+msgid "Length control"
+msgstr "Kontroll av längd"
+
+#: core/internal.php:334
+msgid "Disable Breadcrumbs"
+msgstr "Inaktivera brödsmulor"
+
+#: core/internal.php:334
+msgid "Disable"
+msgstr "Inaktivera"
+
+#: core/internal.php:337
+msgid ""
+"When new topic is saved, minimal and maximal length for title and content "
+"will be enforced."
+msgstr ""
+"När nytt ämne sparas, kommer minimal och maximal längd för rubrik och "
+"innehåll att tvingas."
+
+#: core/internal.php:336
+msgid "Save Topic - Title and Content length"
+msgstr "Spara ämne - titel och innehållslängd"
+
+#: core/internal.php:338 core/internal.php:345
+msgid "Min Title Length"
+msgstr "Minsta titellängd"
+
+#: core/internal.php:339 core/internal.php:346
+msgid "Max Title Length"
+msgstr "Maximal titellängd"
+
+#: core/internal.php:340 core/internal.php:347
+msgid "Min Content Length"
+msgstr "Minsta innehållslängd"
+
+#: core/internal.php:341 core/internal.php:348
+msgid "Max Content Length"
+msgstr "Maximal innehållslängd"
+
+#: core/internal.php:343
+msgid "Save Reply - Title and Content length"
+msgstr "Spara svar - titel och innehållslängd"
+
+#: core/internal.php:344
+msgid ""
+"When new reply is saved, minimal and maximal length for title and content "
+"will be enforced."
+msgstr ""
+"När nya svar sparas, kommer minimal och maximal längd för rubrik och "
+"innehåll att tvingas."
+
+#: core/internal.php:350
+msgid "HTML Maximum Title Length"
+msgstr "Maxlängd för HTML-titel"
+
+#: core/internal.php:351
+msgid "Custom Length"
+msgstr "Anpassad längd"
+
+#: core/internal.php:351
+msgid "This value is set for title HTML tag through default bbPress filter."
+msgstr ""
+"Det här värdet anges för HTML-taggen av titel genom bbPress standardfilter."
+
+#: core/internal.php:352
+msgid "Maximum Length Allowed"
+msgstr "Maximal längd tillåten"
+
+#: core/internal.php:354
+msgid "Navigation Menus"
+msgstr "Navigeringsmenyer"
+
+#: core/internal.php:355
+msgid "Extras Metabox"
+msgstr "Metabox för extraval"
+
+#: core/internal.php:355
+msgid "Show metabox with extra items to add to Nav Menu related to bbPress."
+msgstr ""
+"Visa metaboxen med extraval associerade med bbPress som kan läggas till i "
+"menyn."
+
+#: core/internal.php:356
+msgid "Views Metabox"
+msgstr "Metabox för vyer"
+
+#: core/internal.php:356
+msgid "Show metabox with views to add to Nav Menu related to bbPress."
+msgstr ""
+"Visa metaboxen med vyr associerade med bbPress som kan läggas till i menyn."
+
+#: core/internal.php:412
+msgid ""
+"First image uploaded to topic, will be set as featured (if topic has no "
+"featured image set already)."
+msgstr ""
+"Första bilden som laddas upp i ämnet, kommer att anges som utvald bild (om "
+"ämnet inte redan har en utvald bild angiven)."
+
+#: core/internal.php:359
+msgid "Allow DIV tag"
+msgstr "Tillåta DIV-tagg"
+
+#: core/internal.php:363 core/internal.php:364 core/internal.php:366
+#: core/internal.php:365
+msgid "Enabled NoFollow"
+msgstr "Aktivera NoFollow"
+
+#: core/internal.php:358
+msgid "Expand KSES allowed HTML tags and attributes"
+msgstr "Expandera KSES tillåtna HTML-taggar och attribut"
+
+#: core/internal.php:360
+msgid ""
+"By default 'class' attribute in IMG tag will be stripped by bbPress from the "
+"post content. Enable this to allow 'class' attribute in content."
+msgstr ""
+"Som standard kommer  'class'-attribut i IMG-taggen rensas ut av bbPress från "
+"inläggsinnehåll. Aktivera detta att tillåta 'class'-attributet i innehåll."
+
+#: core/internal.php:359
+msgid ""
+"This must be enabled to enable use of Quote feature for all user roles. If "
+"this is disabled, bbPress will not allow DIV tags in the content, and quote "
+"will get messed up."
+msgstr ""
+"Detta måste vara aktiverat för användning av citat-funktionen för alla "
+"roller. Om detta är inaktiverad tillåter bbPress inte DIV-taggar i "
+"innehållet och citat kommer att visas felaktigt."
+
+#: core/internal.php:363
+msgid "Topic Content"
+msgstr "Ämnesinnehåll"
+
+#: core/internal.php:371
+msgid "MIME Type"
+msgstr "MIME-typ"
+
+#: core/internal.php:362
+msgid "bbPress NoFollow for Links"
+msgstr "bbPress NoFollow för länkar"
+
+#: core/internal.php:364
+msgid "Reply Content"
+msgstr "Svarsinnehåll"
+
+#: core/internal.php:363
+msgid ""
+"bbPress modifies all links in topic content and adds (and overrides) "
+"'nofollow' rel attribute."
+msgstr ""
+"bbPress ändrar alla länkar i ämnesinnehåll och lägger till (och åsidosätter) "
+"rel-attributet \"nofollow\"."
+
+#: core/internal.php:360
+msgid "Allow IMG tag class attribute"
+msgstr "Tillåta class-attributet för IMG-taggen"
+
+#: core/internal.php:365
+msgid "Topic Author Link"
+msgstr "Författarlänk för ämne"
+
+#: core/internal.php:371
+msgid "MIME Types"
+msgstr "MIME-typer"
+
+#: core/internal.php:366
+msgid "Reply Author Link"
+msgstr "Författarlänk för svar"
+
+#: core/internal.php:365
+msgid ""
+"bbPress modifies topic author links and adds (and overrides) 'nofollow' rel "
+"attribute."
+msgstr ""
+"bbPress ändrar alla författarlänkar och lägger till (och åsidosätter) rel-"
+"attributet \"nofollow\"."
+
+#: core/internal.php:364
+msgid ""
+"bbPress modifies all links in reply content and adds (and overrides) "
+"'nofollow' rel attribute."
+msgstr ""
+"bbPress ändrar alla länkar i svarsinnehåll och lägger till (och åsidosätter) "
+"rel-attributet \"nofollow\"."
+
+#: core/internal.php:366
+msgid ""
+"bbPress modifies reply author links and adds (and overrides) 'nofollow' rel "
+"attribute."
+msgstr ""
+"bbPress ändrar alla författarlänkar och lägger till (och åsidosätter) rel-"
+"attributet \"nofollow\"."
+
+#: core/internal.php:371
+msgid "Extensions (Vertical pipe separated)"
+msgstr "Filtillägg (separera med vertikala streck (pipe))"
+
+#: core/internal.php:370
+msgid "Additional MIME Types"
+msgstr "Extra MIME-typer"
+
+#: core/internal.php:371
+msgid "Add New MIME Type"
+msgstr "Lägg till ny MIME-typ"
+
+#: core/internal.php:371 forms/tools.php:20
+msgid "Remove"
+msgstr "Ta bort"
+
+#: core/internal.php:375 core/internal.php:430
+msgid "Standard Settings"
+msgstr "Standardinställningar"
+
+#: core/internal.php:376
+msgid "Attachments active"
+msgstr "Aktivera bilagor"
+
+#: core/internal.php:377
+msgid "Enhanced Interface"
+msgstr "Utökat gränssnitt"
+
+#: core/internal.php:377
+msgid ""
+"Enables validation of attachments added by user: size and file type allowed, "
+"and will not allow form to submit if validation fails. Uploaded file (image) "
+"preview and validation works only with modern browsers with HTML5 support."
+msgstr ""
+"Aktiverar validering av bilagor som läggs till av användar: tillåten storlek "
+"och filtyp som hindrar postning om verifieringen misslyckas. "
+"Förhandsgranskning av uppladdad fil (bild). Validering fungerar endast med "
+"moderna webbläsare som har stöd för HTML5."
+
+#: core/internal.php:379
+msgid "Basic Settings"
+msgstr "Grundinställningar"
+
+#: core/internal.php:380
+msgid "Link opens blank page"
+msgstr "Länk öppnar tom sida"
+
+#: core/internal.php:380
+msgid ""
+"All displayed attachments links will lead to open blank page to display "
+"attachment (for images or documents)."
+msgstr ""
+"Alla visade bilagslänkar kommer att leda till ny tom sida för att visa "
+"bilagan (för bilder eller dokument)."
+
+#: core/internal.php:381
+msgid "Hide attachements from visitors"
+msgstr "Dölj bilagor för besökare"
+
+#: core/internal.php:382
+msgid "Maximum file size"
+msgstr "Maximal filstorlek"
+
+#: core/internal.php:382
+msgid "Size set in KB."
+msgstr "Storlek i KB."
+
+#: core/internal.php:383 forms/meta/forum.attachments.php:34
+msgid "Maximum files to upload"
+msgstr "Maximalt antal filer som kan laddas upp"
+
+#: core/internal.php:390
+msgid "Files List Position"
+msgstr "Position för fillista"
+
+#: core/internal.php:391
+msgid "Embed Position"
+msgstr "Position för inbäddning"
+
+#: core/internal.php:393
+msgid "Errors Logging"
+msgstr "Felloggning"
+
+#: core/internal.php:396
+msgid "Visible to moderators"
+msgstr "Synligt för moderatorer"
+
+#: core/internal.php:405 widgets/topicinfo.php:103
+msgid "Author"
+msgstr "Författare"
+
+#: core/internal.php:395
+msgid "Visible to administrators"
+msgstr "Synligt för administratörer"
+
+#: core/internal.php:400
+msgid "Action"
+msgstr "Åtgärd"
+
+#: core/internal.php:397
+msgid "Visible to author"
+msgstr "Synligt för författare"
+
+#: core/internal.php:403
+msgid "Administrators"
+msgstr "Administratörer"
+
+#: core/internal.php:417
+msgid "Thumbnails Size"
+msgstr "Miniatyrstorlek"
+
+#: core/internal.php:402
+msgid "Deletion of Attachments"
+msgstr "Radering av bilagor"
+
+#: core/internal.php:407 forms/settings.php:40
+msgid "Integration"
+msgstr "Integration"
+
+#: core/internal.php:404
+msgid "Moderators"
+msgstr "Moderatorer"
+
+#: core/internal.php:399
+msgid "Deletion of Topics and Replies"
+msgstr "Radering av ämnen och svar"
+
+#: core/internal.php:411
+msgid "Auto generate featured image"
+msgstr "Generera automatiskt utvald bild"
+
+#: core/internal.php:415
+msgid "Image Thumbnails"
+msgstr "Bildminiatyrer"
+
+#: core/internal.php:409
+msgid "File Type Icons"
+msgstr "Filtypsikoner"
+
+#: core/internal.php:412 core/internal.php:413
+msgid "For this to work, theme must have Post Thumbnails support."
+msgstr "För att detta ska fungera måste temat ha stöd för utvalda bilder."
+
+#: core/internal.php:412
+msgid "For Topic"
+msgstr "För ämne"
+
+#: core/internal.php:413
+msgid ""
+"First image uploaded to reply, will be set as featured (if reply has no "
+"featured image set already)."
+msgstr ""
+"Första bilden som laddas upp i svaret, kommer att anges som utvald bild (om "
+"svaret inte redan har en utvald bild angiven)."
+
+#: core/internal.php:408
+msgid "Attachment Icon"
+msgstr "Bilagsikon"
+
+#: core/internal.php:413
+msgid "For Reply"
+msgstr "För svar"
+
+#: core/internal.php:417
+msgid ""
+"Changing thumbnails size affects only new image attachments. To use new size "
+"for old attachments, resize them using Regenerate Thumbnails plugin."
+msgstr ""
+"Ändring av miniatyrstorlek påverkar bara nya bildbilagor. Om du vill använda "
+"den nya storleken för gamla bilagor, ändra storlek på dom med tillägget "
+"Regenerate Thumbnails."
+
+#: core/internal.php:418
+msgid "With caption"
+msgstr "Med bildtext"
+
+#: core/internal.php:419
+msgid "In line"
+msgstr "Inbäddat"
+
+#: core/internal.php:420
+msgid "CSS class"
+msgstr "CSS-klass"
+
+#: core/internal.php:421
+msgid "REL attribute"
+msgstr "REL-attribut"
+
+#: core/internal.php:421
+msgid "You can use these tags"
+msgstr "Du kan använda dessa taggar"
+
+#: core/internal.php:423
+msgid "MIME Types allowed to upload"
+msgstr "MIME-typer tillåtna att ladda upp"
+
+#: core/internal.php:424
+msgid "Filter by MIME Type"
+msgstr "Filtrera efter MIME-typ"
+
+#: core/internal.php:424
+msgid ""
+"If this option is active, only MIME Types selected bellow will be allowed to "
+"upload."
+msgstr ""
+"Om det här alternativet är aktivt, kommer endast MIME-typer som valts nedan "
+"tillåtas att laddas upp."
+
+#: core/internal.php:425
+msgid "Display allowed types"
+msgstr "Visa tillåtna MIME-typer"
+
+#: core/internal.php:425
+msgid ""
+"If active, plugin will show list of allowed types in the upload form as "
+"notice."
+msgstr ""
+"Om aktivt så kommer tillägget att visa listan över tillåtna typer i "
+"uppladdningsformuläret som en notis."
+
+#: core/internal.php:426
+msgid "Allowed MIME Types"
+msgstr "Tillåtna MIME-typer"
+
+#: core/internal.php:426
+msgid ""
+"List shows extensions allowed by WordPress, and if you hover over the "
+"extensions names you will see which MIME type they belong to."
+msgstr ""
+"Listan visar filtillägg som tillåts av WordPress, och om du håller "
+"muspekaren över namnen ser du vilken MIME-typ som de tillhör."
+
+#: core/internal.php:431
+msgid "BBCodes Active"
+msgstr "BBkoder aktiva"
+
+#: core/internal.php:432
+msgid "Form Notice"
+msgstr "Formulärmeddelande"
+
+#: core/internal.php:432
+msgid ""
+"If the BBCodes support is active, you can display notice in the new topic/"
+"reply form."
+msgstr ""
+"Om BBkodsstödet är aktivt så kan du visa ett meddelande i formuläret för nya "
+"ämnen / svar."
+
+#: core/internal.php:433
+msgid "bbPress Only"
+msgstr "Endast bbPress"
+
+#: core/internal.php:433
+msgid ""
+"Processing of the bbcodes can be limited only to bbPress implemented forums, "
+"topics and replies."
+msgstr ""
+"Renderingen av BBkoder kan begränsas till endast bbPress-specifika forum, "
+"ämnen och svar."
+
+#: core/internal.php:435
+msgid "Advanced Codes"
+msgstr "Avancerade koder"
+
+#: core/internal.php:333
+msgid "bbPress Breadcrumbs"
+msgstr "bbPress brödsmulor"
+
+#: core/internal.php:446
+msgid "Toolbar Icons Size"
+msgstr "Ikonstorlek för verktygsrad"
+
+#: core/internal.php:438
+msgid ""
+"If the enhanced codes are used when not allowed, plugin can delete it or "
+"replace it with notice."
+msgstr ""
+"Om dom utökade koderna används när de inte tillåts, kan tillägget ta bort "
+"dom eller ersätta dom med ett meddelande."
+
+#: core/internal.php:440
+msgid "Restricted Codes"
+msgstr "Begränsade koder"
+
+#: core/internal.php:438
+msgid "Restriction action"
+msgstr "Restriktionsåtgärd"
+
+#: core/internal.php:452
+msgid ""
+"By default, editor textarea is not styled as fixed and it can look bad if "
+"the toolbar is active. This fix will apply styling changes to textarea "
+"editor to fit better with the toolbar and most themes."
+msgstr ""
+"Som standard är textfältet för redigeraren inte stilsatt för en aktiverad "
+"verktygsrad. Denna fix tillämpar stilmallar för ändringar i redigeraren så "
+"att den är anpassad till en verktygsrad i dom flesta temana."
+
+#: core/internal.php:468
+msgid "Deactivate"
+msgstr "Inaktivera"
+
+#: core/internal.php:445
+msgid "BBCodes Toolbar Active"
+msgstr "Aktivera verktygsrad för BBkoder"
+
+#: core/internal.php:445
+msgid ""
+"This toolbar will appear only if you don't use any editor toolbars normally "
+"added by bbPress. To disable these, disable checkbox under 'Post Formatting' "
+"on this page:"
+msgstr ""
+"För att detta ska fungera, måste inläggsformatering inaktiveras under "
+"inställningarna för bbPress. Inaktivera under"
+
+#: core/internal.php:444
+msgid "BBCodes Toolbar"
+msgstr "Verktygsrad för BBkod"
+
+#: core/internal.php:442
+msgid "Available to administrators"
+msgstr "Tillgängliga för administratörer"
+
+#: core/internal.php:451 core/internal.php:447 core/internal.php:450
+#: core/internal.php:449
+msgid "This will hide several BBCodes from toolbar"
+msgstr "Detta kommer att dölja flera BBkoder från verktygsraden"
+
+#: core/internal.php:452
+msgid "Apply editor styling fix"
+msgstr "Tillämpa stilmall för redigerare"
+
+#: core/internal.php:448
+msgid "Hide Image BBCode"
+msgstr "Dölj BBkoden för bilder"
+
+#: core/internal.php:448
+msgid "This will hide image BBCode from toolbar."
+msgstr "Detta kommer att dölja BBkod för bilder i verktygsraden."
+
+#: core/internal.php:447
+msgid "Hide Rarely used BBCodes"
+msgstr "Dölj BBkoder som sällan används"
+
+#: core/internal.php:451
+msgid "Hide Restricted BBCodes"
+msgstr "Dölj begränsade BBkoder"
+
+#: core/internal.php:450
+msgid "Hide Media related BBCodes"
+msgstr "Dölj media-relaterade BBkoder"
+
+#: core/internal.php:455
+msgid "Color Theme"
+msgstr "Färgschema"
+
+#: core/internal.php:461 core/internal.php:460
+msgid "Content: Counts"
+msgstr "Innehåll: Antal"
+
+#: core/internal.php:454
+msgid "BBCode: Source Code"
+msgstr "BBCode: Källkod"
+
+#: core/internal.php:459
+msgid "Content: Normal"
+msgstr "Innehåll: Normalt"
+
+#: core/internal.php:457
+msgid "BBCode: Hide"
+msgstr "BBkod: Dolt"
+
+#: core/internal.php:578
+msgid "BuddyPress Overriding URL's"
+msgstr "BuddyPress åsidosätta URLer"
+
+#: core/internal.php:459
+msgid ""
+"When HIDE is set with no value, user must be logged in to see hidden content."
+msgstr ""
+"När DOLT är satt utan ett värde måste användaren vara inloggad för att se "
+"det dolda innehållet."
+
+#: core/internal.php:461
+msgid ""
+"When HIDE is set to 'reply', user must reply to the topic to see the content."
+msgstr ""
+"När DOLT är satt till 'svar' måste användaren svara i ämnet för att se det "
+"dolda innehållet."
+
+#: core/internal.php:460
+msgid ""
+"When HIDE is set to integer value, user must be logged in and have at least "
+"the amount of posts in the forum as specified to see the content."
+msgstr ""
+"När DOLT är satt som ett tal måste användare vara inloggad och ha "
+"specificerat antal inlägg postade i forumet för att se innehållet."
+
+#: core/internal.php:465
+msgid "Hover Background Color"
+msgstr "Bakgrund vid musaktivitet"
+
+#: core/internal.php:477
+msgid "My active topics"
+msgstr "Mina aktiva ämnen"
+
+#: core/internal.php:464
+msgid "Main Color"
+msgstr "Huvudfärg"
+
+#: core/internal.php:472
+msgid "Views That Required Account"
+msgstr "Vyer som kräver ett konto"
+
+#: core/internal.php:467
+msgid "Deactivate Selected Codes"
+msgstr "Inaktivera markerade koder"
+
+#: core/internal.php:473
+msgid ""
+"Some views can work only if logged in user is accessing them. If a visitor "
+"not logged in is accessing view, it will return no results. With this option "
+"you can disable such views for not logged in visitors."
+msgstr ""
+"Vissa vyer fungerar endast om användaren är inloggad för att ha tillgång "
+"till dom. Om en besökare som inte är inloggad visar vyn kommer den att inte "
+"att returnera något innehåll. Med denna inställning kan du aktivera dessa "
+"vyer för användare som inte är inloggade."
+
+#: core/internal.php:463
+msgid "BBCode: Spoiler"
+msgstr "BBkod: Spoiler"
+
+#: core/internal.php:473
+msgid "Hide Views"
+msgstr "Dölj vyer"
+
+#: core/internal.php:473
+msgid "Enabled"
+msgstr "Aktiverat"
+
+#: core/internal.php:487
+msgid "Topics with my reply"
+msgstr "Ämnen med mina svar"
+
+#: core/internal.php:480 core/internal.php:500 core/internal.php:515
+#: core/internal.php:485 core/internal.php:490 core/internal.php:495
+#: core/internal.php:505 core/internal.php:510 core/internal.php:520
+#: core/internal.php:530 core/internal.php:535 core/internal.php:525
+#: core/internal.php:540 core/internal.php:545
+msgid "URL Slug"
+msgstr "Permalänk"
+
+#: core/internal.php:480 core/internal.php:485 core/internal.php:490
+#: core/internal.php:495 core/internal.php:500 core/internal.php:505
+#: core/internal.php:515 core/internal.php:510 core/internal.php:520
+#: core/internal.php:530 core/internal.php:525 core/internal.php:540
+#: core/internal.php:545 core/internal.php:535
+msgid "Only letters, numbers and dashes."
+msgstr "Endast bokstäver, siffror och bindestreck."
+
+#: core/internal.php:492
+msgid "My topics with no replies"
+msgstr "Mina ämnen utan svar"
+
+#: core/internal.php:482
+msgid "All my topics"
+msgstr "Alla mina ämnen"
+
+#: core/internal.php:497
+msgid "My topics with most replies"
+msgstr "Mina ämnen med flest svar"
+
+#: core/internal.php:502
+msgid "Topics with most replies"
+msgstr "Ämnen med flest svar"
+
+#: core/internal.php:507
+msgid "Latest topics"
+msgstr "Nya ämnen"
+
+#: core/internal.php:449
+msgid "Hide Video related BBCodes"
+msgstr "Dölj video-relaterade BBkoder"
+
+#: core/internal.php:512
+msgid "Topics by freshness"
+msgstr "Ämnen sorterat efter aktivitet"
+
+#: core/internal.php:517
+msgid "New posts since last visit"
+msgstr "Nya inlägg sedan senaste besök"
+
+#: core/internal.php:579
+msgid "Stop Profile Override"
+msgstr "Stoppa åsidosättning för profiler"
+
+#: core/internal.php:522
+msgid "New posts: Last day"
+msgstr "Nya inlägg: senaste dagen"
+
+#: core/internal.php:558
+msgid "If enabled, plugin will track online status logged in users."
+msgstr ""
+"Om aktiverad kommer tillägget spåra onlinestatus för inloggade användare."
+
+#: core/internal.php:527
+msgid "New posts: Last 3 days"
+msgstr "Nya inlägg: senaste 3 dagarna"
+
+#: core/internal.php:542
+msgid "Topics search results"
+msgstr "Sökresultat för ämnen"
+
+#: core/internal.php:532
+msgid "New posts: Last week"
+msgstr "Nya inlägg: senaste veckan"
+
+#: core/internal.php:553
+msgid "Current session Cookie"
+msgstr "Aktuell session-cookie"
+
+#: core/internal.php:551
+msgid "Cookie Expiration"
+msgstr "Utgångstid för cookie"
+
+#: core/internal.php:550
+msgid ""
+"Everytime user opens any forum, topic or reply page plugin will save "
+"activity timestamp."
+msgstr ""
+"Varje gång användaren öppnar någon forum-, ämnes- eller svarsida så kommer "
+"tillägget att spara aktivitetens tidsstämpel."
+
+#: core/internal.php:554
+msgid "Expiration"
+msgstr "Utgångstid"
+
+#: core/internal.php:551
+msgid "Value is in days."
+msgstr "Värdet anges i dagar."
+
+#: core/internal.php:549
+msgid "User activity Tracking"
+msgstr "Aktivitetsspårning för användare"
+
+#: core/internal.php:564
+msgid "Status Header 404"
+msgstr "Status 404"
+
+#: core/internal.php:556
+msgid "Track online status for users and guests"
+msgstr "Spåra onlinestatus för användare och gäster"
+
+#: core/internal.php:559
+msgid "Track Guests"
+msgstr "Spåra gäster"
+
+#: core/internal.php:558
+msgid "Track Users"
+msgstr "Spåra användare"
+
+#: core/internal.php:560
+msgid "Online period"
+msgstr "Period online"
+
+#: core/internal.php:554
+msgid "Value is in minutes."
+msgstr "Värdet anges i minuter."
+
+#: core/internal.php:559
+msgid ""
+"If enabled, plugin will track online status for guests - users that are not "
+"logged in."
+msgstr ""
+"Om aktiverad kommer tillägget spåra onlinestatus för gäster - användare som "
+"inte är inloggade."
+
+#: core/internal.php:560
+msgid "Value is in seconds."
+msgstr "Värdet i sekunder."
+
+#: core/internal.php:537
+msgid "New posts: Last month"
+msgstr "Nya inlägg: senaste månaden"
+
+#: core/internal.php:574
+msgid "Forum Features"
+msgstr "Forumfunktioner"
+
+#: core/internal.php:574
+msgid "These will be added when registering forum post type."
+msgstr "Dessa kommer att läggas till när forumposttypen registreras."
+
+#: core/internal.php:566
+msgid ""
+"Due to the WordPress query limitations, user profile and views pages in "
+"bbPress return with 404 status."
+msgstr ""
+"Pga WordPress begränsningar för queries återges användarprofiler och vysidor "
+"med 404-status i bbPress."
+
+#: core/internal.php:568
+msgid "Limit bbPress Access on Admin Side"
+msgstr "Begränsa tillgång till bbPress adminsidor"
+
+#: core/internal.php:566
+msgid "Fix the 404 Errors"
+msgstr "Åtgärda 404-fel"
+
+#: core/internal.php:585
+msgid ""
+"If you use TinyMCE editor, Participants can't use Media Library and Add "
+"Media button. By enabling this option, you allow Participants to do this. "
+"This operation is not reccommended, and you are doing it on your own risk. "
+"Check out the Knowledge Base for more information before enabling this "
+"option."
+msgstr ""
+"Om du använder TinyMCE-redigeraren så kan inte deltagare använda "
+"mediabiblioteket och knappen för media. Genom att aktivera detta alternativ, "
+"tillåter du deltagare att göra detta. Funktionen är inte rekommenderad att "
+"använda, du gör det på egen risk. Kolla in dokumentationen för mer "
+"information innan du aktiverar det här alternativet."
+
+#: core/internal.php:643
+msgid "HTML"
+msgstr "HTML"
+
+#: core/internal.php:571
+msgid "Access for roles"
+msgstr "Åtkomst för roller"
+
+#: core/internal.php:573
+msgid "Forum, Topic, Reply Extra WordPress Features"
+msgstr "Extra WordPress-funktioner för forum, ämnen och svar"
+
+#: core/internal.php:570
+msgid "Access for super admin"
+msgstr "Åtkomst för superadmin"
+
+#: core/internal.php:569
+msgid ""
+"Access to admin side for forums will be restricted. Select bellow who has "
+"access."
+msgstr ""
+"Åtkomst till adminsidan av forumet kommer att begränsas. Välj nedan vilka "
+"som har åtkomst."
+
+#: core/internal.php:585
+msgid "Add Media button in TinyMCE"
+msgstr "Lägg till media knapp i TinyMCE"
+
+#: core/internal.php:576
+msgid "Reply Features"
+msgstr "Svarsfunktioner"
+
+#: core/internal.php:576
+msgid "These will be added when registering reply post type."
+msgstr "Dessa kommer att läggas till när svarsposttypen registreras."
+
+#: core/internal.php:575
+msgid "These will be added when registering topic post type."
+msgstr "Dessa kommer att läggas till när ämnesposttypen registreras."
+
+#: core/internal.php:575
+msgid "Topic Features"
+msgstr "Ämnesfunktioner"
+
+#: core/internal.php:581
+msgid "Stop Subscriptions Override"
+msgstr "Stoppa åsidosättning för prenumeration"
+
+#: core/internal.php:583
+msgid "Allow Participants to use Media Library"
+msgstr "Möjligt för deltagare att använda mediabiblioteket"
+
+#: core/internal.php:580
+msgid "Stop Favorites Override"
+msgstr "Stoppa åsidosättning för favoriter"
+
+#: core/internal.php:588
+msgid "Always Load"
+msgstr "Ladda alltid"
+
+#: core/internal.php:627
+msgid "Moderator"
+msgstr "Moderator"
+
+#: core/internal.php:587
+msgid "Forced load of CSS and JS files"
+msgstr "Påtvingad laddning av CSS- och JS-filer"
+
+#: core/internal.php:596
+msgid "Reply or Topic header"
+msgstr "Inläggshuvud"
+
+#: core/internal.php:588
+msgid ""
+"If you use shortcodes to embed forums, and you rely on plugin to add JS and "
+"CSS, you also need to enable this option to skip checking for bbPress "
+"specific pages."
+msgstr ""
+"Om du användar snabbkoder för att bädda in forum och du är beroende av att "
+"tillägg lägger till JS och CSS, måste du också aktivera alternativet för "
+"hoppa över kontroll av bbPress specifika sidor."
+
+#: core/internal.php:618
+msgid "Base"
+msgstr "Bas"
+
+#: core/internal.php:597
+msgid "Reply or Topic footer"
+msgstr "Svars- eller ämnessidfot"
+
+#: core/internal.php:633
+msgid "Normal Textarea"
+msgstr "Normalt textfält"
+
+#: core/internal.php:626
+msgid "Keymaster"
+msgstr "Forumledare"
+
+#: core/internal.php:588
+msgid ""
+"This option is not needed anymore, but if you still have issues with loaded "
+"files, enable it."
+msgstr ""
+"Detta alternativ behövs inte längre, men om du fortfarande har problem med "
+"inlästa filer, aktivera det."
+
+#: core/internal.php:636 core/internal.php:644 forms/settings.php:46
+msgid "BBCodes"
+msgstr "BBkoder"
+
+#: core/internal.php:658
+msgid "Django"
+msgstr "Django"
+
+#: core/internal.php:635
+msgid "TinyMCE Compact"
+msgstr "Kompakt TinyMCE"
+
+#: core/internal.php:642
+msgid "Both HTML and BBCodes"
+msgstr "Både HTML och BBkoder"
+
+#: core/internal.php:651
+msgid "Remove from content"
+msgstr "Ta bort från innehåll"
+
+#: core/internal.php:634
+msgid "TinyMCE Full"
+msgstr "Fullständig TinyMCE"
+
+#: core/internal.php:650
+msgid "Replace with notice"
+msgstr "Ersätt med en notis"
+
+#: core/internal.php:659
+msgid "Eclipse"
+msgstr "Eclipse"
+
+#: core/internal.php:672
+msgid "Large"
+msgstr "Stor"
+
+#: core/internal.php:670
+msgid "Small"
+msgstr "Liten"
+
+#: core/internal.php:690
+msgid "Font Icons"
+msgstr "Typsnittsikoner"
+
+#: core/internal.php:661
+msgid "Fade To Grey"
+msgstr "Tona ut i grått"
+
+#: core/internal.php:689
+msgid "Images"
+msgstr "Bilder"
+
+#: forms/meta/attachments_list.php:13
+msgid "edit"
+msgstr "redigera"
+
+#: core/loader.php:198
+msgid "Are you sure? Operation is not reversible."
+msgstr "Är du säker? Åtgärden kan inte ångras."
+
+#: forms/meta/forum.attachments.php:4
+msgid "Attachments Status"
+msgstr "Status för bilagor"
+
+#: core/internal.php:671
+msgid "Medium"
+msgstr "Medium"
+
+#: forms/meta/attachments_list.php:23 modules/attachments/front.php:524
+msgid "Upload Errors"
+msgstr "Uppladdningsfel"
+
+#: core/internal.php:660
+msgid "Emacs"
+msgstr "Emacs"
+
+#: core/internal.php:714 core/internal.php:706
+msgid "After content"
+msgstr "Efter innehåll"
+
+#: core/internal.php:707 core/internal.php:715
+msgid "At the end"
+msgstr "I slutet"
+
+#: core/internal.php:721
+msgid "Leave in media library"
+msgstr "Lämna i mediebiblioteket"
+
+#: core/internal.php:703
+msgid "Before title"
+msgstr "Före titel"
+
+#: core/internal.php:664
+msgid "Dark"
+msgstr "Dark"
+
+#: core/internal.php:662
+msgid "MD Ultra"
+msgstr "MD Ultra"
+
+#: core/internal.php:663
+msgid "Midnight"
+msgstr "Midnight"
+
+#: core/internal.php:713 core/internal.php:705
+msgid "Before content"
+msgstr "Innan innehåll"
+
+#: core/internal.php:696
+msgid "Attach at the end of post content"
+msgstr "Bifoga i slutet av inläggsinnehåll"
+
+#: core/internal.php:732
+msgid "Allow both delete and detach"
+msgstr "Tillåt både radering och avskiljning"
+
+#: core/internal.php:746
+msgid "Unchecked"
+msgstr "Avmarkerat"
+
+#: core/internal.php:723
+msgid "Do nothing"
+msgstr "Gör inget"
+
+#: core/internal.php:740
+msgid "Custom Fields"
+msgstr "Egna fält"
+
+#: forms/shared/top.php:56
+msgid "Attachment deleted from media library."
+msgstr "Bilaga raderad från mediabiblioteket."
+
+#: forms/shared/top.php:50
+msgid "Attachment is now unattached."
+msgstr "Bilagan är nu avskild."
+
+#: forms/shared/top.php:62
+msgid "Error record deleted from database."
+msgstr "Felpost raderad från databasen."
+
+#: core/internal.php:738
+msgid "Thumbnail"
+msgstr "Miniatyr"
+
+#: forms/shared/top.php:59
+msgid "Selected errors records deleted from database."
+msgstr "Valda felposter raderade från databasen."
+
+#: core/internal.php:722 grids/attachments.php:69 grids/attachments.php:86
+#: grids/errors.php:89 grids/errors.php:69
+msgid "Delete"
+msgstr "Radera"
+
+#: forms/meta/forum.attachments.php:19
+msgid "Allowed size"
+msgstr "Tillåten storlek"
+
+#: forms/meta/forum.attachments.php:7
+msgid "Enable Attachments"
+msgstr "Aktivera bilagor"
+
+#: forms/meta/forum.attachments.php:29
+msgid "Number of files"
+msgstr "Antal filer"
+
+#: forms/meta/attachments_list.php:5
+msgid "No attachments here."
+msgstr "Inga bilagor att visa här."
+
+#: forms/meta/forum.attachments.php:24
+msgid "Maximum file size allowed"
+msgstr "Maximal tillåten filstorlek"
+
+#: core/internal.php:731
+msgid "Delete from Media Library"
+msgstr "Radera från mediebiblioteket"
+
+#: core/internal.php:729
+msgid "Don't allow to delete"
+msgstr "Tillåt inte radering"
+
+#: core/internal.php:730
+msgid "Only detach from topic/reply"
+msgstr "Endast avskiljning från ämne/svar"
+
+#: forms/meta/forum.attachments.php:14
+msgid "Hide uploaded files from visitors"
+msgstr "Dölja uppladdade filer från besökare"
+
+#: core/internal.php:747
+msgid "Checked"
+msgstr "Markerat"
+
+#: core/internal.php:697
+msgid "Place after the post content"
+msgstr "Placera efter inläggsinnehåll"
+
+#: forms/meta/forum.php:5 forms/meta/forum.php:14
+msgid "Inherit"
+msgstr "Ärv"
+
+#: forms/meta/forum.locking.php:11
+msgid "Lock reply form"
+msgstr "Lås svarsformulär"
+
+#: forms/meta/forum.php:7 forms/widgets/newposts-content.php:4
+#: modules/canned.php:44 modules/canned.php:43 modules/canned.php:71
+msgid "No"
+msgstr "Nej"
+
+#: forms/meta/forum.attachments.php:45
+msgid "Check All"
+msgstr "Markera alla"
+
+#: forms/meta/forum.php:6 forms/widgets/newposts-content.php:4
+msgid "Yes"
+msgstr "Ja"
+
+#: forms/meta/navmenu_views.php:30
+msgid "Registered Views"
+msgstr "Registrerade vyer"
+
+#: forms/meta/navmenu_extras.php:13
+msgid "Logout"
+msgstr "Logga ut"
+
+#: forms/panels/about.php:4 forms/panels/changelog.php:62
+#: forms/panels/changelog.php:406 forms/panels/changelog.php:1
+#: forms/panels/changelog.php:433 forms/panels/translations.php:4
+#: forms/panels/translations.php:15 forms/panels/translations.php:26
+#: forms/front.php:26
+msgid "Version"
+msgstr "Version"
+
+#: forms/meta/navmenu_views.php:44 forms/meta/navmenu_extras.php:74
+msgid "Add to Menu"
+msgstr "Lägg till i meny"
+
+#: forms/meta/forum.attachments.php:39
+msgid "Allowed MIME types"
+msgstr "Tillåtna MIME-typer"
+
+#: forms/meta/forum.privacy.php:13
+msgid "Enable for reply form"
+msgstr "Aktivera för svarsformulär"
+
+#: forms/meta/forum.privacy.php:4
+msgid "Private Content Checkbox"
+msgstr "Kryssruta för privat innehåll"
+
+#: forms/meta/navmenu_extras.php:44
+msgid "General Links"
+msgstr "Allmänna länkar"
+
+#: forms/meta/forum.php:15
+msgid "Override"
+msgstr "Åsidosätt"
+
+#: forms/meta/navmenu_extras.php:41
+msgid "Extra Pages"
+msgstr "Extra sidor"
+
+#: forms/meta/forum.locking.php:5
+msgid "Lock topic form"
+msgstr "Lås ämnesformulär"
+
+#: forms/meta/forum.attachments.php:46
+msgid "Uncheck All"
+msgstr "Avmarkera alla"
+
+#: forms/meta/forum.locking.php:2
+msgid "Lock forum for posting"
+msgstr "Låsa forum för ny postning"
+
+#: forms/meta/forum.privacy.php:7
+msgid "Enable for topic form"
+msgstr "Aktivera för ämnesformulär"
+
+#: forms/meta/navmenu_extras.php:9 theme/gdbbx-widget-userprofile.php:52
+msgid "Favorites"
+msgstr "Favoriter"
+
+#: forms/meta/navmenu_extras.php:7 theme/gdbbx-widget-userprofile.php:39
+#: theme/gdbbx-widget-userprofile.php:44
+msgid "Topics Started"
+msgstr "Ämnen startade"
+
+#: forms/meta/navmenu_extras.php:11
+msgid "Profile Edit"
+msgstr "Profilredigering"
+
+#: forms/meta/navmenu_extras.php:62
+msgid "Account Access"
+msgstr "Kontoåtkomst"
+
+#: forms/meta/navmenu_extras.php:10
+msgid "Subscriptions"
+msgstr "﻿Prenumerationer"
+
+#: core/internal.php:704
+msgid "After title"
+msgstr "Efter titel"
+
+#: forms/meta/navmenu_extras.php:8 theme/gdbbx-widget-userprofile.php:48
+#: theme/gdbbx-widget-userprofile.php:40
+msgid "Replies Created"
+msgstr "Svar skapade"
+
+#: forms/meta/navmenu_extras.php:53
+msgid "Logged user Profile"
+msgstr "Inloggad användarprofil"
+
+#: forms/panels/about.php:7
+msgid "Build"
+msgstr "Byggversion:"
+
+#: forms/panels/about.php:5 grids/attachments.php:52 grids/errors.php:52
+msgid "Date"
+msgstr "Datum"
+
+#: forms/panels/about.php:17
+msgid "On Dev4Press"
+msgstr "På Dev4Press"
+
+#: forms/meta/navmenu_extras.php:14 theme/gdbbx-widget-userprofile.php:99
+msgid "Register"
+msgstr "Bli medlem"
+
+#: forms/panels/about.php:16
+msgid "Main Website"
+msgstr "Huvudwebbplats"
+
+#: forms/meta/navmenu_extras.php:6 theme/gdbbx-widget-userprofile.php:67
+msgid "Profile"
+msgstr "Profil"
+
+#: forms/meta/navmenu_extras.php:5
+msgid "Forums Home"
+msgstr "Forumindex"
+
+#: forms/shared/top.php:53
+msgid "Selected attachments deleted from media library."
+msgstr "Valda bilagor raderades från mediebiblioteket."
+
+#: forms/panels/close.php:3
+msgid ""
+"This tool changes status of topics to 'close' based on the selected "
+"criteria. Closed topics don't allow new replies."
+msgstr ""
+"Detta verktyg ändrar status på ämnen till \"stängt\" utifrån valda "
+"kriterier. Stängda ämnen tillåter inte nya svar."
+
+#: forms/panels/close.php:7
+msgid "Close inactive topics"
+msgstr "Stäng inaktiva ämnen"
+
+#: forms/panels/close.php:9
+msgid "Close all topics that were last active"
+msgstr "Stäng alla ämnen som var aktiva senast"
+
+#: forms/panels/close.php:10 forms/panels/close.php:17
+msgid "or more days ago"
+msgstr "eller tidigare"
+
+#: forms/panels/close.php:14
+msgid "Close old topics"
+msgstr "Stäng gamla ämnen"
+
+#: forms/panels/remove.php:9
+msgid "Choose what you want to delete"
+msgstr "Välj vad du vill radera"
+
+#: forms/panels/remove.php:12
+msgid "All Plugin Settings"
+msgstr "Alla tilläggsinställningar"
+
+#: forms/panels/remove.php:15
+msgid "All Forums Meta Settings"
+msgstr "Metainställningar för alla forum"
+
+#: forms/panels/remove.php:18
+msgid "All Users Tracking Data"
+msgstr "Spårningsdata för alla användare"
+
+#: forms/panels/remove.php:21
+msgid "All Users Signatures"
+msgstr "Alla användarsignaturer"
+
+#: forms/panels/db.php:8
+msgid "Database Upgrade Notices"
+msgstr "Uppgraderingsmeddelande för databas"
+
+#: forms/panels/db.php:12
+msgid "Database Tables Check"
+msgstr "Kontroll av databastabeller"
+
+#: forms/panels/db.php:20
+msgid "ERROR"
+msgstr "FEL"
+
+#: forms/panels/db.php:22
+msgid "OK"
+msgstr "OK"
+
+#: forms/panels/dev4press.php:1
+msgid "Plugins"
+msgstr "Tillägg"
+
+#: forms/panels/close.php:16
+msgid "Close all topics that were created"
+msgstr "Stäng alla ämnen som skapades"
+
+#: forms/panels/import.php:8
+msgid "Import File"
+msgstr "Importera fil"
+
+#: forms/panels/import.php:10
+msgid "Select file you want to import"
+msgstr "Välj fil att importera"
+
+#: forms/panels/remove.php:3
+msgid ""
+"This tool can remove plugin settings saved in the WordPress options table, "
+"individual settings for forums related to this plugin and individual "
+"settings for users related to this plugin (tracking and signature)."
+msgstr ""
+"Detta verktyg kan ta bort tilläggsinställningar sparade i WordPress "
+"'options'-tabell, individuella inställningar för forum relaterade till detta "
+"tillägg och individuella inställningar för användare relaterade till detta "
+"tillägg (spårning och signaturer)."
+
+#: forms/panels/remove.php:4
+msgid ""
+"Deletion operations are not reversible, and it is highly recommended to "
+"create database backup before proceeding with this tool."
+msgstr ""
+"Raderingsåtgärder kan inte ångras och det är rekommenderat att ta en backup "
+"innan du fortsätter med detta verktyg."
+
+#: modules/signature.php:206
+msgid "You can use only plain text. HTML and BBCodes will be stripped."
+msgstr ""
+"Du kan endast använda oformaterad text. HTML och BBkod kommer att tas bort."
+
+#: modules/signature.php:213
+msgid "You can use BBCodes."
+msgstr "Du kan använda BBkoder."
+
+#: grids/attachments.php:113 grids/users.php:123 grids/attachments.php:130
+#: grids/errors.php:115 grids/errors.php:132 modules/canned.php:37
+#: modules/canned.php:39 modules/toolbar.php:150 modules/canned.php:63
+msgid "Edit"
+msgstr "Redigera"
+
+#: modules/signature.php:209
+msgid "You can use HTML."
+msgstr "Du kan använda HTML."
+
+#: forms/panels/export.php:5
+msgid ""
+"With this tool you export all plugin settings into plain text file (PHP "
+"serialized content). Do not modify export file, any change you make can make "
+"it unusable."
+msgstr ""
+"Med detta verktyg exportera du alla tilläggsinställningar till en "
+"oformaterad textfil (PHP serialiserat innehåll). Ändra inte exportfilen, "
+"alla ändringar du gör kan göra den obrukbar."
+
+#: forms/panels/translations.php:5 forms/panels/translations.php:16
+#: forms/panels/translations.php:27
+msgid "Translator"
+msgstr "Översättare"
+
+#: forms/panels/export.php:6
+msgid ""
+"This will not export meta settings for individual forums, or users tracking "
+"and signatures data."
+msgstr ""
+"Detta kommer inte att exportera meta-inställningar för enskilda forum eller "
+"användarspårning och signaturdata."
+
+#: forms/panels/import.php:3
+msgid ""
+"With this tool you import all plugin settings from plain text file made "
+"using the Export tool. If you made changes to this file, it is very likely "
+"that import will fail."
+msgstr ""
+"Med detta verktyg kan du importera alla tilläggsinställningar från en "
+"oformaterad textfil skapad med exportverktyget. Om du gjort ändringar i "
+"denna fil är det mycket sannolikt att importen misslyckas."
+
+#: forms/panels/remove.php:5
+msgid ""
+"If you choose to remove plugin settings, that will also reinitialize all "
+"plugin settings to default values."
+msgstr ""
+"Om du väljer att ta bort tilläggets inställningar så kommer det också "
+"initiera om alla tilläggsinställningar till standardvärden."
+
+#: forms/panels/db.php:0
+msgid "Additional database tables"
+msgstr "Ytterligare databastabeller"
+
+#: forms/shared/top.php:31
+msgid "Settings are saved."
+msgstr "Inställningar sparade."
+
+#: forms/shared/top.php:34
+msgid "Removal operation completed."
+msgstr "Borttagning slutförd."
+
+#: forms/shared/top.php:37
+msgid "Import operation completed."
+msgstr "Importen har slutförts."
+
+#: forms/shared/top.php:40
+msgid "Nothing done."
+msgstr "Ingenting har gjorts."
+
+#: forms/shared/top.php:44
+msgid "Total %s topics closed."
+msgstr "Totalt %s ämnen stängda."
+
+#: forms/widgets/newposts-content.php:2
+msgid "Last day"
+msgstr "Sista dagen"
+
+#: forms/widgets/newposts-content.php:2
+msgid "Last Hour"
+msgstr "Senaste timmen"
+
+#: forms/widgets/newposts-content.php:3
+msgid "Topics and Replies"
+msgstr "Ämnen och svar"
+
+#: forms/widgets/newposts-content.php:3
+msgid "Topics only"
+msgstr "Endast ämnen"
+
+#: forms/widgets/newposts-content.php:3
+msgid "Replies only"
+msgstr "Endast svar"
+
+#: forms/signatures/profile.php:0 theme/gdbbx-form-signature-bbpress.php:0
+#: theme/gdbbx-form-signature-bbpress.php:2
+msgid "Your Forum Signature"
+msgstr "Din forumsignatur"
+
+#: forms/signatures/profile.php:0 theme/gdbbx-form-signature-bbpress.php:2
+#: theme/gdbbx-form-signature-bbpress.php:0
+msgid "User Forum Signature"
+msgstr "Forumsignatur för användare"
+
+#: forms/signatures/profile.php:3 grids/users.php:56
+#: theme/gdbbx-form-signature-bbpress.php:6
+msgid "Signature"
+msgstr "Signatur"
+
+#: forms/widgets/newposts-content.php:8
+msgid "Topics and Reply Filtering"
+msgstr "Filtrering av ämnen och svar"
+
+#: forms/widgets/newposts-content.php:13
+msgid "Period to get posts"
+msgstr "Period att hämta poster för"
+
+#: forms/shared/top.php:28
+msgid "Free plugins are now disabled."
+msgstr "Dom gratis tilläggen är nu inaktiverade."
+
+#: forms/shared/top.php:47
+msgid "Selected attachments are now unattached."
+msgstr "Markerade bilagor är nu avskilda."
+
+#: forms/shared/top.php:8 forms/front.php:12 forms/settings.php:16
+#: theme/gdbbx-list-canned-replies.php:6
+msgid "Canned Replies"
+msgstr "Arkiverade svar"
+
+#: forms/widgets/newposts-content.php:2
+msgid "Last year"
+msgstr "Förra året"
+
+#: forms/widgets/newposts-content.php:2
+msgid "Last 6 months"
+msgstr "Senaste 6 månaderna"
+
+#: forms/widgets/newposts-content.php:2
+msgid "Last 3 months"
+msgstr "Senaste 3 månaderna"
+
+#: forms/widgets/newposts-content.php:2
+msgid "Last month"
+msgstr "Förra månaden"
+
+#: forms/widgets/newposts-content.php:2
+msgid "Last two weeks"
+msgstr "Senaste två veckorna"
+
+#: forms/panels/db.php:30
+msgid "Individual forum settings"
+msgstr "Inställningar för enskilda forum"
+
+#: forms/panels/db.php:40
+msgid "Nothing to convert."
+msgstr "Inget att konvertera."
+
+#: forms/panels/db.php:36
+msgid "Converted forum settings for"
+msgstr "Konverterade foruminställningar för"
+
+#: forms/widgets/newposts-content.php:24
+msgid "Display Options"
+msgstr "Visningsalternativ"
+
+#: forms/widgets/onlineusers-content.php:9
+msgid "Show online users"
+msgstr "Visa användare online"
+
+#: forms/widgets/onlineusers-content.php:16
+msgid "Show current online users"
+msgstr "Visa vilka användare som är online just nu"
+
+#: forms/widgets/onlineusers-content.php:19
+msgid "Limit users per role"
+msgstr "Begränsa användare per roll"
+
+#: forms/widgets/newposts-content.php:29
+msgid "Show date"
+msgstr "Visa datum"
+
+#: forms/widgets/newposts-content.php:17
+msgid "Get new posts from"
+msgstr "Hämta nya inlägg från"
+
+#: forms/widgets/newposts-content.php:39 forms/widgets/topicinfo-content.php:12
+msgid "Show author"
+msgstr "Visa författare"
+
+#: forms/widgets/newposts-content.php:2
+msgid "Last week"
+msgstr "Förra veckan"
+
+#: forms/widgets/newposts-content.php:33
+msgid "Limit list of topics"
+msgstr "Begränsa lista över ämnen"
+
+#: forms/widgets/shared-display.php:16
+msgid "Visibility"
+msgstr "Synlighet"
+
+#: forms/widgets/shared-cache.php:5
+msgid "Cache Period"
+msgstr "Cachningsperiod"
+
+#: forms/widgets/shared-display.php:25
+msgid "Visibility Hook"
+msgstr "Hook för synlighet"
+
+#: forms/widgets/shared-cache.php:0
+msgid "Results Caching"
+msgstr "Cachning av resultat"
+
+#: forms/widgets/shared-display.php:21
+msgid "Display To"
+msgstr "Visa för"
+
+#: forms/widgets/userprofile-content.php:45
+msgid "Show profile title"
+msgstr "Visa profiltitel"
+
+#: forms/widgets/userprofile-content.php:30
+msgid "Show login &amp; registration"
+msgstr "Visa inloggning &amp; registrering"
+
+#: forms/widgets/userprofile-content.php:37
+msgid "Other Settings"
+msgstr "Övriga inställningar"
+
+#: forms/widgets/shared-cache.php:9
+msgid ""
+"To use cache and speed up the widget, enter number of hours for cached "
+"results to be kept. Leave 0 to disable cache."
+msgstr ""
+"Om du vill använda cache för att snabba upp widgets, ange antal timmar som "
+"cachade resultat ska hållas. Lämna som 0 för att inaktivera cache."
+
+#: forms/widgets/topicinfo-content.php:0
+msgid "Information to Show"
+msgstr "Information att visa"
+
+#: forms/widgets/onlineusers-content.php:31
+msgid "User information"
+msgstr "Användarinformation"
+
+#: forms/widgets/shared-wrapper.php:0
+msgid "Before and After Content"
+msgstr "Före och efter innehåll"
+
+#: forms/widgets/shared-global.php:0
+msgid "Basic"
+msgstr "Grundläggande"
+
+#: forms/widgets/shared-wrapper.php:11
+msgid "After"
+msgstr "Efter"
+
+#: forms/widgets/shared-display.php:6
+msgid "User Roles"
+msgstr "Användarroller"
+
+#: forms/widgets/shared-wrapper.php:5
+msgid "Before"
+msgstr "Före"
+
+#: forms/widgets/onlineusers-content.php:37
+msgid "Show avatar"
+msgstr "Visa profilbild"
+
+#: forms/widgets/onlineusers-content.php:26
+msgid "User information to show"
+msgstr "Användarinformation att visa"
+
+#: forms/widgets/onlineusers-content.php:4
+msgid "Display Name"
+msgstr "Visningsnamn"
+
+#: forms/widgets/onlineusers-content.php:3
+msgid "Profile Link"
+msgstr "Profillänk"
+
+#: forms/widgets/userprofile-content.php:0
+msgid "Avatar"
+msgstr "Profilbild"
+
+#: forms/widgets/userprofile-content.php:5
+msgid "Avatar Size"
+msgstr "Storlek för profilbild"
+
+#: forms/widgets/topicinfo-content.php:8
+msgid "Show forum"
+msgstr "Visa forum"
+
+#: forms/settings.php:118
+msgid "Settings Panel"
+msgstr "Inställningspanel"
+
+#: forms/tools.php:15
+msgid "Import Settings"
+msgstr "Inställningar för import"
+
+#: forms/widgets/topicinfo-content.php:39
+msgid "Show participants"
+msgstr "Visa deltagare"
+
+#: forms/widgets/topicsviews-content.php:0
+msgid "Select Views to Show"
+msgstr "Välj vyer att visa"
+
+#: forms/widgets/topicinfo-content.php:35
+msgid "Show voices count"
+msgstr "Visa antal deltagare"
+
+#: forms/widgets/topicinfo-content.php:16
+msgid "Show post date"
+msgstr "Visa inläggsdatum"
+
+#: forms/widgets/userprofile-content.php:68
+msgid "Show favorite topics link"
+msgstr "Visa länk för favoritämnen"
+
+#: forms/widgets/userprofile-content.php:72
+msgid "Show subscribed topics link"
+msgstr "Visa länk för prenumererade ämnen"
+
+#: forms/widgets/userprofile-content.php:49
+msgid "Show user statistics"
+msgstr "Visa användarstatistik"
+
+#: forms/widgets/userprofile-content.php:15
+msgid "Login and Logout"
+msgstr "Logga in och logga ut"
+
+#: forms/widgets/userprofile-content.php:23
+msgid "Show logout link"
+msgstr "Visa länk för utloggning"
+
+#: forms/widgets/topicinfo-content.php:20
+msgid "Show last activity"
+msgstr "Visa senaste aktivitet"
+
+#: forms/widgets/topicinfo-content.php:27
+msgid "Show status"
+msgstr "Visa status"
+
+#: forms/widgets/userprofile-content.php:57
+msgid "Show started topics link"
+msgstr "Visa länk för startade ämnen"
+
+#: forms/widgets/userprofile-content.php:64
+msgid "Show posted replies link"
+msgstr "Visa länk för postade svar"
+
+#: forms/widgets/userprofile-content.php:53
+msgid "Show user forum role"
+msgstr "Visa användarens forumroll"
+
+#: forms/widgets/shared-display.php:4 widgets/searchtopics.php:31
+#: widgets/onlineusers.php:37 widgets/topicinfo.php:41 widgets/newposts.php:40
+#: widgets/userprofile.php:42 widgets/topicsviews.php:35
+msgid "Global"
+msgstr "Globalt"
+
+#: forms/bbcodes.php:49
+msgid "View BBCodes"
+msgstr "Visa BBkoder"
+
+#: forms/install.php:56
+msgid "Older version settings not found."
+msgstr "Inställningar för äldre versioner kunde inte hittas."
+
+#: forms/about.php:8
+msgid "Check out full changelog for this plugin."
+msgstr "Kolla in hela ändringsloggen för detta tillägg."
+
+#: forms/widgets/userprofile-content.php:76
+msgid "Show edit profile link"
+msgstr "Visa länk för att redigera profil"
+
+#: forms/about.php:7 forms/about.php:34
+msgid "Changelog"
+msgstr "Ändringslogg"
+
+#: forms/install.php:20
+msgid "Before you continue, make sure plugin installation was successful."
+msgstr ""
+"Innan du fortsätter, kontrollera att installationen av tillägget slutfördes."
+
+#: forms/install.php:67
+msgid "Installation completed."
+msgstr "Installation slutförd."
+
+#: forms/install.php:17
+msgid "Installation"
+msgstr "Installation"
+
+#: forms/install.php:61 forms/update.php:24
+msgid "All Done"
+msgstr "Allt klart!"
+
+#: forms/install.php:26
+msgid "Previous Plugin Version"
+msgstr "Föregående tilläggsversion"
+
+#: forms/about.php:10 forms/about.php:35
+msgid "Translations"
+msgstr "Översättningar"
+
+#: forms/about.php:14
+msgid "Check out other Dev4Press products."
+msgstr "Kolla in dom andra produkterna från Dev4Press."
+
+#: forms/attachments.php:18 forms/errors.php:18 forms/users.php:18
+#: modules/canned.php:60 modules/canned.php:42
+#: theme/gdbbx-widget-searchform.php:4
+msgid "Search"
+msgstr "Sök"
+
+#: forms/about.php:13
+msgid "Dev4Press"
+msgstr "Dev4Press"
+
+#: forms/about.php:11
+msgid "List of translations included for this plugin."
+msgstr "En lista av översättningar som inkluderas i detta tillägg."
+
+#: forms/about.php:5
+msgid "Get more information about this plugin."
+msgstr "Mer information för detta tillägg."
+
+#: forms/about.php:4
+msgid "About Plugin"
+msgstr "Om tillägget"
+
+#: forms/bbcodes.php:13
+msgid "Restricted"
+msgstr "Begränsat"
+
+#: forms/front.php:57 widgets/topicinfo.php:127
+msgid "Open"
+msgstr "Öppna"
+
+#: forms/bbcodes.php:11
+msgid "These codes are used embedding external content: videos, links..."
+msgstr ""
+"Dessa koder används för inbäddning av externt innehåll: videor, länkar..."
+
+#: forms/widgets/shared-display.php:5
+msgid "Everyone"
+msgstr "Alla"
+
+#: forms/widgets/shared-display.php:31
+msgid "Additional CSS Class"
+msgstr "Extra CSS-klass"
+
+#: forms/widgets/shared-display.php:5
+msgid "All Users"
+msgstr "Alla användare"
+
+#: forms/bbcodes.php:14
+msgid ""
+"These codes are not available to users, and only administrators can choose "
+"to use them."
+msgstr ""
+"Dessa koder är inte tillgänglig för användare, endast administratörer kan "
+"välja att använda dem."
+
+#: forms/widgets/shared-display.php:5
+msgid "Only Visitors"
+msgstr "Endast besökare"
+
+#: forms/bbcodes.php:5
+msgid "Select group of BBCodes you want to see."
+msgstr "Välj grupp av BBkoder du vill se."
+
+#: forms/install.php:70 forms/update.php:33
+msgid "Click here to continue."
+msgstr "Klicka här för att fortsätta."
+
+#: forms/install.php:50
+msgid "Import from <strong>%s</strong> completed, %s records imported."
+msgstr "Import från <strong>%s</strong> slutförd, %s poster importeras."
+
+#: forms/settings.php:95
+msgid "Save Settings"
+msgstr "Spara ändringar"
+
+#: forms/settings.php:98
+msgid "Return to top"
+msgstr "Till toppen"
+
+#: forms/bbcodes.php:7
+msgid "Standard"
+msgstr "Standard"
+
+#: forms/bbcodes.php:4
+msgid "BBCodes Index"
+msgstr "Index för BBkoder"
+
+#: forms/bbcodes.php:10 forms/settings.php:70
+msgid "Advanced"
+msgstr "Avancerat"
+
+#: forms/bbcodes.php:8
+msgid "These codes are safe to use and releated to content formatting."
+msgstr ""
+"Dessa koder är säkra att använda och releatede till innehållsformatering."
+
+#: forms/tools.php:16
+msgid "Import"
+msgstr "Importera"
+
+#: forms/settings.php:17
+msgid "These are settings for control over canned replies."
+msgstr "Detta är inställningar för kontroll över arkiverade svar."
+
+#: forms/settings.php:14
+msgid "These are settings for additional control over topic and reply editors."
+msgstr ""
+"Detta är inställningar för ytterligare kontroll över ämnes- och "
+"svarsredigerare."
+
+#: forms/settings.php:4
+msgid "Settings Index"
+msgstr "Index för inställningar"
+
+#: forms/settings.php:5
+msgid ""
+"All plugin settings are split into several panels, and you access each "
+"starting from the right."
+msgstr ""
+"Alla inställningar är uppdelade i flera paneler som du kommer åt här till "
+"höger."
+
+#: forms/settings.php:58
+msgid "Forums Locking"
+msgstr "Stängning av forum"
+
+#: forms/settings.php:55
+msgid "Views Settings"
+msgstr "Inställningar för vyer"
+
+#: forms/settings.php:56
+msgid "These are settings for additional controll over added views."
+msgstr "Detta är inställningarna för ytterligare kontroll över extravyer."
+
+#: forms/settings.php:11
+msgid "These settings are for enhancing administration side."
+msgstr "Dessa inställningar används för att förbättra administrationsdelen."
+
+#: forms/settings.php:13
+msgid "Editors"
+msgstr "Redigerare"
+
+#: forms/settings.php:7
+msgid "Control"
+msgstr "Hantering"
+
+#: forms/settings.php:34
+msgid "Quotes"
+msgstr "Citat"
+
+#: forms/settings.php:31
+msgid "Signatures"
+msgstr "Signaturer"
+
+#: forms/settings.php:32
+msgid "These are settings for user signatures."
+msgstr "Detta är inställningarna för användarsignaturer."
+
+#: forms/settings.php:20
+msgid "These are settings for control over thanks for topics and replies."
+msgstr "Detta är inställningar för kontroll över tack för ämnen och svar."
+
+#: forms/settings.php:22
+msgid "SEO"
+msgstr "SEO"
+
+#: forms/settings.php:8
+msgid ""
+"These are basic settings for loading of different parts of plugin, widgets, "
+"libraries and more."
+msgstr ""
+"Dessa är dom grundläggande inställningarna för inladdning av olika delar av "
+"tillägget, widgets, bibliotek och med mer."
+
+#: forms/settings.php:10
+msgid "Administration"
+msgstr "Administration"
+
+#: forms/settings.php:28
+msgid "Notifications"
+msgstr "Notifikationer"
+
+#: forms/settings.php:29
+msgid ""
+"These are settings for additional control over notifications sent to users."
+msgstr ""
+"Dessa är inställningarna för ytterligare kontroll över notifikationer som "
+"skickas till användare."
+
+#: forms/settings.php:49
+msgid "Extra MIME Types"
+msgstr "Extra MIME-typer"
+
+#: forms/settings.php:47
+msgid ""
+"These are settings for control of BBCodes implementation, access and some "
+"specific BBCodes."
+msgstr ""
+"Detta är inställningar för kontroll av implementationen för BBkod, åtkomst "
+"och vissa specifika BBkoder."
+
+#: forms/settings.php:35
+msgid "These are settings for content quoting feature."
+msgstr "Detta är inställningarna för funktionen svara med citat."
+
+#: forms/settings.php:37
+msgid "Toolbar Menu"
+msgstr "Verktygsmeny"
+
+#: forms/meta/forum.php:24
+msgid "Locking"
+msgstr "Låsning"
+
+#: forms/meta/forum.php:23 forms/settings.php:61
+msgid "Privacy"
+msgstr "Integritet"
+
+#: forms/settings.php:44
+msgid ""
+"These are settings for control over attachments  integration, error handling "
+"and thumbnails."
+msgstr ""
+"Dessa är inställningar för kontroll över bilagsintegration, felhantering och "
+"miniatyrer."
+
+#: forms/settings.php:38
+msgid "These are settings for adding forums specific toolbar menu."
+msgstr ""
+"Detta är inställningarna för att lägga till forumspecifika alternativ för "
+"verktygsmenyn."
+
+#: forms/settings.php:65
+msgid ""
+"These settings are used for control over user activity tracking in the "
+"forums."
+msgstr ""
+"Dessa inställningar används för kontroll över aktivitetsspårning av "
+"användarna i forumen."
+
+#: forms/settings.php:62
+msgid ""
+"These settings can be used to add private topics and replies where only "
+"administrators and moderators can read and post."
+msgstr ""
+"Dessa inställningar kan användas för att lägga till privata ämnen och svar "
+"där endast administratörer och moderatorer kan läsa och skriva."
+
+#: forms/settings.php:64
+msgid "Tracking"
+msgstr "Spårning"
+
+#: forms/settings.php:52 modules/toolbar.php:105
+msgid "Views"
+msgstr "Vyer"
+
+#: forms/settings.php:53
+msgid "These are settings for controlling additional topic views."
+msgstr "Detta är inställningarna för att styra ytterligare ämnsvyer."
+
+#: forms/settings.php:41
+msgid ""
+"These are settings for control over plugin integration into bbPress and "
+"WordPress."
+msgstr ""
+"Detta är inställningarna för kontroll över tilläggets integrering med "
+"bbPress och WordPress."
+
+#: forms/settings.php:50
+msgid ""
+"From here you can add additional MIME Types (file extensions) for "
+"attachments upload."
+msgstr ""
+"Här kan du lägga till ytterligare MIME-typer (filtillägg) för uppladdning av "
+"filer."
+
+#: forms/settings.php:59
+msgid ""
+"These settings can lock down your forums for new topics or replies (useful "
+"for maintenance)."
+msgstr ""
+"Dessa inställningar kan låsa ner ditt forum för nya ämnen och svar "
+"(användbart för underhållsläge)."
+
+#: forms/settings.php:23
+msgid "These are settings for some basic search engine optimization."
+msgstr "Detta är inställningarna för viss grundläggande sökmotoroptimering."
+
+#: forms/tools.php:7
+msgid "Close Topics"
+msgstr "Stäng ämnen"
+
+#: forms/tools.php:8
+msgid "Close"
+msgstr "Stäng"
+
+#: forms/settings.php:68
+msgid ""
+"These settings are used to control who can view the topic/reply revisions "
+"list."
+msgstr ""
+"Dessa inställningar används för att styra vem som kan visa listan med "
+"versioner för ämnen/svar."
+
+#: forms/settings.php:67
+msgid "Revisions"
+msgstr "Versioner"
+
+#: forms/tools.php:4
+msgid "Tools Index"
+msgstr "Index för verktyg"
+
+#: forms/tools.php:5
+msgid ""
+"All plugin tools are split into several panels, and you access each starting "
+"from the right."
+msgstr ""
+"Alla verktyg är uppdelade i flera paneler som du kommer åt här till höger.."
+
+#: forms/tools.php:64
+msgid "Tools Panel"
+msgstr "Verktygspanel"
+
+#: forms/tools.php:21
+msgid "Remove selected plugin settings and information."
+msgstr "Ta bort markerade tilläggsinställningar och information."
+
+#: forms/update.php:15 modules/canned.php:65
+msgid "Update"
+msgstr "Uppdatera"
+
+#: forms/tools.php:12
+msgid "Export"
+msgstr "Exportera"
+
+#: forms/tools.php:13
+msgid "Export all plugin settings into file."
+msgstr "Exportera alla tilläggsinställningar i filen."
+
+#: forms/tools.php:11
+msgid "Export Settings"
+msgstr "Inställningar för export"
+
+#: forms/tools.php:9
+msgid "Close old and inactive topics."
+msgstr "Stäng gamla och inaktiva ämnen."
+
+#: forms/settings.php:71
+msgid ""
+"These settings are for the features that are not normally needed to change "
+"and can cause problems if used."
+msgstr ""
+"Dessa inställningar är för de funktioner som normalt inte behöver ändras och "
+"kan orsaka problem om dom används."
+
+#: forms/tools.php:19
+msgid "Remove Settings"
+msgstr "Ta bort inställningar"
+
+#: forms/tools.php:17
+msgid "Import all plugin settings from export file."
+msgstr "Importera alla tilläggsinställningar från exportfilen."
+
+#: grids/attachments.php:27 grids/attachments.php:111 grids/errors.php:27
+#: grids/errors.php:113 grids/users.php:30
+msgid "Filter"
+msgstr "Filtrera"
+
+#: grids/attachments.php:46 grids/errors.php:46 grids/users.php:49
+msgid "ID"
+msgstr "ID"
+
+#: forms/update.php:30
+msgid "Update completed."
+msgstr "Uppdatering slutförd."
+
+#: forms/update.php:18
+msgid "Before you continue, make sure plugin was successfully updated."
+msgstr ""
+"Innan du fortsätter, kontrollera att tillägget har uppdaterats som det ska."
+
+#: forms/settings.php:25
+msgid "Topics &amp; Replies"
+msgstr "Ämnen &amp; svar"
+
+#: forms/settings.php:26
+msgid ""
+"These are settings for adding extra features to topics and replies in the "
+"forums."
+msgstr ""
+"Detta är inställningarna för att lägga till extra funktioner till ämnen och "
+"svar i forumen."
+
+#: grids/attachments.php:19 grids/errors.php:19
+msgid "For Topics Only"
+msgstr "Endast för ämnen"
+
+#: grids/attachments.php:20 grids/errors.php:20
+msgid "For Replies Only"
+msgstr "Endast för svar"
+
+#: grids/attachments.php:18 grids/errors.php:18
+msgid "For Topics And Replies"
+msgstr "För ämnen och svar"
+
+#: grids/attachments.php:112 grids/errors.php:114 grids/errors.php:131
+#: grids/attachments.php:129
+msgid "Visit"
+msgstr "Besök"
+
+#: grids/attachments.php:50 grids/errors.php:50
+msgid "Topic / Reply"
+msgstr "Ämne / Svar"
+
+#: grids/attachments.php:49 grids/errors.php:49
+msgid "Uploader"
+msgstr "Uppladdare"
+
+#: grids/attachments.php:48 grids/errors.php:47
+msgid "File"
+msgstr "Fil"
+
+#: grids/attachments.php:87 grids/attachments.php:70
+msgid "Unattach"
+msgstr "Inte bifogat"
+
+#: grids/errors.php:48
+msgid "Message"
+msgstr "Meddelande"
+
+#: grids/users.php:115
+msgid "None"
+msgstr "Ingen"
+
+#: grids/attachments.php:131 grids/users.php:54 grids/errors.php:133
+#: modules/admin.php:176 modules/integrate.php:96 modules/toolbar.php:162
+msgid "Topics"
+msgstr "Ämnen"
+
+#: grids/users.php:52
+msgid "Email And Name"
+msgstr "E-post och namn"
+
+#: grids/users.php:53 theme/gdbbx-widget-userprofile.php:35
+msgid "Role"
+msgstr "Roll"
+
+#: grids/users.php:55 modules/admin.php:177 modules/integrate.php:100
+#: modules/toolbar.php:168 widgets/topicinfo.php:133
+msgid "Replies"
+msgstr "Svar"
+
+#: modules/admin.php:38 widgets/onlineusers.php:28
+msgid "Online Users"
+msgstr "Användare online"
+
+#: modules/bbcodes/load.php:227
+msgid "Link Topic"
+msgstr "Länk till ämne"
+
+#: grids/users.php:22
+msgid "All User Roles"
+msgstr "Alla användarroller"
+
+#: modules/attachments/admin.php:55 modules/attachments/admin.php:56
+msgid "Attachments List"
+msgstr "Lista över bilagor"
+
+#: modules/attachments/front.php:109 theme/gdbbx-form-attachment.php:9
+msgid "Select File"
+msgstr "Välj fil"
+
+#: modules/attachments/front.php:110 modules/canned.php:70
+msgid "Name"
+msgstr "Namn"
+
+#: modules/attachments/front.php:111
+msgid "Size"
+msgstr "Storlek"
+
+#: grids/users.php:51
+msgid "Username"
+msgstr "Användarnamn"
+
+#: modules/attachments/front.php:125
+msgid "Maximum file size allowed is"
+msgstr "Maximal filstorlek tillåten är"
+
+#: modules/attachments/front.php:130
+msgid "File types allowed for upload"
+msgstr "Filtyper som tillåts för uppladdning"
+
+#: modules/attachments/front.php:325
+msgid "insert into content"
+msgstr "infoga i innehåll"
+
+#: modules/attachments/front.php:386
+msgid "You must be <a href='%s'>logged in</a> to view attached files."
+msgstr "Du måste vara <a href='%s'>inloggad</a> för att se bifogade filer."
+
+#: modules/bbcodes/load.php:191
+msgid "Block"
+msgstr "Block"
+
+#: modules/attachments/front.php:114
+msgid "Remove this file"
+msgstr "Ta bort denna fil"
+
+#: modules/bbcodes/load.php:122
+msgid "Align Center"
+msgstr "Centrera"
+
+#: modules/bbcodes/load.php:127
+msgid "Align Right"
+msgstr "Högerjustera"
+
+#: modules/bbcodes/load.php:132
+msgid "Align Left"
+msgstr "Vänsterjustera"
+
+#: modules/bbcodes/load.php:137
+msgid "Align Justify"
+msgstr "Fulljustera"
+
+#: modules/attachments/front.php:115
+msgid "Insert into content"
+msgstr "Infoga i innehåll"
+
+#: modules/attachments/front.php:113
+msgid "This file is not valid!"
+msgstr "Detta är en ogiltig fil!"
+
+#: modules/attachments/front.php:117
+msgid "Caption..."
+msgstr "Bildtext..."
+
+#: modules/attachments/front.php:424
+msgid "delete"
+msgstr "radera"
+
+#: modules/attachments/front.php:116
+msgid "Set file caption"
+msgstr "Ange filtext"
+
+#: modules/attachments/front.php:112
+msgid "Extension"
+msgstr "Filtillägg"
+
+#: modules/bbcodes/load.php:255
+msgid "Google Search"
+msgstr "Googlesök"
+
+#: modules/bbcodes/load.php:691 modules/quote.php:24
+msgid "wrote"
+msgstr "skrev"
+
+#: modules/bbcodes/load.php:240
+msgid "eMail"
+msgstr "E-post"
+
+#: modules/bbcodes/load.php:231
+msgid "Link Reply"
+msgstr "Länk till svar"
+
+#: modules/bbcodes/load.php:250
+msgid "Embed"
+msgstr "Bädda in"
+
+#: core/internal.php:174
+msgid "Activation"
+msgstr "Aktivering"
+
+#: modules/bbcodes/load.php:290
+msgid "iframe"
+msgstr "iframe"
+
+#: modules/bbpress.php:196
+msgid "<strong>ERROR</strong>: Your topic title is too long."
+msgstr "<strong>FEL</strong>: din ämnestitel är för lång."
+
+#: modules/bbpress.php:210
+msgid "<strong>ERROR</strong>: Your topic is too short."
+msgstr "<strong>FEL</strong>: ditt ämne är för kort."
+
+#: modules/bbpress.php:216
+msgid "<strong>ERROR</strong>: Your topic is too long."
+msgstr "<strong>FEL</strong>: ditt ämne är för långt."
+
+#: modules/bbpress.php:230
+msgid "<strong>ERROR</strong>: Your reply title is too short."
+msgstr "<strong>FEL</strong>: din svarstitel är för kort."
+
+#: modules/bbpress.php:236
+msgid "<strong>ERROR</strong>: Your reply title is too long."
+msgstr "<strong>FEL</strong>: din svarstitel är för lång."
+
+#: modules/admin.php:83
+msgid "GD bbPress Toolbox"
+msgstr "GD bbPress Toolbox"
+
+#: modules/admin.php:123 modules/admin.php:125 modules/admin.php:135
+#: modules/admin.php:137
+msgid "Private"
+msgstr "Privat"
+
+#: modules/bbpress.php:177
+msgid "Notify subscribers that this topic is edited"
+msgstr "Meddela prenumeranter att detta ämne har redigerats"
+
+#: modules/bbpress.php:267
+msgid "Close this topic"
+msgstr "Stäng detta ämne"
+
+#: modules/bbpress.php:87
+msgid "<strong>ERROR</strong>: You can't duplicate topics."
+msgstr "<strong>FEL</strong>: du kan inte kopiera ämnen."
+
+#: modules/bbpress.php:91 modules/lock.php:58 modules/thanks.php:37
+msgid "<strong>ERROR</strong>: Are you sure you wanted to do that?"
+msgstr "<strong>FEL</strong>: är du säker på att du ville göra det?"
+
+#: modules/bbpress.php:113
+msgid "Duplicate Topic"
+msgstr "Kopiera ämne"
+
+#: modules/bbcodes/load.php:422
+msgid "BBCode you used is not allowed."
+msgstr "BBkoden du använde är inte tillåten."
+
+#: modules/bbcodes/load.php:285
+msgid "Note"
+msgstr "Notering"
+
+#: modules/bbcodes/load.php:477
+msgid ""
+"Your account can't use Advanced BBCodes, they will be stripped before saving."
+msgstr ""
+"Ditt konto kan inte använda avancerad BBkod, denna kommer att rensas ut "
+"innan inlägget sparas."
+
+#: modules/bbcodes/load.php:474
+msgid "You can use BBCodes to format your content."
+msgstr "Du kan använda BBkod för att formatera ditt innehåll."
+
+#: modules/bbpress.php:250
+msgid "<strong>ERROR</strong>: Your reply is too short."
+msgstr "<strong>FEL</strong>: ditt svar är för kort."
+
+#: modules/bbpress.php:256
+msgid "<strong>ERROR</strong>: Your reply is too long."
+msgstr "<strong>Fel</strong>: ditt svar är för långt."
+
+#: modules/bbpress.php:421
+msgid "Reply Title (Maximum Length: %d):"
+msgstr "Svarstitel (maxlängd: %d):"
+
+#: modules/canned.php:36 modules/canned.php:38 modules/canned.php:66
+msgid "Add New"
+msgstr "Lägg till ny"
+
+#: modules/admin.php:181
+msgid "Last Forum Activity"
+msgstr "Senaste forumaktivitet"
+
+#: modules/bbpress.php:190
+msgid "<strong>ERROR</strong>: Your topic title is too short."
+msgstr "<strong>FEL</strong>: din ämnestitel är för kort."
+
+#: modules/canned.php:45 modules/canned.php:69 modules/canned.php:59
+msgid "Parent"
+msgstr "Överordnad"
+
+#: modules/canned.php:44
+msgid "Found In Trash"
+msgstr "Funna i papperskorgen"
+
+#: modules/integrate.php:138 modules/integrate.php:136
+msgid "This is sticky topic"
+msgstr "Detta är ett klistrat ämne"
+
+#: modules/integrate.php:126 modules/integrate.php:124
+msgid "Replyed to this topic"
+msgstr "Svarade i detta ämne"
+
+#: modules/canned.php:43
+msgid "Found"
+msgstr "Funna"
+
+#: modules/lock.php:54
+msgid "<strong>ERROR</strong>: You can't lock topics."
+msgstr "<strong>FEL</strong>: du kan inte låsa ämnen."
+
+#: modules/canned.php:64 modules/canned.php:41
+msgid "View"
+msgstr "Visa"
+
+#: modules/canned.php:68
+msgid "Choose from the most used"
+msgstr "Välj bland de mest använda"
+
+#: modules/canned.php:67
+msgid "Add or remove"
+msgstr "Lägga till eller ta bort"
+
+#: modules/canned.php:40 modules/canned.php:70 modules/toolbar.php:126
+msgid "New"
+msgstr "Nytt"
+
+#: modules/canned.php:46 modules/canned.php:62
+msgid "All"
+msgstr "Alla"
+
+#: modules/integrate.php:92
+msgid "Registered On"
+msgstr "Blev medlem"
+
+#: modules/canned.php:72
+msgid "Separate"
+msgstr "Avgränsa"
+
+#: widgets/searchtopics.php:32 widgets/onlineusers.php:39
+#: widgets/newposts.php:42 widgets/topicsviews.php:37 widgets/topicinfo.php:43
+#: widgets/userprofile.php:44
+msgid "Extra"
+msgstr "Extra"
+
+#: modules/canned.php:72
+msgid "with commas"
+msgstr "med kommatecken"
+
+#: modules/navmenu.php:18
+msgid "bbPress Specific"
+msgstr "bbPress-specifikt"
+
+#: modules/lock.php:87
+msgid "Unlock"
+msgstr "Lås upp"
+
+#: modules/notify.php:160 modules/notify.php:187 modules/notify.php:165
+msgid "No log saved."
+msgstr "Ingen logg sparad."
+
+#: modules/navmenu.php:74
+msgid "bbPress Topic Views"
+msgstr "bbPress ämnesvyer"
+
+#: modules/canned.php:71
+msgid "found"
+msgstr "funna"
+
+#: modules/lock.php:91
+msgid "Lock"
+msgstr "Lås"
+
+#: modules/private.php:130
+msgid "This topic is marked as private"
+msgstr "Det här ämnet är markerat som privat"
+
+#: modules/private.php:204
+msgid "This reply has been set as private."
+msgstr "Detta svar har satts som privat."
+
+#: modules/private.php:238
+msgid "Set this as private topic"
+msgstr "Ange detta som ett privat ämne"
+
+#: modules/private.php:196
+msgid "This topic has been set as private."
+msgstr "Detta ämne har satts som privat."
+
+#: modules/toolbar.php:187
+msgid "Repair Forums"
+msgstr "Reparera forum"
+
+#: modules/toolbar.php:175
+msgid "bbPress"
+msgstr "bbPress"
+
+#: modules/toolbar.php:199
+msgid "Reset Forums"
+msgstr "Återställ forum"
+
+#: modules/toolbar.php:193
+msgid "Import Forums"
+msgstr "Importera forum"
+
+#: modules/signature.php:217
+msgid "HTML will be stripped."
+msgstr "HTML kommer att tas bort."
+
+#: modules/thanks.php:97
+msgid "Thanks"
+msgstr "Tack"
+
+#: modules/thanks.php:90
+msgid "Remove Thanks"
+msgstr "Ta bort tack"
+
+#: modules/private.php:110
+msgid "Reply is marked as private."
+msgstr "Svaret är markerat som privat."
+
+#: modules/private.php:250
+msgid "Set this as private reply"
+msgstr "Ange detta som ett privat svar"
+
+#: modules/private.php:102
+msgid "Topic is marked as private."
+msgstr "Ämnet är markerat som privat."
+
+#: modules/signature.php:221
+msgid "BBCodes will be stripped."
+msgstr "BBKoder kommer att tas bort."
+
+#: modules/toolbar.php:86 modules/toolbar.php:156 modules/toolbar.php:9
+msgid "Forums"
+msgstr "Forum"
+
+#: modules/canned.php:61
+msgid "Popular"
+msgstr "Populära"
+
+#: modules/toolbar.php:210
+msgid "Toolbox"
+msgstr "Toolbox"
+
+#: modules/toolbar.php:216
+msgid "Front Page"
+msgstr "Startsida"
+
+#: theme/gdbbx-form-attachment-edit.php:2
+msgid "Current Attachments"
+msgstr "Nuvarande bilagor"
+
+#: modules/tracking.php:142
+msgid "Online"
+msgstr "Online"
+
+#: modules/toolbar.php:264
+msgid "Information"
+msgstr "Information"
+
+#: theme/gdbbx-widget-userprofile.php:107
+msgid "Login &amp; Registration"
+msgstr "Inloggning &amp; registrering"
+
+#: modules/tracking.php:142
+msgid "Offline"
+msgstr "Offline"
+
+#: theme/gdbbx-form-signature-buddypress.php:1
+#: theme/gdbbx-form-signature-generic.php:1
+msgid "Forum Signature"
+msgstr "Forumsignatur"
+
+#: theme/gdbbx-form-signature-buddypress.php:7
+#: theme/gdbbx-form-signature-bbpress.php:12
+#: theme/gdbbx-form-signature-generic.php:7
+msgid "Signature length is limited to %s characters."
+msgstr "Signaturens längd är begränsad till %s tecken."
+
+#: modules/toolbar.php:293
+msgid "Plugin Homepage"
+msgstr "Tilläggets webbplats"
+
+#: modules/toolbar.php:279
+msgid "bbPress Homepage"
+msgstr "bbPress webbplats"
+
+#: modules/toolbar.php:286
+msgid "Dev4Press Homepage"
+msgstr "Dev4Press webbplats"
+
+#: theme/gdbbx-form-attachment.php:13
+msgid "Add another file"
+msgstr "Lägg till ytterligare fil"
+
+#: theme/gdbbx-widget-searchform.php:2
+msgid "Search for:"
+msgstr "Sök efter:"
+
+#: theme/gdbbx-thanks-list.php:6
+msgid ""
+"Total of %s users thanked author for this post. Here are last %s listed."
+msgstr ""
+"Totalt %s användare tackade författaren för det här inlägget. Här är dom "
+"senaste %s."
+
+#: theme/gdbbx-widget-userprofile.php:18
+msgid "edit profile"
+msgstr "redigera profil"
+
+#: theme/gdbbx-list-canned-replies.php:1
+msgid "Show Canned Replies List"
+msgstr "Visa lista med arkiverade svar"
+
+#: modules/attachments/front.php:428
+msgid "detach"
+msgstr "avskilj"
+
+#: theme/gdbbx-widget-newposts.php:15
+msgid "by"
+msgstr "av"
+
+#: theme/gdbbx-widget-userprofile.php:56
+msgid "Subsciptions"
+msgstr "Prenumerationer"
+
+#: theme/gdbbx-widget-userprofile.php:79
+msgid "Important Links"
+msgstr "Viktiga länkar"
+
+#: theme/gdbbx-list-canned-replies.php:31
+msgid "Uncategorized"
+msgstr "Okategoriserade"
+
+#: theme/gdbbx-list-canned-replies.php:2
+msgid "Hide Canned Replies List"
+msgstr "Dölj lista med arkiverade svar"
+
+#: theme/gdbbx-widget-userprofile.php:24
+msgid "log out"
+msgstr "logga ut"
+
+#: theme/gdbbx-form-lock.php:2
+msgid "This topic is temporaraly locked."
+msgstr "Detta ämne är temporärt låst."
+
+#: widgets/onlineusers.php:27
+msgid "List of current online users."
+msgstr "Lista över användare online just nu."
+
+#: widgets/newposts.php:30
+msgid "New topics or topics with new replies."
+msgstr "Nya ämnen eller ämnen med nya svar."
+
+#: widgets/topicsviews.php:36 widgets/topicinfo.php:42 widgets/newposts.php:41
+#: widgets/onlineusers.php:38 widgets/userprofile.php:43
+msgid "Content"
+msgstr "Innehåll"
+
+#: widgets/topicsviews.php:26
+msgid "Topics Views"
+msgstr "Ämnesvyer"
+
+#: widgets/topicsviews.php:108
+msgid "Topic View: %s"
+msgstr "Ämnesvy: %s"
+
+#: widgets/newposts.php:131
+msgid "No topics found"
+msgstr "Inga ämnen hittades"
+
+#: widgets/topicinfo.php:31
+msgid "Information about current topic."
+msgstr "Information om aktuellt ämne."
+
+#: widgets/searchtopics.php:21
+msgid "Search form for topic search."
+msgstr "﻿Sökformulär för ämnessökning."
+
+#: widgets/newposts.php:31
+msgid "New Posts"
+msgstr "Nya inlägg"
+
+#: widgets/topicinfo.php:154
+msgid "Participants"
+msgstr "Deltagare"
+
+#: widgets/topicinfo.php:140
+msgid "Voices"
+msgstr "Deltagare"
+
+#: widgets/topicinfo.php:127
+msgid "Closed"
+msgstr "Stängt"
+
+#: theme/gdbbx-widget-userprofile.php:95
+msgid "Log In"
+msgstr "Logga in"
+
+#: widgets/userprofile.php:32
+msgid "Logged in user profile and links."
+msgstr "Inloggad användarprofil och länkar."
+
+#: widgets/topicinfo.php:112
+msgid "Posted"
+msgstr "Postat"
+
+#: widgets/topicinfo.php:119
+msgid "Last Activity"
+msgstr "Senaste aktivitet"
+
+#: widgets/topicsviews.php:25
+msgid "List of the selected topic views."
+msgstr "En lista över valda ämnesvyer."
+
+#~ msgid "Global Settings"
+#~ msgstr "Globala inställningar"
+
+#~ msgid "Reply or Topic content"
+#~ msgstr "Inläggsinnehåll"
+
+#~ msgid "Both header and content"
+#~ msgstr "Både inläggshuvud och innehåll"
+
+#~ msgid "Code"
+#~ msgstr "Kod"
+
+#~ msgid "Notifications Email"
+#~ msgstr "E-post för notifikationer"
+
+#~ msgid "Various Tweaks"
+#~ msgstr "Diverse förbättringar"
+
+#~ msgid "Remove bbPress dashboard widget"
+#~ msgstr "Ta bort bbPress panelwidget"
+
+#~ msgid "This will remove bbPress 'Right now in the forums' dashboard widget."
+#~ msgstr "Detta tar bort bbPress panelwidget \"Just nu i forumen'."
+
+#~ msgid "Titles Length"
+#~ msgstr "Längd för titlar"
+
+#~ msgid "Length Value"
+#~ msgstr "Värde för längd"
+
+#~ msgid "Disable Attachments"
+#~ msgstr "Inaktivera bifogade filer"
+
+#~ msgid "Settings to override"
+#~ msgstr "Inställningar att åsidosätta"
+
+#~ msgid "Override Default Settings"
+#~ msgstr "Åsidosätt standardinställningar"
+
+#~ msgid "Disable Private Checkbox"
+#~ msgstr "Inaktivera checkbox för privat innehåll"
+
+#~ msgid "Hide Files From Visitors"
+#~ msgstr "Dölj filer för besökare"
+
+#~ msgid "New Reply"
+#~ msgstr "Nytt svar"
+
+#~ msgid "New Topic"
+#~ msgstr "Nytt ämne"
+
+#~ msgid "Attachments module is disabled."
+#~ msgstr "Bilagsmodulen är inaktiverad."
+
+#~ msgid "You don't have active profile on this website."
+#~ msgstr "Du har ingen aktiv profil på denna webbplats."

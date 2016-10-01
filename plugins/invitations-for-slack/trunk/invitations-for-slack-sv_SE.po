@@ -1,0 +1,172 @@
+# Translation of Development (trunk) in Swedish
+# This file is distributed under the same license as the Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-03-13 23:29+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.7\n"
+"Project-Id-Version: Invitations for Slack sv_SE\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: WordPress Sverige <info@wpsv.se>\n"
+"Language: sv_SE\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: invitations-for-slack/core/rest.php:106
+msgid "Oops. Can't talk to Slack right now."
+msgstr "Oops. Vi kan inte kommunicera med Slack just nu."
+
+#: invitations-for-slack/admin/settings.php:117
+msgid "Channels to join"
+msgstr "Kanaler att gå med i"
+
+#: invitations-for-slack/admin/settings.php:129
+msgid "Enter the names of channels to automatically join. One channel per line."
+msgstr "Ange namn på kanaler att automatiskt gå med i. En kanal per rad."
+
+#: invitations-for-slack/admin/settings.php:137
+msgid "Shortcodes"
+msgstr "Kortkoder"
+
+#: invitations-for-slack/admin/settings.php:140
+msgid "The following shortcodes are required to create the the Slack invitation forms. Use them on your invitation page(s)."
+msgstr "Följande kortkoder krävs för att skapa formulären för Slack-inbjudningar. Använde dessa på dina inbjudningssidor."
+
+#: invitations-for-slack/admin/settings.php:143
+msgid "The primary code to allow users to sign up"
+msgstr "Den primära koden för att låta användare registrera sig"
+
+#: invitations-for-slack/admin/settings.php:145
+msgid "Shows a smaller Slack badge. Clickable is \"yes\" by default. Specifying \"no\" will just show a static badge."
+msgstr "Visar en mindre Slack-knapp. Klickbar är satt till \"ja\" som standards. Anges \"nej\" så visas endast en statisk knapp."
+
+#: invitations-for-slack/admin/settings.php:153
+#: invitations-for-slack/core/functions.php:144
+msgid "You need to be logged in to get your invite to join [TEAM_NAME] on Slack."
+msgstr "Du måste vara inloggad för att få din inbjudan till [TEAM_NAME] Slack."
+
+#: invitations-for-slack/admin/settings.php:157
+msgid "Logged in users"
+msgstr "Inloggade användare"
+
+#: invitations-for-slack/admin/settings.php:164
+msgid "Only logged in users can get invites."
+msgstr "Endast inloggade användare kan skapa inbjudan."
+
+#: invitations-for-slack/admin/settings.php:170
+msgid "Allow e-mail different to user account e-mail. <small>( Not recommended )</small>"
+msgstr "Tillåt användning av annan än registrerad e-postadress. <small>( Inte rekommenderat )</small>"
+
+#: invitations-for-slack/admin/settings.php:173
+msgid "Message for visitors (logged out users)."
+msgstr "Meddelande för besökare (ej inloggade)."
+
+#: invitations-for-slack/admin/settings.php:178
+msgid "Type in a message to display to logged out users. Keep it brief!"
+msgstr "Ange ett meddelande att visa för icke inloggade användare. Håll det kort!"
+
+#: invitations-for-slack/admin/settings.php:179
+msgid "Use [TEAM_NAME] as a placeholder for your team's name."
+msgstr "Använd [TEAM_NAME] som en platshållare för ditt teams namn."
+
+#: invitations-for-slack/admin/settings.php:232
+msgid "Invitations for Slack updated."
+msgstr "Invitations for Slack uppdaterat."
+
+#: invitations-for-slack/core/functions.php:197
+#: invitations-for-slack/core/functions.php:212
+msgid "<strong class=\"online\">%s</strong> users online. <strong class=\"registered\">%s</strong> registered."
+msgstr "<strong class=\"online\">%s</strong> användare online. <strong class=\"registered\">%s</strong> registrerade."
+
+#: invitations-for-slack/core/functions.php:207
+msgid "Join <strong>%s</strong> on Slack."
+msgstr "Gå med <strong>%s</strong> på Slack."
+
+#: invitations-for-slack/core/functions.php:209
+msgid "Awesome! You're already chatting with<br/><strong>%s</strong>."
+msgstr "Grymt! Du chattar redan med<br/><strong>%s</strong>."
+
+#: invitations-for-slack/core/functions.php:221
+msgid "Yes. Please send my invite."
+msgstr "Ja. Vänligen skicka mig en inbjudan."
+
+#: invitations-for-slack/core/functions.php:225
+msgid "Join with another e-mail address?"
+msgstr "Registrera dig med en annan e-postadress?"
+
+#: invitations-for-slack/core/rest.php:133
+msgid "You're Invited! Check your inbox."
+msgstr "Du är inbjuden! Kolla din e-post."
+
+#: invitations-for-slack/core/rest.php:139
+msgid "Already part of the team!"
+msgstr "Redan med i teamet!"
+
+#: invitations-for-slack/core/rest.php:143
+msgid "Already sent. Check your inbox."
+msgstr "Redan skickat. Kolla din e-post."
+
+#: invitations-for-slack/core/rest.php:146
+msgid "Oops. Invalid e-mail address."
+msgstr "Oops. Ogiltig e-postadress."
+
+#: invitations-for-slack/core/rest.php:149
+msgid "\"%s\". Let us know!"
+msgstr "\"%s\". Berätta för oss!"
+
+#: invitations-for-slack/front/shortcodes.php:54
+msgid "Join us on Slack!"
+msgstr "Gå med oss på Slack!"
+
+#: invitations-for-slack/front/shortcodes.php:56
+msgid "%d / %d"
+msgstr "%d / %d"
+
+#: invitations-for-slack/front.php:50
+msgid "Processing..."
+msgstr "Arbetar..."
+
+#: invitations-for-slack.php:118
+msgid "Could not work out where %s is installed. Please reinstall."
+msgstr "Kunde inte fastställa var %s är installerat. Vänligen installera om."
+
+#. #-#-#-#-#  tmp-invitations-for-slack.pot (Invitations for Slack 1.0.2)
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  tmp-invitations-for-slack.pot (Invitations for Slack 1.0.2)
+#. Author URI of the plugin/theme
+msgid "http://rheinard.org"
+msgstr "http://rheinard.org"
+
+#. Description of the plugin/theme
+msgid "Build a Slack community by allowing your visitors (or registered users) to invite themselves to your Slack team. Just add your Slack token and use the shortcodes wherever you want your visitors to be able to invite themselves from. Uses a convenient popup that communicates with Slack via the Slack API and WP REST API."
+msgstr "Bygg en community med Slack genom att låta dina besökare (eller registrerade användare) bjuda in sig själva i ditt Slack-team. Lägg till din token för Slack och använda kortkoder där du vill att besökare ska kunna skicka en inbjudan till sig själva. Använder en smidig popup som kommunicerar med Slack via Slack API och WP REST API."
+
+#. Author of the plugin/theme
+msgid "Rheinard Korf"
+msgstr "Rheinard Korf"
+
+#. #-#-#-#-#  tmp-invitations-for-slack.pot (Invitations for Slack 1.0.2)
+#. Plugin Name of the plugin/theme
+#: invitations-for-slack/admin/menu.php:45
+#: invitations-for-slack/admin/settings.php:41
+msgid "Invitations for Slack"
+msgstr "Invitations for Slack"
+
+#: invitations-for-slack/admin/menu.php:46
+msgid "Invitations<br/>for Slack"
+msgstr "Invitations<br/>for Slack"
+
+#: invitations-for-slack/admin/settings.php:86
+msgid "Web API Token"
+msgstr "Web API Token"
+
+#: invitations-for-slack/admin/settings.php:98
+msgid "Enter your Web API token here"
+msgstr "Ange din Web API token här"
+
+#: invitations-for-slack/admin/settings.php:104
+msgid "You can generate you WEB API token at %s. Note: You will need to be an administrator of the team."
+msgstr "Du kan generera din Web API token på %s. Notera: Du måste vara administratör för teamet."
